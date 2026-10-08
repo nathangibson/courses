@@ -57,3 +57,14 @@ GitHub Pages `--safe` builds will not run it.
 - Jekyll collection docs strip a leading ISO date from filenames when deriving
   the `:title` slug, so `2025-10-13-1.md` becomes URL `/courses/25rw/1` unless a
   `title:`/`permalink:` is set. Decide the final slug scheme during bulk migration.
+- **Collection permalinks must NOT repeat the baseurl.** With `baseurl: /courses`,
+  use `permalink: /25rw/:title` (not `/courses/25rw/:title`) or you get a doubled
+  `/courses/courses/...` path.
+- **reveal.js has a nested submodule** (`plugin/menu` → denehyg/reveal.js-menu).
+  Always clone/init recursively — `git submodule update --init --recursive` — or
+  `plugin/menu/menu.js` is missing and every slide deck is blank
+  (`RevealMenu is not defined` → `Reveal.initialize()` throws). GitHub Actions
+  handles this via `submodules: recursive` in the checkout step.
+- To preview locally the deployed structure, serve the built `_site` under a
+  `/courses/` prefix (e.g. symlink `courses -> _site` and serve the parent);
+  `jekyll serve --baseurl` misroutes deep collection subpaths.
