@@ -1,0 +1,64 @@
+<head>
+  <title>
+    {% if page.title == "Home" %} {{ site.title }} | {{ site.description }} {%
+    else %} {{ page.title }} | {{ site.title }} {% endif %}
+  </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" />
+  {% if page.redirect %}
+  <meta http-equiv="refresh" content="0; url={{ page.redirect }}" />
+  {% endif %}
+  <!-- Reveal.js stylesheets -->
+  <link
+    rel="stylesheet"
+    href="{{site.baseurl}}/assets/reveal.js/dist/reset.css"
+  />
+  <link
+    rel="stylesheet"
+    href="{{site.baseurl}}/assets/reveal.js/dist/reveal.css"
+  />
+  <link
+    rel="stylesheet"
+    href="{{site.baseurl}}/assets/reveal.js/dist/theme/black.css"
+  />
+
+  <!-- Reveal.js theme used for syntax highlighted code -->
+  <link
+    rel="stylesheet"
+    href="{{site.baseurl}}/assets/reveal.js/plugin/highlight/monokai.css"
+  />
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css" />
+  <!-- Use Atom -->
+  {% feed_meta %}
+  <!-- RSS-v2.0
+  <link href="{{ site.url }}{{ site.baseurl }}/rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
+  //-->
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Roboto|Source+Code+Pro"
+  />
+  <!-- Font Awesome, see https://fontawesome.com/docs/web/setup/host-yourself/webfonts -->
+  <link href="{{ site.baseurl }}/assets/fontawesome/css/fontawesome.min.css" rel="stylesheet" />
+  <link href="{{ site.baseurl }}/assets/fontawesome/css/solid.min.css" rel="stylesheet" />
+  <link href="{{ site.baseurl }}/assets/fontawesome/css/brands.min.css" rel="stylesheet" />
+  <script
+    type="text/javascript"
+    async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
+  ></script>
+  <!-- Use Jekyll SEO plugin -->
+  {% seo %}
+  {% if page.background-opacity %}
+  {% assign background-opacity = page.background-opacity %}
+  {% else %}
+  {% assign background-opacity = site.data.settings.reveal-slides.background-opacity %}
+  {% endif %}
+  <style>
+    .reveal .backgrounds {
+      opacity: {{ background-opacity }};
+    }
+  </style>
+    
+</head>

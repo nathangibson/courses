@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post-content">
+  <h1 class="page-title">{{ page.title }}</h1>
+
+  <div class="featured-image">
+    <figure>
+      <img src="assets\img\glossary-ms-designer.jpeg" />
+      <figcaption>
+        {{ page.image_attribution | markdownify }}
+      </figcaption>
+    </figure>
+  </div>
+  <article class="content-with-margin"> {{ content }}</article>
+</div>

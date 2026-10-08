@@ -1,0 +1,22 @@
+---
+layout: default
+title: Courses
+permalink: /courses/
+---
+
+<h1>Course Websites</h1>
+
+<p>Course websites and teaching materials by Nathan P. Gibson.</p>
+
+<ul class="course-list">
+  {% comment %}
+    Courses are Jekyll collections named course_<slug>.
+    Each is listed here; add a collection to _config.yml to surface it.
+  {% endcomment %}
+  {% if site.course_25rw %}
+  <li>
+    <h3><a href="{{ site.baseurl }}/courses/25rw/1">Einführung in die Religionswissenschaft (25rw)</a></h3>
+    <p>Winter semester 2025/2026.</p>
+  </li>
+  {% endif %}
+</ul>

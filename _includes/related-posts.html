@@ -1,0 +1,40 @@
+<div class="related">
+  <!-- <h2>{{ site.data.settings.related_posts }}</h2> -->
+  {% assign listed_posts_urls = page.url | split: ' ' %}
+  {% for tag in page.tags %}  {% if
+    listed_posts_urls contains mypost.url %} {% else %}
+  {% assign slide_posts = site.categories.slides | where: "tags", tag %}
+  {% assign tutorials = site.categories.tutorial | where: "tags", tag %}
+  {% assign others = site.categories.tutorial | where_exp:"item", "item.category != 'slides' and item.category != 'tutorial'" %}
+  <ul class="related-posts">
+    {% if slide_posts.size > 0 %}
+    <h2>
+      <i class="fa-solid fa-person-chalkboard"></i>
+      Slides
+    </h2>
+    {% endif %}
+    {% for item in slide_posts %}
+    {% include related-post-preview.html %}
+    {% endfor %}
+    {% if tutorials.size > 0 %}
+    <h2>
+      <i class="fa-solid fa-laptop-code"></i>
+      Tutorials
+    </h2>
+    {% endif %}
+    {% for item in tutorials %}
+    {% include related-post-preview.html %}
+    {% endfor %}
+    {% if others.size > 0 %}
+    <h2>
+      <i class="fa-solid fa-arrows-to-circle"></i>
+      Related
+    </h2>
+    {% endif %}
+    {% for item in others %}
+    {% include related-post-preview.html %}
+    {% endfor %}
+    {% assign listed_posts_urls = listed_posts_urls | push: other.url %} {%
+    endif %} {% endfor %} 
+  </ul>
+</div>

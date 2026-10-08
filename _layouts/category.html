@@ -1,0 +1,8 @@
+---
+layout: default
+---
+
+{% assign items = site.posts | sort: "date" | where:"category",page.category %}
+{% for item in items %}
+{% include related-post-preview.html %}
+{% endfor %}

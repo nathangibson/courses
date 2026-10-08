@@ -1,0 +1,6 @@
+[submodule "assets/reveal.js"]
+	path = assets/reveal.js
+	url = https://github.com/jirelations/reveal.js.git
+[submodule "assets/course-website-tools"]
+	path = assets/course-website-tools
+	url = https://github.com/jirelations/course-website-tools.git

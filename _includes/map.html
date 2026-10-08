@@ -1,0 +1,26 @@
+<div
+  id="map-container"
+  style="border: 1px solid black; width: 900px; height: 650px"
+></div>
+<br /><small
+  ><a id="map-link" href="https://www.openstreetmap.org/#map=13/50.1212/8.6008"
+    >Größere Karte anzeigen</a
+  ></small
+>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    // Generate a unique cache-busting parameter
+    const cacheBuster = new Date().getTime();
+    const iframeSrc = `https://www.openstreetmap.org/export/embed.html?mlat=50.1212&mlon=8.6008&zoom=13&layer=mapnik&cb=${cacheBuster}`;
+
+    // Create and insert the iframe
+    const iframe = document.createElement("iframe");
+    iframe.width = "900";
+    iframe.height = "650";
+    iframe.src = iframeSrc;
+    iframe.style.border = "1px solid black";
+
+    document.getElementById("map-container").appendChild(iframe);
+  });
+</script>

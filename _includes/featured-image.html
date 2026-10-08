@@ -1,0 +1,12 @@
+{% assign image = include.image | default: page.image %}
+<div class="featured-image">
+    <figure>
+      <img src="{{ site.baseurl }}/assets/img/{{ image }}" />
+      <figcaption>
+        Image: {% capture image_attribution %} {% include_relative {{ image
+        }}-attribution.md %} {% endcapture %} {{ image_attribution }}
+        <!-- Markdownify is rendering this as a code block instead of transforming MD > HTML  -->
+        <!-- {{ image_attribution | markdownify }} -->
+      </figcaption>
+    </figure>
+</div>

@@ -1,0 +1,1 @@
+Western Wall Plaza and Temple Mount by Florian Prischl, https://www.flickr.com/photos/flo_p/12718036224/. CC BY-SA 2.0.

@@ -1,0 +1,22 @@
+<div class="readings">
+  <h2>
+    <i class="fa-solid fa-book-open" aria-hidden="true"></i> Suggested Readings
+  </h2>
+  <ul>
+    {% for reading in zotero-readings %} {% assign bibl =
+    course_zotero.references | where:"id",reading %}
+    <li>
+      <a href="{{ bibl[0].URL }}">
+        {{ bibl[0].author[0].family }}{{ bibl[0].author[0].literal }}, {{
+        bibl[0].title }} ({{ bibl[0].issued[0].year }}), {{ bibl[0].page }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+  Zotero:
+  <a
+    href="{{ course_settings.base-urls.zotero }}/tags/{{ zotero-tag }},_further-reading/library"
+    >Further Reading (optional)</a
+  >
+  <i class="fa-solid fa-arrow-up-right-from-square"></i>
+</div>

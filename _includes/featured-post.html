@@ -1,0 +1,17 @@
+<article>
+  <a href="{{ site.baseurl }}{{ post.url }}">
+    <div
+      class="featured-post"
+      {%
+      if
+      image
+      %}style="background-image:url({{ site.baseurl }}/assets/img/{{ image }})"
+      {%
+      endif
+      %}
+    >
+      <h2 class="date"><span>{{ post.date | date_to_string }}</span></h2>
+      <h2 class="post-title"><span>{{ custom_title }}</span></h2>
+    </div>
+  </a>
+</article>

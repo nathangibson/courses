@@ -1,0 +1,1 @@
+Dhanvanthari, Göttin der Heilkunst, by [Rajasekhar1961](https://commons.wikimedia.org/wiki/User:Rajasekhar1961), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons.

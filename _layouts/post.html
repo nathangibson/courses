@@ -1,0 +1,73 @@
+---
+layout: default
+---
+
+{% include course-data.html %}
+
+{% assign sessions = course_sessions | where: "session",page.session | first
+%}
+
+<!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
+{% assign title = sessions.title | default: page.title %} {% assign long-topic =
+sessions.long-topic | default: page.long-topic %} {% assign image = page.image |
+default: sessions.image %} {% assign zotero-tag = page.zotero-tag | default:
+sessions.zotero-tag %} {% assign poll-slug = page.poll-slug | default:
+zotero-tag %} {% assign zotero-readings = page.zotero-readings | default:
+sessions.zotero-readings %} {% assign pad-slug = page.pad-slug | default:
+sessions.pad-slug %} {% assign objective = page.objective | default:
+sessions.objective %}
+
+<div class="post-content">
+  <h1>{{ title }}</h1>
+  {% if site.hide_post_date != true %} {% include post-date.html %} {% endif %}
+  {% if long-topic %}
+  <h2>{{ long-topic }}</h2>
+  {% endif %}
+  {% if image %}
+  {% include featured-image.html image=image %}
+  {% endif %}
+  <article>
+    <!-- <a href="{{ site.data.settings.base-urls.zotero }}/tags/{{ zotero-tag }}/library" class="menu-link">
+      <i class="fa-solid fa-book" aria-hidden="true"></i>
+    </a>
+    <a href="{{ site.data.settings.base-urls.zotero }}/tags/{{ zotero-tag }}/library" class="menu-link">
+      Readings
+    </a>
+
+    <a href="{{ site.data.settings.base-urls.pad }}{{ pad-slug }}" class="menu-link">
+      <i class="fa-solid fa-clipboard" aria-hidden="true"></i>
+    </a>
+    <a href="{{ site.data.settings.base-urls.pad }}{{ pad-slug }}" class="menu-link">
+      Shared workspace
+    </a> -->
+
+    {% if objective %}
+    <h2><i class="fa-solid fa-check"></i> Learning objective</h2>
+    {{ objective }} {% endif %} {% include readings.html %} {{ content }}
+  </article>
+
+  {% assign glossary_terms_for_session = "" %} {% for row in course_glossary
+  %} {% if row.session contains page.tags %} {% assign
+  glossary_terms_for_session = glossary_terms_for_session | append: row.term |
+  append: "," %} {% endif %} {% endfor %} {% if glossary_terms_for_session != ""
+  %}
+  <h2><i class="fa-solid fa-search"></i>Glossary Terms</h2>
+  <table>
+    <tr>
+      <th>Term</th>
+      <th>Definition</th>
+    </tr>
+    {% for row in course_glossary %} {% if row.session contains page.tags %}
+    <tr>
+      <td>{{ row.term }}</td>
+      <td>{{ row.definition }}</td>
+    </tr>
+    {% endif %} {% endfor %}
+  </table>
+  {% endif %} 
+
+  {% if site.hide_post_share != true %} {%
+  include post-share.html %} {% endif %} {% if site.hide_related_posts != true
+  %} {% include related-posts.html %} {% endif %} {% if
+  site.data.settings.disqus.comments %} {% include disqus.html %} {% endif %}
+</div>

@@ -1,0 +1,29 @@
+{%- comment -%}
+  Resolve per-course site data from the collection the current page belongs to.
+
+  Usage: {% include course-data.html %} at the top of a course layout/include.
+  It sets these variables for the rest of the template:
+    course_name   -> collection key, e.g. "course_25rw"
+    course_slug   -> human slug, e.g. "25rw"  (collection key minus "course_")
+    course_sessions -> site.data.<collection>.sessions (from _data/<collection>/sessions.csv)
+    course_glossary -> site.data.<collection>.glossary
+    course_zotero   -> site.data.<collection>.zotero
+    course_settings -> site.data.<collection>.settings
+
+  For non-course (site) pages these fall back to the global root data
+  (site.data.sessions / site.data.glossary / site.data.zotero / site.data.settings).
+{%- endcomment -%}
+{%- assign course_name = page.collection -%}
+{%- if course_name and course_name != "" and site.data[course_name] -%}
+  {%- assign course_slug = course_name | remove_first: "course_" -%}
+  {%- assign course_sessions = site.data[course_name].sessions -%}
+  {%- assign course_glossary = site.data[course_name].glossary -%}
+  {%- assign course_zotero = site.data[course_name].zotero -%}
+  {%- assign course_settings = site.data[course_name].settings -%}
+{%- else -%}
+  {%- assign course_slug = "" -%}
+  {%- assign course_sessions = site.data.sessions -%}
+  {%- assign course_glossary = site.data.glossary -%}
+  {%- assign course_zotero = site.data.zotero -%}
+  {%- assign course_settings = site.data.settings -%}
+{%- endif -%}

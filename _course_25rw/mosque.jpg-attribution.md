@@ -1,0 +1,1 @@
+Vakil Mosque, Shiraz, Iran. Photo by <a href="https://unsplash.com/de/@fkaymak?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Faruk Kaymak</a> on <a href="https://unsplash.com/de/fotos/braune-betongebaude-nahaufnahme-P_Ne56WEe5s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>.

@@ -1,0 +1,42 @@
+# Site Build Settings — consolidated course website
+# Served at https://npgibson.com/courses
+
+url: https://npgibson.com
+baseurl: /courses
+
+# --- Collections: one per course ---
+# Each course's markdown lives in its own collection source directory
+# (e.g. _course_25rw/). Docs render at /courses/<course>/<title>.
+# List a course here the moment its content lands in the repo.
+collections:
+  course_25rw:
+    output: true
+    permalink: /courses/25rw/:title
+#  course_25ki:
+#    output: true
+#    permalink: /courses/25ki/:title
+
+# jekyll-paginate configuration
+paginate: 50
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+plugins:
+  [
+    jekyll-paginate,
+    jekyll-sitemap,
+    jekyll-feed,
+    jekyll-seo-tag,
+    jekyll-include-cache,
+  ]
+future: true
+
+# Site identity (used for share/RSS absolute URLs and the header/title)
+title: "Kurse"
+description: "Course websites of Nathan P. Gibson"
+author: "Nathan Gibson"
+
+hide_related_posts: false
+hide_post_share: true

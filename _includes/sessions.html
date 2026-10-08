@@ -1,0 +1,7 @@
+<!-- Before calling this include add a sessions variable like {% assign sessions = site.data.sessions | where: "session",page.session | first %}  -->
+<!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
+{% assign custom_title = sessions.title | default: post.title %} {% assign image
+= post.image | default: sessions.image %} {% assign zotero-tag = post.zotero-tag
+| default: sessions.zotero-tag %} {% assign pad-slug = post.pad-slug | default:
+sessions.pad-slug %} {% assign objective = post.objective | default:
+sessions.objective %}

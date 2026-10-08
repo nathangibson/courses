@@ -1,0 +1,15 @@
+<div class="img-row {{ include.class | default: 'r-stretch' }}">
+  {% assign images = include.images | split: ";" %} {% for image_data in images
+  %} {% assign image_parts = image_data | split: "|" %}
+  <div
+    class="image-container {{ image_parts[3] | default: include.image_wrapper_class | default: '' | strip }}"
+  >
+    <img
+      src="{{ image_parts[0] | strip }}"
+      class="{{ image_parts[1] | default: include.image_class | default: '' | strip }}"
+      alt="{{ image_parts[2] | default: include.alt | default: 'Image' | strip }}"
+      style="{{ image_parts[4] | default: '' | strip }}"
+    />
+  </div>
+  {% endfor %}
+</div>
