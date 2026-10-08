@@ -11,7 +11,7 @@ baseurl: /courses
 collections:
   course_25rw:
     output: true
-    permalink: /courses/25rw/:title
+    permalink: /25rw/:title
 #  course_25ki:
 #    output: true
 #    permalink: /courses/25ki/:title

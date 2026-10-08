@@ -2,5 +2,5 @@
 layout: category
 title: Sample Posts
 category: sample
-permalink: /courses/25rw/sample-posts
+permalink: /25rw/sample-posts
 ---

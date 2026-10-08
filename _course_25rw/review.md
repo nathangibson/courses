@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Überblick
-permalink: /courses/25rw/review
+permalink: /25rw/review
 ---
 
 ## Überblick
