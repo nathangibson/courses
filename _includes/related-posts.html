@@ -1,40 +1,38 @@
+{% include course-data.html %}
 <div class="related">
-  <!-- <h2>{{ site.data.settings.related_posts }}</h2> -->
-  {% assign listed_posts_urls = page.url | split: ' ' %}
-  {% for tag in page.tags %}  {% if
-    listed_posts_urls contains mypost.url %} {% else %}
-  {% assign slide_posts = site.categories.slides | where: "tags", tag %}
-  {% assign tutorials = site.categories.tutorial | where: "tags", tag %}
-  {% assign others = site.categories.tutorial | where_exp:"item", "item.category != 'slides' and item.category != 'tutorial'" %}
+  {% comment %}
+    Find related docs for the current session within its own course collection.
+    The original theme used site.categories.slides / .tutorial, which only fill
+    from _posts/ — empty under a collection layout. So we filter the course
+    collection directly by session number and layout.
+  {% endcomment %}
+  {% assign course_name = page.collection %}
+  {% assign cur_session = page.session %}
+
+  {% assign slide_posts = site[course_name] | where: "layout", "reveal" | where: "session", cur_session %}
+  {% assign tutorial_posts = site[course_name] | where: "layout", "tutorial" | where: "session", cur_session %}
+  {% assign other_posts = site[course_name] | where: "session", cur_session | where_exp: "item", "item.layout != 'reveal' and item.layout != 'tutorial' and item.url != page.url" %}
+
   <ul class="related-posts">
     {% if slide_posts.size > 0 %}
-    <h2>
-      <i class="fa-solid fa-person-chalkboard"></i>
-      Slides
-    </h2>
+    <h2><i class="fa-solid fa-person-chalkboard"></i> Slides</h2>
     {% endif %}
     {% for item in slide_posts %}
     {% include related-post-preview.html %}
     {% endfor %}
-    {% if tutorials.size > 0 %}
-    <h2>
-      <i class="fa-solid fa-laptop-code"></i>
-      Tutorials
-    </h2>
+
+    {% if tutorial_posts.size > 0 %}
+    <h2><i class="fa-solid fa-laptop-code"></i> Tutorials</h2>
     {% endif %}
-    {% for item in tutorials %}
+    {% for item in tutorial_posts %}
     {% include related-post-preview.html %}
     {% endfor %}
-    {% if others.size > 0 %}
-    <h2>
-      <i class="fa-solid fa-arrows-to-circle"></i>
-      Related
-    </h2>
+
+    {% if other_posts.size > 0 %}
+    <h2><i class="fa-solid fa-arrows-to-circle"></i> Related</h2>
     {% endif %}
-    {% for item in others %}
+    {% for item in other_posts %}
     {% include related-post-preview.html %}
     {% endfor %}
-    {% assign listed_posts_urls = listed_posts_urls | push: other.url %} {%
-    endif %} {% endfor %} 
   </ul>
 </div>

@@ -1,12 +1,13 @@
+{% include course-data.html %}
 <footer class="footer">
-  {% for item in site.data.settings.social %}
+  {% for item in course_settings.social %}
   <a href="{{ item.link }}" class="menu-link" target="_blank"
     ><i class="fa-{{ item.fa-class }} fa-{{ item.icon }}" aria-hidden="true"></i
   ></a>
   {% endfor %}
   <div class="footer-description">
-    <a href="{{ site.baseurl }}/"
-      >{{ site.title }} | {{ site.description }} by {{ site.author }}</a
+    <a href="{{ site.baseurl }}/{% if course_slug and course_slug != '' %}{{ course_slug }}/{% endif %}"
+      >{{ course_title }}{% if course_slug and course_slug != '' %} | {{ course_settings.description }}{% else %} | {{ site.description }}{% endif %} by {{ site.author }}</a
     >
   </div>
 </footer>

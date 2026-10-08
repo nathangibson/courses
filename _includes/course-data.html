@@ -9,6 +9,7 @@
     course_glossary -> site.data.<collection>.glossary
     course_zotero   -> site.data.<collection>.zotero
     course_settings -> site.data.<collection>.settings
+    course_title    -> course_settings.title (course identity in _data/<collection>/settings.yml)
 
   For non-course (site) pages these fall back to the global root data
   (site.data.sessions / site.data.glossary / site.data.zotero / site.data.settings).
@@ -20,10 +21,12 @@
   {%- assign course_glossary = site.data[course_name].glossary -%}
   {%- assign course_zotero = site.data[course_name].zotero -%}
   {%- assign course_settings = site.data[course_name].settings -%}
+  {%- assign course_title = course_settings.title -%}
 {%- else -%}
   {%- assign course_slug = "" -%}
   {%- assign course_sessions = site.data.sessions -%}
   {%- assign course_glossary = site.data.glossary -%}
   {%- assign course_zotero = site.data.zotero -%}
   {%- assign course_settings = site.data.settings -%}
+  {%- assign course_title = site.title -%}
 {%- endif -%}

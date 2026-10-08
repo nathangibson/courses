@@ -1,0 +1,42 @@
+---
+layout: default
+---
+{% include course-data.html %}
+
+{% comment %}
+  Course home page — lists the course's sessions as a vertical timeline of
+  featured posts (rotated date + image with overlaid title), mirroring the
+  original single-course home. The page that uses this layout must be a doc of
+  the course collection (so page.collection resolves to course_<slug>).
+
+  We filter site[course_name] to docs whose layout is "post" AND level is
+  "overview" — the session posts — sorted newest-first by date. Slide docs
+  (layout: reveal), attribution stubs, and non-overview extras are excluded.
+{% endcomment %}
+
+{% assign course_name = page.collection %}
+{% assign sorted = site[course_name] | where: "layout", "post" | where: "level", "overview" | sort: "date" %}
+
+{% for post in sorted %}
+  {% assign sessions = course_sessions | where: "session", post.session | first %}
+  {% assign custom_title = sessions.title | default: post.title %}
+  {% assign image = post.image | default: sessions.image %}
+  {% assign zotero-tag = post.zotero-tag | default: sessions.zotero-tag %}
+  {% assign pad-slug = post.pad-slug | default: sessions.pad-slug %}
+  {% assign objective = post.objective | default: sessions.objective %}
+  {% include featured-post.html %}
+{% endfor %}
+
+<!-- Course pagination (mirrors the original; harmless when there is no paginator) -->
+<div class="pagination">
+  {% if paginator.next_page %}
+  <a class="pagination-button pagination-active next" href="{{ site.baseurl }}{{ paginator.next_page_path }}">{{ course_settings.pagination.previous_page }}</a>
+  {% else %}
+  <span class="pagination-button">{{ course_settings.pagination.previous_page }}</span>
+  {% endif %}
+  {% if paginator.previous_page %}
+  <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">{{ course_settings.pagination.next_page }}</a>
+  {% else %}
+  <span class="pagination-button">{{ course_settings.pagination.next_page }}</span>
+  {% endif %}
+</div>

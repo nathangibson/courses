@@ -14,7 +14,7 @@ collections:
     permalink: /25rw/:title
 #  course_25ki:
 #    output: true
-#    permalink: /courses/25ki/:title
+#    permalink: /25rw/ki/:title
 
 # jekyll-paginate configuration
 paginate: 50

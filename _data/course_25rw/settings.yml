@@ -3,6 +3,10 @@ disqus:
   comments: false
   disqus_shortname: "millennial-3"
 
+# Course identity (shown in the header/menu bar and footer)
+title: "Einführung in die Religionswissenschaft"
+description: "Aktuelle Themen in der Religionsforschung (course website, winter semester 2025/2026)"
+
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ""
 
