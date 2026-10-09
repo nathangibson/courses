@@ -11,7 +11,13 @@
     {%- assign page_title = page.title -%}
   {%- endif -%}
   <title>
-    {% if page_title == "Home" or page_title == nil or page_title == "" %} {{ course_title | default: site.title }} | {{ course_settings.description | default: site.description }} {% else %} {{ page_title }} | {{ course_title | default: site.title }} {% endif %}
+    {% if page_title == "Home" or page_title == nil or page_title == "" %}
+      {{ course_title | default: site.title }}{% if course_slug != "" %} | {{ course_settings.description | default: site.description }}{% else %} | {{ site.description }}{% endif %}
+    {% elsif page_title == course_title %}
+      {{ course_title }}
+    {% else %}
+      {{ page_title }} | {{ course_title | default: site.title }}
+    {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="utf-8" />
@@ -58,8 +64,10 @@
     async
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
   ></script>
-  <!-- Use Jekyll SEO plugin -->
-  {% seo %}
+{% comment %} Removed jekyll-seo-tag (the `seo` liquid tag): it emitted a duplicate,
+incorrect <title> and generic og:/twitter: meta from page.title (the auto-slug),
+colliding with the session-aware <title> above. Re-add later only if per-page
+titles are set properly in front matter. {% endcomment %}
   {% if page.background-opacity %}
   {% assign background-opacity = page.background-opacity %}
   {% else %}
