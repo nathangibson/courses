@@ -1,1 +1,0 @@
-<a href="https://commons.wikimedia.org/wiki/File:The_Great_Isaiah_Scroll_MS_A_(1QIsa)_-_Google_Art_Project-x4-y0.jpg">Israel Museum</a>, Public domain, via Wikimedia Commons

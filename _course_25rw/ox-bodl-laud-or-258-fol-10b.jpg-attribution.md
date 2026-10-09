@@ -1,1 +1,0 @@
-Arabic translation of the Pentateuch by al-Ḥārith ibn Sinān. Oxford, Bodleian Library MS. Laud Or. 258: <https://digital.bodleian.ox.ac.uk/objects/942c3f56-5a3e-407a-8e74-14209d697fdd/>. Photo © Bodleian Libraries, University of Oxford, CC-BY-NC 4.0.

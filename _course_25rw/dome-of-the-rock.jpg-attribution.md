@@ -1,1 +1,0 @@
-Image by <a href="https://pixabay.com/users/2427999-2427999/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3147104">2427999</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3147104">Pixabay</a>

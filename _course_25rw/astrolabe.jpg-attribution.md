@@ -1,1 +1,0 @@
-Astrolabe, British Museum asset no. 345206001, CC BY-NC-SA 4.0.

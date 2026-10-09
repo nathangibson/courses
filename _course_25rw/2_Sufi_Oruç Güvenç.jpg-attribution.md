@@ -1,1 +1,0 @@
-/Users/nathan/Github/jirelations/23rw/assets/img
