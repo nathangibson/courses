@@ -1,0 +1,1 @@
+Citadel of Damascus. Photo by Mewes at German Wikipedia, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1825479

@@ -1,0 +1,1 @@
+By Biswarup Ganguly, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=65671911

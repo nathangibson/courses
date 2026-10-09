@@ -1,0 +1,1 @@
+Cyprus in Pīrī Reʾīs’ Kitāb-i baḥriyye, 1521. In Tilman Lüdke, “Cyprus,” in Encyclopaedia of Islam Three Online, ed. Kate Fleet et al. (Brill, 2011), https://doi.org/10.1163/1573-3912_ei3_COM_24425.

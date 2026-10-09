@@ -1,0 +1,1 @@
+Synagogue - Miraculous well at Be'er, Gute copy, Dura Europos (Salahiyeh), Yale University Art Gallery, Negative number: dura-ds61~01, https://www.jstor.org/stable/community.3894762. 

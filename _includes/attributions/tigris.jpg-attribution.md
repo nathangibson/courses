@@ -1,0 +1,1 @@
+"Postcard; printed paper; view of local round boats ("goafas") and rafts ("keleks") on the river Tigris in Iraq; the rafts are laden with brushwood fuel and the goafas contain melons" (caption from the British Museum), ca. 1918, https://www.britishmuseum.org/collection/image/1473109001, CC BY-NC-SA 4.0.

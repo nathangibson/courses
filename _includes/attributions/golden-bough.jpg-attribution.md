@@ -1,0 +1,1 @@
+Painting by J. M.W. Turner (1834). Digital image by &lt;a href=&quot;//commons.wikimedia.org/wiki/User:Archaeodontosaurus&quot; title=&quot;User:Archaeodontosaurus&quot;&gt;Didier Descouens&lt;/a&gt; - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=122639818">Link</a>.

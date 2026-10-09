@@ -1,0 +1,1 @@
+Pew Research Center. 2018. “Being Christian in Western Europe.” Pew Research Center’s Religion & Public Life Project. https://www.pewresearch.org/religion/2018/05/29/being-christian-in-western-europe/.

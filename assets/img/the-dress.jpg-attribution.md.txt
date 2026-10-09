@@ -1,0 +1,1 @@
+By Cecilia Bleasdale - https://web.archive.org/web/20150227014959/http://swiked.tumblr.com/post/112073818575/guys-please-help-me-is-this-dress-white-and, Fair use, https://en.wikipedia.org/w/index.php?curid=69200610

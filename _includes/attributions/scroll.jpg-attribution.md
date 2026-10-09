@@ -1,0 +1,1 @@
+Photo by <a href="https://unsplash.com/@tannermardis?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Tanner Mardis</a> on <a href="https://unsplash.com/photos/white-printer-paper-xUXGHzhIbN4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>. Library of Congress, Washington, United States.

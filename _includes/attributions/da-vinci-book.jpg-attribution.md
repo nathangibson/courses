@@ -1,0 +1,1 @@
+By Archive.org link to www.qbbooks.com, Fair use, https://en.wikipedia.org/w/index.php?curid=19639166

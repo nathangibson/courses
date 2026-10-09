@@ -1,0 +1,1 @@
+Temple of Valadier, Genga, Italy. Image by <a href="https://pixabay.com/users/sunbeamphoto-16431709/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5142557">Rocco Stoppoloni</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5142557">Pixabay</a>

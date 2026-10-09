@@ -1,0 +1,1 @@
+Coptic icon of the Archangel Michael. http://www.ebyzantinemuseum.gr/?i=bxm.en.exhibit&id=37, Public Domain, https://commons.wikimedia.org/w/index.php?curid=56357585

@@ -1,0 +1,1 @@
+Photo by Alain Janssoone, Agia Parskevi church,Geroskipou, Cyprus. CC BY-SA 2.5. https://www.all-free-photos.com/show/showphoto.php?idph=PI81216&lang=de

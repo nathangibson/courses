@@ -1,0 +1,1 @@
+By Effi Schweizer - &lt;span class=&quot;int-own-work&quot; lang=&quot;en&quot;&gt;Own work&lt;/span&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=3089552">Link</a>

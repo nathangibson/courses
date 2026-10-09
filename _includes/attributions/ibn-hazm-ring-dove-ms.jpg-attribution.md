@@ -1,0 +1,2 @@
+Wikimedia description: "Ring of the Dove (Ṭawq al-ḥamāma fī 'al-ulfa wa-al-ullīf) by Ibn Hazm, work written around 1022 CE in Játiva, south of Valencia. This manuscript was copied in 1338 most probably in Syria or Egypt. Manuscript since 17th century in Leiden University Library, The Netherlands. Or.927, fol.1a. Ex libris Levinus Warner ("Ex legato viri ampliss. Levini Warneri")"
+https://en.wikipedia.org/wiki/Ibn_Hazm#/media/File:WarnerUBL.jpg

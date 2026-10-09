@@ -1,0 +1,1 @@
+The mosaic floor at the Beit Alpha Synagogue from the early 6th century, in Beit Alpha National Park, Israel. Source: https://pressbooks.bccampus.ca/cavestocathedrals/part/christian-art/, labeled with a [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.

@@ -1,0 +1,1 @@
+Andalusian illustration of the story of Bayad and Riyad in MS Vatican, Bibliotheca Apostolica, Vat. ar. 368, f. 10r. Public domain. https://commons.wikimedia.org/wiki/File:Maler_der_Geschichte_von_Bay%C3%A2d_und_Riy%C3%A2d_002.jpg. See description at https://warfare.ueuo.com/13/Bayad-wa-Riyad-f10r.htm.

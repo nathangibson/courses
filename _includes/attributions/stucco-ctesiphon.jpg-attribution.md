@@ -1,0 +1,1 @@
+Photo: British Museum, "Plaster (stucco) fragment; representing a half palmette-anthemion in margin." From Ctesiphon, ca. 6th cent. https://www.britishmuseum.org/collection/image/1613337084. CC BY-NC-SA 4.0.

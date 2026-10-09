@@ -1,0 +1,1 @@
+Generated with Stable Diffusion in DiffusionBee 2.5.1 (model Stable Diffusion XL Base 1.0, style none) from the prompt "Tower of picnic tables, shot from below".

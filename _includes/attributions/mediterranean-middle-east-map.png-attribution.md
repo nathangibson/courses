@@ -1,0 +1,1 @@
+By Rowanwindwhistler at English Wikipedia, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=71107156

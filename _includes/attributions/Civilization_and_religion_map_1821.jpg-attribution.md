@@ -1,0 +1,1 @@
+By W.C. Woodbridge. - &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;http://vc.lib.harvard.edu/vc/deliver/~maps/012025761&quot;&gt;Moral &amp;amp; political chart of the inhabited World&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=25539442">Link</a>

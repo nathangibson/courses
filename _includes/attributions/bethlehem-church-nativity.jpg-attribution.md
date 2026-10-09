@@ -1,0 +1,1 @@
+The Grotto of the Nativity, painted by Luigi Mayer, late 18th century. By Rawpixel - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=75373616

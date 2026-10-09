@@ -1,0 +1,1 @@
+By This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art. See the Image and Data Resources Open Access Policy, CC0, https://commons.wikimedia.org/w/index.php?curid=60941366

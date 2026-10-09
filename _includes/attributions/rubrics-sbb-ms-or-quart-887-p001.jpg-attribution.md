@@ -1,0 +1,1 @@
+Works of ʿAbdīšōʿ Bar-Berīkā (d. 1318) in Syriac and interlinear Arabic Garshuni, 1865. Berlin, Staatsbibliothek zu Berlin, Ms. or. quart. 887, p. 1. https://resolver.staatsbibliothek-berlin.de/SBB0003268B00000000. Public domain.

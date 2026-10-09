@@ -1,0 +1,1 @@
+"Jesus' resurrection from a 13th-century manuscript, including a detailed depiction of his burial shroud. (Syriac Lectionary. Northern Syria, 1216-1240. Add MS 7170)." https://blogs.bl.uk/asian-and-african/2020/04/qom-mashiho.html.

@@ -1,0 +1,1 @@
+By Unknown author - http://www.revistaclipa.com/wp-content/uploads/2013/10/mircea-eliade-sursa-foto-muzeul-literaturii-romane-536x1024.jpg, Public Domain (US), 1933, https://commons.wikimedia.org/w/index.php?curid=37202537

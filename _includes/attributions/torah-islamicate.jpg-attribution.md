@@ -1,0 +1,1 @@
+A group of clerics holding the Torah. Illustration in Sīrat al-Iskandar Ḏū l-Qarnain by Ibn-Fīlibus al-Yūnānī, Staatsbibliothek zu Berlin, Ms. or. fol. 2195, f. 12v. CC BY-NC-SA 3.0 DE.

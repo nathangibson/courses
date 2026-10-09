@@ -3,10 +3,8 @@
     <figure>
       <img src="{{ site.baseurl }}/assets/img/{{ image }}" />
       <figcaption>
-        Image: {% capture image_attribution %} {% include_relative {{ image
-        }}-attribution.md %} {% endcapture %} {{ image_attribution }}
-        <!-- Markdownify is rendering this as a code block instead of transforming MD > HTML  -->
-        <!-- {{ image_attribution | markdownify }} -->
+        {% assign attr_file = "attributions/" | append: image | append: "-attribution.md" %}
+        Image: {% capture image_attribution %}{% include {{ attr_file }} %}{% endcapture %} {{ image_attribution }}
       </figcaption>
     </figure>
 </div>

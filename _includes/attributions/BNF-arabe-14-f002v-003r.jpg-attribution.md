@@ -1,0 +1,1 @@
+Arabic Pentateuch, copied in 1353 C.E. Bibliothèque nationale de France, Département des manuscrits, Arabe 12, fol. 2v–3r. Source gallica.bnf.fr / BnF. Image in the public domain.

@@ -1,0 +1,1 @@
+Generated with Stable Diffusion in DiffusionBee 2.5.1 (model bluePencilXL, style vector art) on 2024-05-24 from the prompt "Infographic of garbage being put into a blender".

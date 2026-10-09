@@ -1,0 +1,1 @@
+Wikimedia description: "A Jew and a Muslim playing chess in 13th century al-Andalus. El Libro de los Juegos, commissioned by Alphonse X of Castile, 13th century. Madrid," public domain, https://commons.wikimedia.org/wiki/File:Al-andalus_229.png

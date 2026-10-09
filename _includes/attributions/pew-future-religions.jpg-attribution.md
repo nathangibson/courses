@@ -1,0 +1,1 @@
+Pew Research Center. 2022. “Key Findings From the Global Religious Futures Project.” Pew Research Center’s Religion & Public Life Project. https://www.pewresearch.org/religion/2022/12/21/key-findings-from-the-global-religious-futures-project/.

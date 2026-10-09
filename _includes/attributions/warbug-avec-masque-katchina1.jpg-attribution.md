@@ -1,0 +1,1 @@
+"Warburg mit einer Maske der Tänzer der Hopi-Indianer, 1896". Image caption source: https://www.warburg-haus.de/en/tagebuch/neuerscheinung-auf-dvd-rather-die-than-die-von-natacha-nisic/. Image presumed public domain. 

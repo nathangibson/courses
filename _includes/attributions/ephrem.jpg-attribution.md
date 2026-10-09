@@ -1,0 +1,1 @@
+"Ephrem the Syrian, mosaic in Nea Moni of Chios, Greece (11th century)." By anonimus - &lt;a rel=&quot;nofollow&quot; class=&quot;external autonumber&quot; href=&quot;http://www.eikonografos.com/album/thumbnails.php?album=71&quot;&gt;[1]&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=9710528">Link</a>

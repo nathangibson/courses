@@ -1,0 +1,1 @@
+Torah crown (keter) by silversmith Andrea Zambelli "L'Honnesta", Venice (ca. 1740–50), The Met, https://www.metmuseum.org/art/collection/search/239512. Public domain.

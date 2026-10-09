@@ -1,0 +1,1 @@
+By www.python.org - www.python.org, <a href="http://www.gnu.org/licenses/gpl.html" title="GNU General Public License">GPL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34991651">Link</a>

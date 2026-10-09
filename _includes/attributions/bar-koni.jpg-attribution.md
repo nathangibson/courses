@@ -1,0 +1,1 @@
+BnF, syr. 366, https://gallica.bnf.fr/ark:/12148/btv1b10532635d/f14.item.zoom, source: BnF/Gallica public domain.

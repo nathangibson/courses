@@ -1,0 +1,1 @@
+Fair use, https://en.wikipedia.org/w/index.php?curid=5024537

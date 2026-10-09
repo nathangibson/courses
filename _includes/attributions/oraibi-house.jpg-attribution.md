@@ -1,0 +1,1 @@
+Figure 2, "Interior of a house in Oraibi with dolls and broom. Warburg's photograph." in Aby M. Warburg, Images from the Region of the Pueblo Indians of North America (Cornell University Press, 2016), https://doi.org/10.7298/5at5-b941.

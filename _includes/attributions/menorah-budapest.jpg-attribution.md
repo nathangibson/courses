@@ -1,0 +1,1 @@
+Photo by David Chotin, https://www.flickr.com/photos/dchotin/20500894986/in/photostream/. CC BY-ND 2.0.

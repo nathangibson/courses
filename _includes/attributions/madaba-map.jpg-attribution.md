@@ -1,0 +1,1 @@
+<a href="https://commons.wikimedia.org/wiki/File:Madaba_map.jpg">Madaba map</a>, Public domain, via Wikimedia Commons

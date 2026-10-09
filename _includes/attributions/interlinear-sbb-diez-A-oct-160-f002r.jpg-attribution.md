@@ -1,0 +1,1 @@
+Psalms according to the Syriac Peshitta with interlinear Arabic, 1559. Berlin,  Staatsbibliothek zu Berlin, Diez A oct. 160, fol. 2r. https://resolver.staatsbibliothek-berlin.de/SBB0003273A00000000. Public domain.

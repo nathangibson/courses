@@ -1,0 +1,1 @@
+Wall painting from the baptistery of the Dura-Europos house church (ca. 240–245 CE, paint on plaster), "Procession of women," Yale University Art Gallery, Accession Number 1932.1201c, https://artgallery.yale.edu/collections/objects/34496 (public domain).

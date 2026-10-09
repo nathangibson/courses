@@ -1,0 +1,1 @@
+Caliphate of Córdoba, circa 1000. By File:Califato de Córdoba - 1000.svg: Tyk (talk · contribs)derivative work: Morningstar1814 (talk · contribs) - File:Califato de Córdoba - 1000.svg, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=61961349

@@ -1,0 +1,1 @@
+By Carole Raddato from FRANKFURT, Germany - Sardis Synagogue, late 3rd century AD, Sardis, Lydia, Turkey, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=45906673

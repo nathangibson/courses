@@ -1,0 +1,1 @@
+Foto von cottonbro studio: https://www.pexels.com/de-de/foto/hande-palme-erwachsener-vielfalt-4631066/

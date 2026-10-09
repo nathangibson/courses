@@ -1,0 +1,1 @@
+"Amida Manifesting in the Dharma-body of Expedient Means" (Japan, 18th century,  Edo period (1615–1868)), public domain, https://www.metmuseum.org/art/collection/search/54791.

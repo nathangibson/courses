@@ -1,0 +1,1 @@
+By <a href="//commons.wikimedia.org/wiki/User:ArnoldReinhold" title="User:ArnoldReinhold">ArnoldReinhold</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=486420">Link</a>

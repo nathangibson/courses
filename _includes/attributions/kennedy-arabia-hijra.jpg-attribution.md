@@ -1,0 +1,1 @@
+Kennedy, Hugh, “Arabia in the Time of the Ḥijra (622 A.D.)”, in: Historical Atlas of Islam, Edited by: Hugh Kennedy. Consulted online on 18 December 2023 <http://dx.doi.org./10.1163/1573-3912_hai_HAI_16B>

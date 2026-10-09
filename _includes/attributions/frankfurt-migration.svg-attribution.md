@@ -1,0 +1,2 @@
+Frankfurt Statistik.Portal. https://statistikportal.frankfurt.de/ASW/ASW.dll?aw=Bev%C3%B6lkerung/Migration%20nach%20h%C3%A4ufigsten%20Bezugl%C3%A4ndern%20(Grafik). 
+Generiert am 21.07.2025 um 10:55:54 Uhr - Lizenz: DL-DE->BY-2.0 - powered by DUVA.

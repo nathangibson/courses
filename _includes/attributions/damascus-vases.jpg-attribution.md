@@ -1,0 +1,1 @@
+Foto von [Tatiana Mokhova](https://unsplash.com/de/@tavathamo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/eine-gruppe-von-vasen-die-auf-einem-tisch-sitzen-jIRPwSrLC34). Tatiana Mokhova: Vases, Damascus, Syria

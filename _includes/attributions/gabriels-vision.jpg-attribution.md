@@ -1,0 +1,1 @@
+By Unknown author - &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.telegraph.co.uk/news/worldnews/middleeast/israel/10034147/Second-Gabriel-Stone-may-exist-says-scholar.html&quot;&gt;The Telegraph&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=47723129">Link</a>

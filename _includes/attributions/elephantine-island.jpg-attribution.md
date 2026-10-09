@@ -1,0 +1,1 @@
+"Views, Objects: Egypt. General Views; People. View 071: Verdant Elephantine Island, opposite Assuan, Egypt.", 1908. Lantern slide, 3.25 x 4 in (8.25 x 10 cm). Brooklyn Museum, lantern slides. (Photo: Stereo-Travel Co., Corona, New York, S10_08_Egypt_GeneralViews_People071_SL1.jpg) No restrictions, https://commons.wikimedia.org/w/index.php?curid=32515966

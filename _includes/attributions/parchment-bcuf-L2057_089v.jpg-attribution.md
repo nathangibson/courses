@@ -1,0 +1,1 @@
+Fribourg/Freiburg, Bibliothèque cantonale et universitaire/Kantons- und Universitätsbibliothek, Ms. L 2057, f. 89v – Samaritan Pentateuch. http://www.e-codices.ch/en/bcuf/L2057/89v. CC BY-NC 4.0.

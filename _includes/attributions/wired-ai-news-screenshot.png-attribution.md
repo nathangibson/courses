@@ -1,0 +1,1 @@
+https://www.wired.com/story/openai-anthropic-and-block-are-teaming-up-on-ai-agent-standards/, accessed 2025-12-15.

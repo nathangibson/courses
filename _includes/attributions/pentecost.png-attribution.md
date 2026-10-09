@@ -1,0 +1,1 @@
+Barry, John D., Douglas Mangum, Derek R. Brown, Michael S. Heiser, Miles Custis, Elliot Ritzema, Matthew M. Whitehead, Michael R. Grigoni, and David Bomar. Faithlife Study Bible. Bellingham, WA: Lexham Press, 2012, 2016.

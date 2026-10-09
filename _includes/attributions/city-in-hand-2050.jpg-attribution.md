@@ -1,0 +1,1 @@
+Generated with Stable Diffusion in DiffusionBee 2.5.1 (model RealVisXL30, style photographic) from the prompt "close-up photo of hand holding tiny city".

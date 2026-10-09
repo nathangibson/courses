@@ -1,0 +1,1 @@
+"The World on the Eve of the Muslim Conquests circa 600 A.D." in "Early Muslim Conquests" in Hugh Kennedy, Historical Atlas of Islam (2012). https://doi.org/10.1163/1573-3912_hai_HAI_6

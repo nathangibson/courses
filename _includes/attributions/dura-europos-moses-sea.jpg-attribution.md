@@ -1,0 +1,1 @@
+Dura Europos, Public domain, via Wikimedia Commons, https://commons.wikimedia.org/wiki/File:Moses_splitting_the_sea_2.jpeg.

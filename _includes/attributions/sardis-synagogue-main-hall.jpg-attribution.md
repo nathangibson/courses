@@ -1,0 +1,1 @@
+[Egisto Sani](https://www.flickr.com/photos/69716881@N02/), "# 35 - Sardis. The Monumental Synagogue - The Main Hall," https://www.flickr.com/photos/69716881@N02/51192354759, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/).

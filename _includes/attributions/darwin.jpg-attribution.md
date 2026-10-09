@@ -1,0 +1,1 @@
+By Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & Fox) [3]derivative work: Beao - Charles_Darwin_seated.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=11264065

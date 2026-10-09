@@ -1,0 +1,1 @@
+By unknown, could be a university classroom photo - http://www.unis.org/class/anthro/IBS_Anthro_2002.html (access June 22, 2008), Fair use, https://en.wikipedia.org/w/index.php?curid=18071740

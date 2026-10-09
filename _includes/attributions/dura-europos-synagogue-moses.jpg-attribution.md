@@ -1,0 +1,1 @@
+Synagogue painting: Infancy of Moses, Gute copy, Dura Europos (Salahiyeh), Yale University Art Gallery, Negative number: z101, https://www.jstor.org/stable/community.3897249.

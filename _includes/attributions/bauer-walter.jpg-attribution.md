@@ -1,0 +1,1 @@
+By University of Chicago Press - http://faculty.bbc.edu/rdecker/bdag.htm, Public Domain, https://commons.wikimedia.org/w/index.php?curid=7151473

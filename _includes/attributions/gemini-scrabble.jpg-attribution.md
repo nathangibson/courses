@@ -1,0 +1,1 @@
+Photo by Markus Winkler: https://www.pexels.com/photo/scrabble-tiles-displaying-api-and-gemini-30839678/

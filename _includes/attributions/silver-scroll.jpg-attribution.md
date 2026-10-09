@@ -1,0 +1,1 @@
+https://www.publicdomainpictures.net/en/view-image.php?image=335404&picture=pergamino-de-plata-ketef-hinnom, CC0/Public domain.

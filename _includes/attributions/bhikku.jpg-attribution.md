@@ -1,0 +1,1 @@
+By Photo by User:Tevaprapas, 2006 ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1829701

@@ -1,0 +1,1 @@
+Hebrew Bible, Castile (1300–1350 (before 1366)), The Met, Object Number: 2018.59, https://www.metmuseum.org/art/collection/search/773026. Public domain.

@@ -1,0 +1,1 @@
+By &lt;span lang=&quot;en&quot;&gt;Anonymous&lt;/span&gt; - &lt;a rel=&quot;nofollow&quot; class=&quot;external text&quot; href=&quot;https://www.nytimes.com/2015/07/23/world/europe/quran-fragments-university-birmingham.html?_r=0&quot;&gt;The New York Times.&lt;/a&gt;, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=41768466">Link</a>

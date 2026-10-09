@@ -1,0 +1,1 @@
+Prayer shawl from Beth Shalom B'nai Zaken Ethiopian Hebrew Congregation, created by Carolyn McCollough (2010), Smithsonian National Museum of African American History and Culture, https://n2t.net/ark:/65665/ng49ca746aa-9ac5-704b-e053-15f76fa0b4fa.I

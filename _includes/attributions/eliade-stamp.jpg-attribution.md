@@ -1,0 +1,1 @@
+By Post of Moldova - <a rel="nofollow" class="external free" href="http://www.posta.md/en/filatelia.html">http://www.posta.md/en/filatelia.html</a>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=5530062">Link</a>

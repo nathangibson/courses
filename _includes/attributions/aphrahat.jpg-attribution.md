@@ -1,0 +1,1 @@
+In Marin, Michel-Ange and Eugène Veuillot, Les Vies des Pères des déserts d'Orient (1886), https://commons.wikimedia.org/wiki/File:Les_Vies_des_P%C3%A8res_des_d%C3%A9serts_d%27Orient_-_leur_doctrine_spirituelle_et_leur_discipline_monastique_(1886)_(14590545527).jpg, public domain.

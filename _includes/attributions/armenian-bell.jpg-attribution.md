@@ -1,0 +1,1 @@
+Photo by Julia Volk: https://www.pexels.com/photo/big-bell-with-shabby-religious-inscriptions-5272961/

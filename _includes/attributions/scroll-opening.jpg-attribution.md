@@ -1,0 +1,1 @@
+Photo by cottonbro studio: https://www.pexels.com/photo/a-person-opening-a-scroll-5986491/.

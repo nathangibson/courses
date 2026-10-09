@@ -1,0 +1,1 @@
+Manuscript containing Narsai's works, dated (?) 1883. Vatican, BAV, Borg. sir. 79, folio 1v. https://digi.vatlib.it/view/MSS_Borg.sir.79

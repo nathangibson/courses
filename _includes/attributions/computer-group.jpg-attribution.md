@@ -1,0 +1,1 @@
+Photo by <a href="https://unsplash.com/@johnishappysometimes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Schnobrich</a> on <a href="https://unsplash.com/photos/three-person-pointing-the-silver-laptop-computer-2FPjlAyMQTA?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
