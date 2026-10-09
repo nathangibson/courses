@@ -1,7 +1,17 @@
 <head>
+  {%- include course-data.html -%}
+  {%- assign pc = page.collection -%}
+  {%- assign ps = page.session -%}
+  {%- assign session_title = "" -%}
+  {%- assign srow = site.data[pc].sessions | where: "session", ps | first -%}
+  {%- assign session_title = srow.title | default: "" -%}
+  {%- if page.layout == "post" and session_title != "" -%}
+    {%- assign page_title = session_title -%}
+  {%- else -%}
+    {%- assign page_title = page.title -%}
+  {%- endif -%}
   <title>
-    {% if page.title == "Home" %} {{ site.title }} | {{ site.description }} {%
-    else %} {{ page.title }} | {{ site.title }} {% endif %}
+    {% if page_title == "Home" or page_title == nil or page_title == "" %} {{ course_title | default: site.title }} | {{ course_settings.description | default: site.description }} {% else %} {{ page_title }} | {{ course_title | default: site.title }} {% endif %}
   </title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta charset="utf-8" />
@@ -53,7 +63,7 @@
   {% if page.background-opacity %}
   {% assign background-opacity = page.background-opacity %}
   {% else %}
-  {% assign background-opacity = site.data.settings.reveal-slides.background-opacity %}
+  {% assign background-opacity = course_settings.reveal-slides.background-opacity %}
   {% endif %}
   <style>
     .reveal .backgrounds {
