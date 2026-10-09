@@ -35,7 +35,11 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        # baseurl /courses is set in _config.yml (the site is served at
+        # npgibson.com/courses because this repo is named "courses" under the
+        # nathangibson account). We do NOT override --baseurl here so the build
+        # stays deterministic and matches the config.
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
