@@ -1,10 +1,30 @@
 {% assign image = include.image | default: page.image %}
+{% comment %}
+  aria/credit via the shared XMP image-credit system (jekyll-image-credits).
+  image_credit returns the credit hash from _data/image_credits.yaml keyed by
+  image basename. The treasury sentence mirrors the main site's format:
+  "Image: [description]. By [creator]. [identifier]. Source: [publisher], [link]. [rights]."
+{% endcomment %}
+{% assign img_url = site.baseurl | append: "/assets/img/" | append: image %}
+{% assign credit = img_url | image_credit %}
 <div class="featured-image">
     <figure>
-      <img src="{{ site.baseurl }}/assets/img/{{ image }}" />
-      <figcaption>
-        {% assign attr_file = "attributions/" | append: image | append: "-attribution.md" %}
-        Image: {% capture image_attribution %}{% include {{ attr_file }} %}{% endcapture %} {{ image_attribution }}
+      <img src="{{ img_url }}" />
+      {% if credit.description or credit.creator or credit.identifier or credit.publisher or credit.source_url or credit.rights %}
+      <figcaption class="image-credit">
+        {%- capture credit_sentence -%}
+          {%- if credit.description %}Image: {{ credit.description }}.{% endif %}
+          {%- if credit.creator %} By {{ credit.creator }}.{% endif %}
+          {%- if credit.identifier %} {{ credit.identifier }}.{% endif %}
+          {%- if credit.publisher or credit.source_url %} Source:
+            {%- if credit.publisher %} {{ credit.publisher }}{% endif %}
+            {%- if credit.publisher and credit.source_url %},{% endif %}
+            {%- if credit.source_url %} <a href="{{ credit.source_url }}" target="_blank" rel="noopener">{{ credit.source_url | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first }}</a>{% endif %}.
+          {%- endif %}
+          {%- if credit.rights %} {{ credit.rights }}.{% endif %}
+        {%- endcapture -%}
+        {{ credit_sentence | strip }}
       </figcaption>
+      {% endif %}
     </figure>
 </div>

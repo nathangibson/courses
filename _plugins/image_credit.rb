@@ -1,0 +1,1 @@
+/Users/nathan/git/Github/jekyll-image-credits/_plugins/image_credit.rb
