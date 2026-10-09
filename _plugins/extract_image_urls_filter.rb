@@ -1,1 +1,1 @@
-/Users/nathan/git/Github/jekyll-image-credits/_plugins/extract_image_urls_filter.rb
+../vendor/jekyll-image-credits/_plugins/extract_image_urls_filter.rb

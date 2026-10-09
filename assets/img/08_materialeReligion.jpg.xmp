@@ -3,11 +3,7 @@
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-   <dc:description>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">/Users/nathan/Github/jirelations/23rw/assets/img</rdf:li>
-    </rdf:Alt>
-   </dc:description>
+   
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

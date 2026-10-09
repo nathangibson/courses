@@ -4,3 +4,6 @@
 [submodule "assets/course-website-tools"]
 	path = assets/course-website-tools
 	url = https://github.com/jirelations/course-website-tools.git
+[submodule "vendor/jekyll-image-credits"]
+	path = vendor/jekyll-image-credits
+	url = https://github.com/nathangibson/jekyll-image-credits.git
