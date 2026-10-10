@@ -1,1 +1,0 @@
-Image by <a href="https://pixabay.com/users/ri_ya-12911237/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6655678">Ri Butov</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=6655678">Pixabay</a>

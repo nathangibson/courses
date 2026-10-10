@@ -1,1 +1,0 @@
-Bild von Gerd Altmann auf Pixabay https://pixabay.com/de/photos/islam-christentum-religion-kreuz-3051991/

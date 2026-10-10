@@ -1,1 +1,0 @@
-By AndreiOM - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=8069197

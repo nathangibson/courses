@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model Stable Diffusion XL Base 1.0, style photographic) from the prompt "photo of Indiana Jones looking shocked and scared in front of a green python".

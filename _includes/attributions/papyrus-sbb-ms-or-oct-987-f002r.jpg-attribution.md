@@ -1,1 +1,0 @@
-Coptic proverbs on papyrus, 4th cent. Berlin, Staatsbibliothek zu Berlin, Ms. or. oct. 987, fol. 2r.  	http://resolver.staatsbibliothek-berlin.de/SBB0000392B00000000. Public domain.

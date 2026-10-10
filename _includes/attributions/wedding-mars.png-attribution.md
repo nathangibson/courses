@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model DreamShaper_6_baked_vae, style vector art) on 2024-05-17 from the prompt "Comic-book graphic of a wedding reception on Mars with Hollywood celebrity guests".

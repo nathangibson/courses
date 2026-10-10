@@ -1,1 +1,0 @@
-Image by <a href="https://pixabay.com/users/chuckwalla-14759596/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4724654">Rena</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4724654">Pixabay</a>

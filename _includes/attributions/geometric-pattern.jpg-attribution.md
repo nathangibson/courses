@@ -1,1 +1,0 @@
-Foto von The New York Public Library auf Unsplash, https://unsplash.com/de/fotos/9riNe93REas

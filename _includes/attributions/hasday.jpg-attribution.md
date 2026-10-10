@@ -1,1 +1,0 @@
-Hasday ibn Shaprut, Jewish physician to the caliph ʿAbd al-Raḥmān III in Cordoba. Painting by Dionís Baixeras (1885). Source: Cosas de Andalucía. Public domain. https://elordenmundial.com/al-andalus-y-la-distorsion-interesada-de-la-historia/

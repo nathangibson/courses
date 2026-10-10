@@ -1,1 +1,0 @@
-By Jason Long - http://git-scm.com/downloads/logos, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=19329352

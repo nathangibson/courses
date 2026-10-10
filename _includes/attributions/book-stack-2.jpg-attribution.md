@@ -1,1 +1,0 @@
-Photo by Jess Bailey Designs: https://www.pexels.com/photo/stack-of-thick-books-on-table-2002217/

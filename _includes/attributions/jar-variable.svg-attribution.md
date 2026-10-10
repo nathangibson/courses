@@ -1,1 +1,0 @@
-http://www.clker.com/clipart-14658.html. Shared By: OCAL 12-08-2007.

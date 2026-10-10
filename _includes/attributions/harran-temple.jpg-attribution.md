@@ -1,1 +1,0 @@
-Foto von Freelance Grafiker: https://www.pexels.com/de-de/foto/tempelruinen-802847/

@@ -1,1 +1,0 @@
-Foto von [Tatiana Mokhova](https://unsplash.com/de/@tavathamo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) auf [Unsplash](https://unsplash.com/de/fotos/das-innere-eines-gebaudes-mit-einem-grossen-runden-fenster-JKIM-F3oO0o). Tatiana Mokhova: Khan As'ad Pasha Al-Azem, Damascus, Syria

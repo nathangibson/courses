@@ -1,1 +1,0 @@
-Synagogue painting: Samuel anointing David, Gute copy, Dura Europos (Salahiyeh), Yale University Art Gallery, Negative number: z100, https://www.jstor.org/stable/community.3897248.

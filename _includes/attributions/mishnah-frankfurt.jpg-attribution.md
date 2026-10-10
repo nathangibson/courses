@@ -1,2 +1,0 @@
-[Title page](https://sammlungen-ub-uni-frankfurt-de.proxy.ub.uni-frankfurt.de/judaicaffm/content/pageview/2132425) of Maimonides' commentary on the Mishnah, ed. Yehudah Aryeh Leib ben Yosef Shemuʾel, 
-_Masekhet Nidah_ (Johann Kellner: Frankfurt am Main, 1720), https://sammlungen-ub-uni-frankfurt-de.proxy.ub.uni-frankfurt.de/judaicaffm/content/titleinfo/2132244 (public domain).

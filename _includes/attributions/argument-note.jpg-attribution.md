@@ -1,1 +1,0 @@
-https://pixabay.com/de/photos/hand-notiz-zettel-botschaft-859521/

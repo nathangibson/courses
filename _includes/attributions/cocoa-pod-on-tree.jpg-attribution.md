@@ -1,1 +1,0 @@
-Image by <a href="https://pixabay.com/users/holiet-2639422/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1529746">Jeser Andrade Arango</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1529746">Pixabay</a>
