@@ -1,10 +1,9 @@
 <head>
   {%- include course-data.html -%}
   {%- assign pc = page.collection -%}
-  {%- assign ps = page.session -%}
   {%- assign session_title = "" -%}
-  {%- assign srow = site.data[pc].sessions | where: "session", ps | first -%}
-  {%- assign session_title = srow.title | default: "" -%}
+  {%- include session-meta.html item=page -%}
+  {%- assign session_title = m_title | strip -%}
   {%- if page.layout == "post" and session_title != "" -%}
     {%- assign page_title = session_title -%}
   {%- else -%}

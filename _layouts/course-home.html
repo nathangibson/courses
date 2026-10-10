@@ -18,12 +18,9 @@ layout: default
 {% assign sorted = site[course_name] | where: "layout", "post" | where: "level", "overview" | sort: "date" %}
 
 {% for post in sorted %}
-  {% assign sessions = course_sessions | where: "session", post.session | first %}
-  {% assign custom_title = sessions.title | default: post.title %}
-  {% assign image = post.image | default: sessions.image %}
-  {% assign zotero-tag = post.zotero-tag | default: sessions.zotero-tag %}
-  {% assign pad-slug = post.pad-slug | default: sessions.pad-slug %}
-  {% assign objective = post.objective | default: sessions.objective %}
+  {% include session-meta.html item=post %}
+  {% assign custom_title = m_title %}
+  {% assign image = m_image %}
   {% include featured-post.html %}
 {% endfor %}
 

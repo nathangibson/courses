@@ -3,19 +3,18 @@ layout: default
 ---
 
 {% include course-data.html %}
+{% include session-meta.html item=page %}
 
-{% assign sessions = course_sessions | where: "session",page.session | first
-%}
-
-<!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
-{% assign title = sessions.title | default: page.title %} {% assign long-topic =
-sessions.long-topic | default: page.long-topic %} {% assign image = page.image |
-default: sessions.image %} {% assign zotero-tag = page.zotero-tag | default:
-sessions.zotero-tag %} {% assign poll-slug = page.poll-slug | default:
-zotero-tag %} {% assign zotero-readings = page.zotero-readings | default:
-sessions.zotero-readings %} {% assign pad-slug = page.pad-slug | default:
-sessions.pad-slug %} {% assign objective = page.objective | default:
-sessions.objective %}
+<!-- Front-matter (unique per session) is the source of truth; derived fields
+     (title, pad-slug, poll-slug) are computed in session-meta.html via Liquid. -->
+{% assign title = m_title %}
+{% assign long-topic = m_long_topic %}
+{% assign image = m_image %}
+{% assign zotero-tag = m_zotero_tag %}
+{% assign poll-slug = m_poll_slug %}
+{% assign zotero-readings = m_zotero_readings %}
+{% assign pad-slug = m_pad_slug %}
+{% assign objective = m_objective %}
 
 <div class="post-content">
   <h1>{{ title }}</h1>
@@ -27,20 +26,6 @@ sessions.objective %}
   {% include featured-image.html image=image %}
   {% endif %}
   <article>
-    <!-- <a href="{{ site.data.settings.base-urls.zotero }}/tags/{{ zotero-tag }}/library" class="menu-link">
-      <i class="fa-solid fa-book" aria-hidden="true"></i>
-    </a>
-    <a href="{{ site.data.settings.base-urls.zotero }}/tags/{{ zotero-tag }}/library" class="menu-link">
-      Readings
-    </a>
-
-    <a href="{{ site.data.settings.base-urls.pad }}{{ pad-slug }}" class="menu-link">
-      <i class="fa-solid fa-clipboard" aria-hidden="true"></i>
-    </a>
-    <a href="{{ site.data.settings.base-urls.pad }}{{ pad-slug }}" class="menu-link">
-      Shared workspace
-    </a> -->
-
     {% if objective %}
     <h2><i class="fa-solid fa-check"></i> Learning objective</h2>
     {{ objective }} {% endif %} {% include readings.html %} {{ content }}

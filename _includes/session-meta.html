@@ -1,0 +1,43 @@
+{%- comment -%}
+  session-meta.html — resolve a session item's display fields WITHOUT the
+  sessions.csv lookup. Caller passes the current doc/loop item:
+
+      {% include session-meta.html item=page %}   (in post/reveal layouts)
+      {% include session-meta.html item=post %}   (in a site[collection] loop)
+
+  Genuinely-unique per-session fields come from front matter:
+    session, unit, long-topic, image, zotero-tag, zotero-readings, objective
+  Derived values are computed here in Liquid (never stored):
+    m_title      = "<session>. <unit>: <long-topic>"  (falls back to item.title)
+    m_pad_slug   = pad-slug handling for the Etherpad link (== session by default)
+    m_poll_slug  = poll series slug for the Polls menu link
+  Available after include: m_title, m_unit, m_long-topic, m_image, m_zotero-tag,
+    m_zotero-readings, m_objective, m_pad-slug, m_poll-slug.
+{%- endcomment -%}
+{%- assign it = include.item -%}
+
+{%- assign m_session = it.session | strip -%}
+{%- assign m_unit = it.unit | strip | default: "" -%}
+{%- assign m_long_topic = it.long-topic | strip | default: "" -%}
+{%- assign m_image = it.image | strip | default: "" -%}
+{%- assign m_zotero_tag = it.zotero-tag | strip | default: "" -%}
+{%- assign m_zotero_readings = it.zotero-readings | default: "" -%}
+{%- assign m_objective = it.objective | strip | default: "" -%}
+{%- assign m_pad_slug = it.pad-slug | strip | default: m_session -%}
+{%- assign m_poll_slug = it.poll-slug | strip | default: m_zotero_tag -%}
+
+{%- comment -%} Compose the title from <session>. <unit>: <long-topic> whenever those
+  three are present (the session-post case). Jekyll fills page.title with the
+  filename slug (e.g. "1") when no explicit title is set, so we must NOT rely on
+  it.title being empty — we compose whenever the session fields exist. Slide
+  decks lack unit/long-topic, so they keep their explicit title.
+{%- endcomment -%}
+{%- assign m_title = it.title | strip | default: "" -%}
+{%- if m_session != "" and m_unit != "" and m_long_topic != "" -%}
+  {%- comment -%} Only when it's actually a session (not the slide whose long-topic
+      sits in front matter and whose layout is reveal). For a reveal slide the
+      unit field is absent, so this branch won't fire and it.title is kept. {%- endcomment -%}
+  {%- if it.layout != "reveal" -%}
+    {%- assign m_title = m_session | append: ". " | append: m_unit | append: ": " | append: m_long_topic -%}
+  {%- endif -%}
+{%- endif -%}
