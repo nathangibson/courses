@@ -1,1 +1,0 @@
-Contemporary photograph - http://student.britannica.com/comptons/art-13317/Rudolf-Otto-1925, Public Domain, https://commons.wikimedia.org/w/index.php?curid=4249429

@@ -1,1 +1,0 @@
-Cooper Hewitt, Smithsonian Design Museum, Print, Synagogue (1809), from "Ackermann's Repository", https://collection.cooperhewitt.org/objects/18436545/. Public domain.

@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model RealVisXL30, style photographic) from the prompt "photo of Arab 5-year-old using retro Disney slide projector".

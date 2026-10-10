@@ -1,1 +1,0 @@
-By جمان المحتسب - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=144495493

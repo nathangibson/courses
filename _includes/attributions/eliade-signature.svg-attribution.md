@@ -1,1 +1,0 @@
-By Mircea Eliade - File:Mircea Eliade signature.jpg, Public Domain, https://commons.wikimedia.org/w/index.php?curid=115229390

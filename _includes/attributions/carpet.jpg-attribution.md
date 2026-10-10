@@ -1,1 +1,0 @@
-Turkish knotted carpet, 18th century. [Museum of Islamic Art, Berlin, ID: I. 39/63](https://id.smb.museum/object/2009549/kn%C3%BCpfteppich-teppich). Staatliche Museen zu Berlin, Museum für Islamische Kunst / Johannes Kramer, CC BY-SA 4.0.

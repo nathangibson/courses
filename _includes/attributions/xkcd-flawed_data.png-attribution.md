@@ -1,1 +1,0 @@
-https://xkcd.com/2494/, CC BY-NC 2.5, https://creativecommons.org/licenses/by-nc/2.5/.

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.0.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+   dc:source="https://pixabay.com/users/yancetay-5294624/">
+   <dc:creator>
+    <rdf:Bag>
+     <rdf:li>Jens Teichmann</rdf:li>
+    </rdf:Bag>
+   </dc:creator>
+   <dc:publisher>
+    <rdf:Bag>
+     <rdf:li>Pixabay</rdf:li>
+    </rdf:Bag>
+   </dc:publisher>
+   <dc:rights>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Pixabay Content License</rdf:li>
+    </rdf:Alt>
+   </dc:rights>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>

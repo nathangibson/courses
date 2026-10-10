@@ -1,1 +1,0 @@
-http://www.clker.com/clipart-movie-clapper-board.html, shared by: OCAL http://www.clker.com/profile-1068.html, 04-14-2008

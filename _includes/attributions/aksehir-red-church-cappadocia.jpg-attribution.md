@@ -1,1 +1,0 @@
-Photo: Chiara Pohl. Used by permission.

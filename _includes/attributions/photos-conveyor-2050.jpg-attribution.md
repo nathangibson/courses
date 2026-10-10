@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model RealVisXL30, style photographic) from the prompt "photo of framed family portraits on conveyor belt in factory".

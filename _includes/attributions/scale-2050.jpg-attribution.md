@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model RealVisXL30, style photographic) from the prompt "photo of golden balance scale weighing macbook on one side and university student on the other side, white background".

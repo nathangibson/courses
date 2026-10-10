@@ -1,0 +1,1 @@
+../vendor/jekyll-image-credits/_plugins/extract_image_credits_hook.rb

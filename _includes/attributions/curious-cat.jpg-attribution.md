@@ -1,1 +1,0 @@
-Image by <a href="https://pixabay.com/users/holgersfotografie-47038/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=529290">Holger Langmaier</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=529290">Pixabay</a>

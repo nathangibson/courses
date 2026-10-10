@@ -1,1 +1,0 @@
-https://fashionmagazine.com/style/the-dress-white-and-gold/

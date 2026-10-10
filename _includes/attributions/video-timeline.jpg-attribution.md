@@ -1,1 +1,0 @@
-Photo by <a href="https://unsplash.com/@peter_s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Peter Stumpf</a> on <a href="https://unsplash.com/photos/turned-on-flat-screen-monitor-h-ySkoCRzhs?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>

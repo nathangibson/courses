@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model RealVisXL30, style photographic) from the prompt "close-up photo of 2-year-old covered in chocolate licking cake batter from bowl".

@@ -1,1 +1,0 @@
-Plaster cast of the Siloam inscription (8th century BCE), image (c) The Trustees of the British Museum <https://www.britishmuseum.org/collection/image/1613747975>, CC BY-NC-SA 4.0.

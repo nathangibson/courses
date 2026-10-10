@@ -1,2 +1,0 @@
-Photo by <a href="https://unsplash.com/@danieljschwarz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel J. Schwarz</a> on <a href="https://unsplash.com/photos/P5jnOV4HzJY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
-  

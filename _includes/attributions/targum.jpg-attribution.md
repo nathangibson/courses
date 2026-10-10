@@ -1,1 +1,0 @@
-Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=127677">Link</a>

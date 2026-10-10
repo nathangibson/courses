@@ -1,1 +1,0 @@
-https://www.brandwatch.com/email/brandwatch-bulletin-0126-2022-most-popular-emojis/

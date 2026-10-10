@@ -1,1 +1,0 @@
-Image by <a href="https://pixabay.com/users/miniformat65-87415/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=233898">Monika</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=233898">Pixabay</a>

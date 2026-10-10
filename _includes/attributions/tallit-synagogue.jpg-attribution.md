@@ -1,1 +1,0 @@
-Photo by cottonbro studio: https://www.pexels.com/photo/man-in-black-coat-holding-black-tablet-computer-5976153/

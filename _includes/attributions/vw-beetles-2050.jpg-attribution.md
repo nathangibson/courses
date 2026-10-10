@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model Default_SDB_0.1, style photographic) from the prompt "A row of different-colored VW Beetles indoors in a museum".

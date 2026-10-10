@@ -1,1 +1,0 @@
-Generated with Stable Diffusion in DiffusionBee 2.5.1 (model Stable Diffusion XL Base 1.0, style photographic) from the prompt "before and after photo of refrigerator before and after cleaning".

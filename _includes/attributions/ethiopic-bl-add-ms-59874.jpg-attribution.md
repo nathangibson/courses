@@ -1,1 +1,0 @@
-"Folio from an illustrated Bible, Annunciation to Zechariah, British Library Add MS 59874." By Unknown author - British Library Ethiopic Bible Selections, Public Domain, https://commons.wikimedia.org/w/index.php?curid=3106426

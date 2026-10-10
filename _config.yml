@@ -38,5 +38,9 @@ title: "Kurse"
 description: "Course websites of Nathan P. Gibson"
 author: "Nathan Gibson"
 
+# XMP sidecar files are committed for image credits but must not be deployed
+exclude:
+  - '**/*.xmp'
+
 hide_related_posts: false
 hide_post_share: true

@@ -1,1 +1,0 @@
-By Unknown author - Codex Glazier, Public Domain, https://commons.wikimedia.org/w/index.php?curid=10755332

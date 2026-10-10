@@ -1,1 +1,0 @@
-By First published by "Beginner Books" in 1957. Current publisher and copyright holder is Random House (see <a rel="nofollow" class="external free" href="http://www.seussville.com/">http://www.seussville.com/</a> ), <a href="//en.wikipedia.org/wiki/File:The_Cat_in_the_Hat.png" title="Fair use">Fair use</a>, <a href="https://en.wikipedia.org/w/index.php?curid=66962110">Link</a>
