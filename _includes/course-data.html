@@ -5,26 +5,23 @@
   It sets these variables for the rest of the template:
     course_name   -> collection key, e.g. "course_25rw"
     course_slug   -> human slug, e.g. "25rw"  (collection key minus "course_")
-    course_sessions -> site.data.<collection>.sessions (from _data/<collection>/sessions.csv)
     course_glossary -> site.data.<collection>.glossary
     course_zotero   -> site.data.<collection>.zotero
     course_settings -> site.data.<collection>.settings
     course_title    -> course_settings.title (course identity in _data/<collection>/settings.yml)
 
-  For non-course (site) pages these fall back to the global root data
-  (site.data.sessions / site.data.glossary / site.data.zotero / site.data.settings).
+  (Per-session fields no longer come from a sessions tab — unique values live in
+  each doc's front matter and derived fields are computed by session-meta.html.)
 {%- endcomment -%}
 {%- assign course_name = page.collection -%}
 {%- if course_name and course_name != "" and site.data[course_name] -%}
   {%- assign course_slug = course_name | remove_first: "course_" -%}
-  {%- assign course_sessions = site.data[course_name].sessions -%}
   {%- assign course_glossary = site.data[course_name].glossary -%}
   {%- assign course_zotero = site.data[course_name].zotero -%}
   {%- assign course_settings = site.data[course_name].settings -%}
   {%- assign course_title = course_settings.title -%}
 {%- else -%}
   {%- assign course_slug = "" -%}
-  {%- assign course_sessions = site.data.sessions -%}
   {%- assign course_glossary = site.data.glossary -%}
   {%- assign course_zotero = site.data.zotero -%}
   {%- assign course_settings = site.data.settings -%}
