@@ -31,6 +31,8 @@ layout: default
     {{ objective }} {% endif %} {% include readings.html %} {{ content }}
   </article>
 
+  {% include slides-pdf-button.html %}
+
   {% assign glossary_terms_for_session = "" %} {% for row in course_glossary
   %} {% if row.session contains page.tags %} {% assign
   glossary_terms_for_session = glossary_terms_for_session | append: row.term |
