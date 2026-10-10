@@ -33,6 +33,9 @@
         margin: 0.25,
         history: false,
         slideNumber: true,
+        // Feature: auto-animate between consecutive slides that opt in with
+        // data-auto-animate + matching elements (see docs/how-to-auto-animate).
+        autoAnimate: true,
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu],
         parallaxBackgroundImage: "{{ site.baseurl }}/{{ page.parallaxBackgroundImage }}",
         parallaxBackgroundSize: "2100px 900px",
@@ -154,6 +157,16 @@
             },
           ],
         },
+      }).then(function () {
+        // Feature (revealify-overview-fix): ensure the deck is fully ready.
+        // ESC overview + auto-animate need a completed init; surface plugin
+        // errors here so a third-party plugin failing can't leave the deck
+        // half-initialized (which would make overview show one slide).
+        Reveal.on('ready', function () {
+          document.documentElement.classList.add('reveal-ready');
+        });
+      }).catch(function (err) {
+        console.error('reveal.js failed to initialize:', err);
       });
     </script>
   </body>
