@@ -7,7 +7,11 @@
       {% assign bibl = course_zotero.references | where: "id", reading | first %}
       <li>
         {% if bibl and bibl['chicago-bibliography'] %}
-          {{ bibl['chicago-bibliography'] }}
+          {% if bibl.URL %}
+            <a href="{{ bibl.URL }}" target="_blank" rel="noopener">{{ bibl['chicago-bibliography'] }}</a>
+          {% else %}
+            {{ bibl['chicago-bibliography'] }}
+          {% endif %}
         {% elsif bibl %}
           <a href="{{ bibl.URL }}">{{ bibl.author[0].family }}{{ bibl.author[0].literal }}, {{ bibl.title }} ({{ bibl.issued[0].year }}){% if bibl.page %}, {{ bibl.page }}{% endif %}</a>
         {% endif %}
