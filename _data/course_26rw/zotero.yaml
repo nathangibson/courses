@@ -15,6 +15,9 @@ references:
   author:
     - family: Ackermann
       given: Martin
+  chicago-bibliography: Ackermann, Martin. "Das Charisma-Netzwerk von Braco." Zeitschrift für junge Religionswissenschaft, no. 10. https://doi.org/10.4000/zjr.908
+  chicago-note-full: Martin Ackermann, "Das Charisma-Netzwerk von Braco," Zeitschrift für junge Religionswissenschaft, no. 10, https://doi.org/10.4000/zjr.908
+  chicago-note-short: Ackermann, "Das Charisma-Netzwerk von Braco,"
   citation-key: ackermannCharismaNetzwerkBraco2015
   container-title: Zeitschrift für junge Religionswissenschaft
   container-title-short: Z. Junge Relig.
@@ -50,6 +53,9 @@ references:
   author:
     - family: Aeschbach
       given: Mirjam
+  chicago-bibliography: Aeschbach, Mirjam. "#WhatBritishMuslimsReallyThink." Zeitschrift für junge Religionswissenschaft, no. 12. https://doi.org/10.4000/zjr.896
+  chicago-note-full: Mirjam Aeschbach, "#WhatBritishMuslimsReallyThink," Zeitschrift für junge Religionswissenschaft, no. 12, https://doi.org/10.4000/zjr.896
+  chicago-note-short: Aeschbach, "#WhatBritishMuslimsReallyThink,"
   citation-key: aeschbachWhatBritishMuslimsReallyThink2017
   container-title: Zeitschrift für junge Religionswissenschaft
   container-title-short: Z. Junge Relig.
@@ -84,6 +90,9 @@ references:
       given: Dionigi
     - family: Couroucli
       given: Maria
+  chicago-bibliography: 'Albera, Dionigi, and Maria Couroucli. "Sharing sacred spaces in the Mediterranean: Christians, Muslims, and Jews at shrines and sanctuaries." . https://books.google.de/books?hl=de&lr=&id=73HwBQAAQBAJ'
+  chicago-note-full: 'Dionigi Albera, Maria Couroucli, "Sharing sacred spaces in the Mediterranean: Christians, Muslims, and Jews at shrines and sanctuaries,", https://books.google.de/books?hl=de&lr=&id=73HwBQAAQBAJ'
+  chicago-note-short: Albera, "Sharing sacred spaces in the..,"
   citation-key: alberaSharingSacredSpaces2012
   collection-title: New anthropologies of Europe
   ISBN: 978-0-253-35633-8 978-0-253-22317-3
@@ -117,6 +126,9 @@ references:
   author:
     - family: Albera
       given: Dionigi
+  chicago-bibliography: 'Albera, Dionigi. "“Why Are You Mixing what Cannot be Mixed?” Shared Devotions in the Monotheisms." History and Anthropology 19, no. 1: 37–59. https://doi.org/10.1080/02757200802150026'
+  chicago-note-full: Dionigi Albera, "“Why Are You Mixing what Cannot be Mixed?” Shared Devotions in the Monotheisms," History and Anthropology 19, no. 1, 37–59, https://doi.org/10.1080/02757200802150026
+  chicago-note-short: Albera, "“Why Are You Mixing what..,"
   citation-key: alberaWhyAreYou2008
   container-title: History and Anthropology
   container-title-short: Hist. Anthropol.
@@ -150,6 +162,9 @@ references:
   author:
     - family: Albera
       given: Dionigi
+  chicago-bibliography: 'Albera, Dionigi. "Writing in Three Dimensions: Heterographies of Shared Sacred Sites."'
+  chicago-note-full: 'Dionigi Albera, "Writing in Three Dimensions: Heterographies of Shared Sacred Sites,"'
+  chicago-note-short: 'Albera, "Writing in Three Dimensions: Heterographies..,"'
   citation-key: alberaWritingThreeDimensions
   tags:
     - _further-reading
@@ -172,6 +187,9 @@ references:
   author:
     - family: Alberts
       given: Wanda
+  chicago-bibliography: 'Alberts, Wanda. "I.8 Das Weltreligionenparadigma." Religionswissenschaft: Aktuelle Annäherungen: 107–118. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-010/html'
+  chicago-note-full: 'Wanda Alberts, "I.8 Das Weltreligionenparadigma," Religionswissenschaft: Aktuelle Annäherungen, 107–118, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-010/html'
+  chicago-note-short: Alberts, "I.8 Das Weltreligionenparadigma,"
   citation-key: albertsI8Weltreligionenparadigma2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -197,6 +215,9 @@ references:
   zotero_language: de
 
 - id: apostolos-cappadonaReligionMaterialReligion2016
+  chicago-bibliography: '"Religion: material religion."'
+  chicago-note-full: ', "Religion: material religion,"'
+  chicago-note-short: ', "Religion: material religion,"'
   citation-key: apostolos-cappadonaReligionMaterialReligion2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -253,6 +274,9 @@ references:
   author:
     - family: Apostolos-Cappadona
       given: Diane (Herausgeber)
+  chicago-bibliography: 'Apostolos-Cappadona, Diane (Herausgeber). "Religion : material religion." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Flink.gale.com%2Fapps%2Fpub%2F8NWR%2FGVRL%3Fsid%3Dgale_marc%26u%3Dsuf'
+  chicago-note-full: 'Diane (Herausgeber) Apostolos-Cappadona, "Religion : material religion,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Flink.gale.com%2Fapps%2Fpub%2F8NWR%2FGVRL%3Fsid%3Dgale_marc%26u%3Dsuf'
+  chicago-note-short: 'Apostolos-Cappadona, "Religion : material religion,"'
   citation-key: apostolos-cappadonaReligionMaterialReligion2016a
   ISBN: 978-0-02-866362-3
   issued:
@@ -284,6 +308,9 @@ references:
   author:
     - family: Ariel
       given: Yaakov
+  chicago-bibliography: 'Ariel, Yaakov. "Biblical narratives, messianic hopes and religious radicalism: Jewish fundamentalism in our time." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 185–200. https://doi.org/10.14220/jrat.2016.2.2.185'
+  chicago-note-full: 'Yaakov Ariel, "Biblical narratives, messianic hopes and religious radicalism: Jewish fundamentalism in our time," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 185–200, https://doi.org/10.14220/jrat.2016.2.2.185'
+  chicago-note-short: Ariel, "Biblical narratives, messianic hopes and..,"
   citation-key: arielBiblicalNarrativesMessianic2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -313,6 +340,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/5CSJ5LAR/Armbruster and Behrens - 2013 - Spiritualität und seelische Gesundheit.pdf
       key: 5CSJ5LAR
       type: pdf
+  chicago-bibliography: '"Spiritualität und seelische Gesundheit." . https://elibrary-utb-de.proxy.ub.uni-frankfurt.de/doi/book/10.1486/9783884147931'
+  chicago-note-full: ', "Spiritualität und seelische Gesundheit,", https://elibrary-utb-de.proxy.ub.uni-frankfurt.de/doi/book/10.1486/9783884147931'
+  chicago-note-short: ', "Spiritualität und seelische Gesundheit,"'
   citation-key: armbrusterSpiritualitaetUndSeelische2013
   edition: 1. Aufl
   editor:
@@ -350,6 +380,9 @@ references:
   author:
     - family: Atwood
       given: David
+  chicago-bibliography: 'Atwood, David. "IV.2 Metaphern und die Lesbarkeit von Religion." Religionswissenschaft: Aktuelle Annäherungen: 305–316. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-028/html'
+  chicago-note-full: 'David Atwood, "IV.2 Metaphern und die Lesbarkeit von Religion," Religionswissenschaft: Aktuelle Annäherungen, 305–316, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-028/html'
+  chicago-note-short: Atwood, "IV.2 Metaphern und die Lesbarkeit..,"
   citation-key: atwoodIV2MetaphernUnd2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -372,6 +405,9 @@ references:
   zotero_language: de
 
 - id: barkanChoreographiesSharedSacred2016
+  chicago-bibliography: '"Choreographies of shared sacred sites: religion, politics and conflict resolution."'
+  chicago-note-full: ', "Choreographies of shared sacred sites: religion, politics and conflict resolution,"'
+  chicago-note-short: ', "Choreographies of shared sacred sites:..,"'
   citation-key: barkanChoreographiesSharedSacred2016
   collection-title: Religion, culture, and public life
   edition: Paperback edition, 2016
@@ -412,6 +448,9 @@ references:
   author:
     - family: Barnes
       given: Douglas F.
+  chicago-bibliography: 'Barnes, Douglas F. "Charisma and Religious Leadership: An Historical Analysis." Journal for the Scientific Study of Religion 17, no. 1: 1–18. https://doi.org/10.2307/1385423'
+  chicago-note-full: 'Douglas F. Barnes, "Charisma and Religious Leadership: An Historical Analysis," Journal for the Scientific Study of Religion 17, no. 1, 1–18, https://doi.org/10.2307/1385423'
+  chicago-note-short: 'Barnes, "Charisma and Religious Leadership: An..,"'
   citation-key: barnesCharismaReligiousLeadership1978
   container-title: Journal for the Scientific Study of Religion
   container-title-short: J. Sci. Study Relig.
@@ -447,6 +486,9 @@ references:
   author:
     - family: Bechmann
       given: Ulrike
+  chicago-bibliography: 'Bechmann, Ulrike. "V.3 Interreligiöser Dialog und Religionswissenschaft. Zwischen Analyse und Engagement." Religionswissenschaft: 449–462. https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.449/html'
+  chicago-note-full: Ulrike Bechmann, "V.3 Interreligiöser Dialog und Religionswissenschaft. Zwischen Analyse und Engagement," Religionswissenschaft, 449–462, https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.449/html
+  chicago-note-short: Bechmann, "V.3 Interreligiöser Dialog und Religionswissenschaft..,"
   citation-key: bechmannV3InterreligioserDialog2012
   container-title: Religionswissenschaft
   editor:
@@ -480,6 +522,9 @@ references:
   author:
     - family: Beinhauer-Köhler
       given: Bärbel
+  chicago-bibliography: 'Beinhauer-Köhler, Bärbel. "IV.4 Religionsgeschichte schreiben." Religionswissenschaft: Aktuelle Annäherungen: 329–340. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-030/html'
+  chicago-note-full: 'Bärbel Beinhauer-Köhler, "IV.4 Religionsgeschichte schreiben," Religionswissenschaft: Aktuelle Annäherungen, 329–340, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-030/html'
+  chicago-note-short: Beinhauer-Köhler, "IV.4 Religionsgeschichte schreiben,"
   citation-key: beinhauer-koehlerIV4ReligionsgeschichteSchreiben2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -511,6 +556,9 @@ references:
   author:
     - family: Belzen
       given: J. A. van (Verfasser)
+  chicago-bibliography: 'Belzen, J. A. van (Verfasser). "Religionspsychologie : Eine historische Analyse im Spiegel der Internationalen Gesellschaft." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-662-46575-2'
+  chicago-note-full: 'J. A. van (Verfasser) Belzen, "Religionspsychologie : Eine historische Analyse im Spiegel der Internationalen Gesellschaft,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdx.doi.org%2F10.1007%2F978-3-662-46575-2'
+  chicago-note-short: 'Belzen, "Religionspsychologie : Eine historische Analyse..,"'
   citation-key: belzenReligionspsychologieHistorischeAnalyse2015
   edition: 1st ed. 2015
   ISBN: 978-3-662-46575-2
@@ -540,6 +588,9 @@ references:
   author:
     - family: Benslama
       given: Fethi
+  chicago-bibliography: 'Benslama, Fethi. "The subjective impact of the jihadist offer." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 75–85. https://doi.org/10.14220/jrat.2016.2.2.75'
+  chicago-note-full: Fethi Benslama, "The subjective impact of the jihadist offer," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 75–85, https://doi.org/10.14220/jrat.2016.2.2.75
+  chicago-note-short: Benslama, "The subjective impact of the..,"
   citation-key: benslamaSubjectiveImpactJihadist2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -575,6 +626,9 @@ references:
   author:
     - family: Bergunder
       given: Michael
+  chicago-bibliography: 'Bergunder, Michael. "IV.1 Methodologie des Religionsvergleichs: Reinkarnation zwischen „Ost“ und „West“." Religionswissenschaft: Aktuelle Annäherungen: 291–304. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-027/html'
+  chicago-note-full: 'Michael Bergunder, "IV.1 Methodologie des Religionsvergleichs: Reinkarnation zwischen „Ost“ und „West“," Religionswissenschaft: Aktuelle Annäherungen, 291–304, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-027/html'
+  chicago-note-short: 'Bergunder, "IV.1 Methodologie des Religionsvergleichs: Reinkarnation..,"'
   citation-key: bergunderIV1MethodologieReligionsvergleichs2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -616,6 +670,9 @@ references:
     - family: Berner
       given: Ulrich
   call-number: '2'
+  chicago-bibliography: 'Berner, Ulrich. "Synkretismus." Handbuch religionswissenschaftlicher Grundbegriffe 5: 143–152. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/07_Berner+-+2001+-+Synkretismus.pdf'
+  chicago-note-full: Ulrich Berner, "Synkretismus," Handbuch religionswissenschaftlicher Grundbegriffe 5, 143–152, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/07_Berner+-+2001+-+Synkretismus.pdf
+  chicago-note-short: Berner, "Synkretismus,"
   citation-key: bernerSynkretismus2001
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -685,6 +742,9 @@ references:
       given: Barbara E. (Mitwirkender)
     - family: Sabharwal
       given: Arjun (Mitwirkender)
+  chicago-bibliography: Bernstein, Meg (Mitwirkender), Emily Suzanne (Mitwirkender) Clark, James (Mitwirkender) Edmonds, Emily C. (Mitwirkender) Floyd, Suzanne van (Mitwirkender) Geuns, Florence Pasche (Mitwirkender) Guignard, Pamela E. (Mitwirkender) Klassen, Dana (Mitwirkender) Leibsohn, Rachel McBride (Mitwirkender) Lindsey, Rachel (Herausgeber) Mc Bride Lindsey, Rachel (Mitwirkender) McBride Lindsey, Urmila (Mitwirkender) Mohan, Barbara E. (Mitwirkender) Mundy, and Arjun (Mitwirkender) Sabharwal. "Introductions to Digital Humanities - Religion. Volume 6, Digital Humanities and Material Religion ; An Introduction." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1515%2F9783110608755
+  chicago-note-full: Meg (Mitwirkender) Bernstein, Emily Suzanne (Mitwirkender) Clark, James (Mitwirkender) Edmonds, Emily C. (Mitwirkender) Floyd, Suzanne van (Mitwirkender) Geuns, Florence Pasche (Mitwirkender) Guignard, Pamela E. (Mitwirkender) Klassen, Dana (Mitwirkender) Leibsohn, Rachel McBride (Mitwirkender) Lindsey, Rachel (Herausgeber) Mc Bride Lindsey, Rachel (Mitwirkender) McBride Lindsey, Urmila (Mitwirkender) Mohan, Barbara E. (Mitwirkender) Mundy, Arjun (Mitwirkender) Sabharwal, "Introductions to Digital Humanities - Religion. Volume 6, Digital Humanities and Material Religion ; An Introduction,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1515%2F9783110608755
+  chicago-note-short: Bernstein, "Introductions to Digital Humanities -..,"
   citation-key: bernsteinIntroductionsDigitalHumanities2022
   ISBN: 978-3-11-060875-5
   issued:
@@ -708,6 +768,9 @@ references:
       key: H5B9G45S
       type: file
   call-number: BL31 .R4 1998
+  chicago-bibliography: '"Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft."'
+  chicago-note-full: ', "Religion in Geschichte und Gegenwart: Handwörterbuch für Theologie und Religionswissenschaft,"'
+  chicago-note-short: ', "Religion in Geschichte und Gegenwart:..,"'
   citation-key: betzReligionGeschichteUnd1998
   edition: 4., völlig neu bearb. Aufl
   editor:
@@ -733,6 +796,9 @@ references:
   author:
     - family: Bigelow
       given: Anna
+  chicago-bibliography: 'Bigelow, Anna. "Sharing the sacred: practicing pluralism in muslim north India."'
+  chicago-note-full: 'Anna Bigelow, "Sharing the sacred: practicing pluralism in muslim north India,"'
+  chicago-note-short: 'Bigelow, "Sharing the sacred: practicing pluralism..,"'
   citation-key: bigelowSharingSacredPracticing2010
   ISBN: 978-0-19-536823-9
   issued:
@@ -751,6 +817,9 @@ references:
   zotero_language: eng
 
 - id: brintnallReligionEmbodiedReligion2016
+  chicago-bibliography: '"Religion: embodied religion."'
+  chicago-note-full: ', "Religion: embodied religion,"'
+  chicago-note-short: ', "Religion: embodied religion,"'
   citation-key: brintnallReligionEmbodiedReligion2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -787,6 +856,9 @@ references:
   author:
     - family: Bromberger
       given: Christian
+  chicago-bibliography: 'Bromberger, Christian. "Fußball als Weltsicht und als Ritual." Ritualtheorien: Ein einführendes Handbuch: 281–97. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/04_Bromberger_Fussball.pdf'
+  chicago-note-full: 'Christian Bromberger, "Fußball als Weltsicht und als Ritual," Ritualtheorien: Ein einführendes Handbuch, 281–97, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/04_Bromberger_Fussball.pdf'
+  chicago-note-short: Bromberger, "Fußball als Weltsicht und als..,"
   citation-key: brombergerFussballAlsWeltsicht2003
   container-title: 'Ritualtheorien: Ein einführendes Handbuch'
   edition: '5'
@@ -820,6 +892,9 @@ references:
   author:
     - family: Bürkle
       given: Horst (Herausgeber)
+  chicago-bibliography: Bürkle, Horst (Herausgeber). "Grundwerte menschlichen Verhaltens in den Religionen." . https://ubffm.hds.hebis.de/Record/HEB095267891
+  chicago-note-full: Horst (Herausgeber) Bürkle, "Grundwerte menschlichen Verhaltens in den Religionen,", https://ubffm.hds.hebis.de/Record/HEB095267891
+  chicago-note-short: Bürkle, "Grundwerte menschlichen Verhaltens in den..,"
   citation-key: burkleGrundwerteMenschlichenVerhaltens1993
   ISBN: 978-3-631-44740-6
   issued:
@@ -852,6 +927,9 @@ references:
       given: Heidi A.
     - family: Evolvi
       given: Giulia
+  chicago-bibliography: 'Campbell, Heidi A., and Giulia Evolvi. "Contextualizing current digital religion research on emerging technologies." Human Behavior and Emerging Technologies 2, no. 1: 5–17. https://doi.org/10.1002/hbe2.149'
+  chicago-note-full: Heidi A. Campbell, Giulia Evolvi, "Contextualizing current digital religion research on emerging technologies," Human Behavior and Emerging Technologies 2, no. 1, 5–17, https://doi.org/10.1002/hbe2.149
+  chicago-note-short: Campbell, "Contextualizing current digital religion research..,"
   citation-key: campbellContextualizingCurrentDigital2020
   container-title: Human Behavior and Emerging Technologies
   container-title-short: Hum. Behav. Emerg. Technol.
@@ -875,6 +953,9 @@ references:
 
 - id: cancikBand1Systematischer1988
   call-number: '2'
+  chicago-bibliography: '"Band 1. Systematischer Teil; Alphabetischer Teil: Aberglaube-Antisemitismus." Handbuch religionswissenschaftlicher Grundbegriffe 1. https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/v34eAAAAMAAJ'
+  chicago-note-full: ', "Band 1. Systematischer Teil; Alphabetischer Teil: Aberglaube-Antisemitismus," Handbuch religionswissenschaftlicher Grundbegriffe 1, https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/v34eAAAAMAAJ'
+  chicago-note-short: ', "Band 1. Systematischer Teil; Alphabetischer..,"'
   citation-key: cancikBand1Systematischer1988
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -903,6 +984,9 @@ references:
 
 - id: cancikBand2Apokalyptik1990
   call-number: '2'
+  chicago-bibliography: '"Band 2. Apokalyptik - Geschichte." Handbuch religionswissenschaftlicher Grundbegriffe 2. https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wH4eAAAAMAAJ'
+  chicago-note-full: ', "Band 2. Apokalyptik - Geschichte," Handbuch religionswissenschaftlicher Grundbegriffe 2, https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wH4eAAAAMAAJ'
+  chicago-note-short: ', "Band 2. Apokalyptik - Geschichte,"'
   citation-key: cancikBand2Apokalyptik1990
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -931,6 +1015,9 @@ references:
 
 - id: cancikBand3Gesetz1993
   call-number: '2'
+  chicago-bibliography: '"Band 3. Gesetz - Kult." Handbuch religionswissenschaftlicher Grundbegriffe 3. https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ'
+  chicago-note-full: ', "Band 3. Gesetz - Kult," Handbuch religionswissenschaftlicher Grundbegriffe 3, https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ'
+  chicago-note-short: ', "Band 3. Gesetz - Kult,"'
   citation-key: cancikBand3Gesetz1993
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -965,6 +1052,9 @@ references:
       key: DRRJ4DHI
       type: pdf
   call-number: '2'
+  chicago-bibliography: '"Band 4. Kultbild - Rolle." Handbuch religionswissenschaftlicher Grundbegriffe 4. https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ'
+  chicago-note-full: ', "Band 4. Kultbild - Rolle," Handbuch religionswissenschaftlicher Grundbegriffe 4, https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ'
+  chicago-note-short: ', "Band 4. Kultbild - Rolle,"'
   citation-key: cancikBand4Kultbild1998
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -993,6 +1083,9 @@ references:
 
 - id: cancikBand5SaekularisierungZwischenwesen2001
   call-number: '2'
+  chicago-bibliography: '"Band 5. Säkularisierung-Zwischenwesen; Register." Handbuch religionswissenschaftlicher Grundbegriffe 5. https://books.google.de/books?id=5_3WAAAAMAAJ'
+  chicago-note-full: ', "Band 5. Säkularisierung-Zwischenwesen; Register," Handbuch religionswissenschaftlicher Grundbegriffe 5, https://books.google.de/books?id=5_3WAAAAMAAJ'
+  chicago-note-short: ', "Band 5. Säkularisierung-Zwischenwesen; Register,"'
   citation-key: cancikBand5SaekularisierungZwischenwesen2001
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -1021,6 +1114,9 @@ references:
 
 - id: cancikHandbuchReligionswissenschaftlicherGrundbegriffe1988
   call-number: '2'
+  chicago-bibliography: '"Handbuch religionswissenschaftlicher Grundbegriffe."'
+  chicago-note-full: ', "Handbuch religionswissenschaftlicher Grundbegriffe,"'
+  chicago-note-short: ', "Handbuch religionswissenschaftlicher Grundbegriffe,"'
   citation-key: cancikHandbuchReligionswissenschaftlicherGrundbegriffe1988
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   editor:
@@ -1059,6 +1155,9 @@ references:
   author:
     - family: Cavalli
       given: Luciano
+  chicago-bibliography: 'Cavalli, Luciano. "2 Charisma, Gemeinde und Bewegung Zwei Paradigmata für den charismatischen Prozeß." Charisma: Theorie - Religion - Politik: 33–46. https://www.degruyterbrill.com/document/doi/10.1515/9783110889796.33/html'
+  chicago-note-full: 'Luciano Cavalli, "2 Charisma, Gemeinde und Bewegung Zwei Paradigmata für den charismatischen Prozeß," Charisma: Theorie - Religion - Politik, 33–46, https://www.degruyterbrill.com/document/doi/10.1515/9783110889796.33/html'
+  chicago-note-short: Cavalli, "2 Charisma, Gemeinde und Bewegung..,"
   citation-key: cavalli2CharismaGemeinde2013
   container-title: 'Charisma: Theorie - Religion - Politik'
   editor:
@@ -1086,6 +1185,9 @@ references:
   zotero_language: de
 
 - id: christophejaffrelotSHAREDSACREDSITES2025
+  chicago-bibliography: '"SHARED SACRED SITES IN SOUTH ASIA: negotiating coexistence and belonging."'
+  chicago-note-full: ', "SHARED SACRED SITES IN SOUTH ASIA: negotiating coexistence and belonging,"'
+  chicago-note-short: ', "SHARED SACRED SITES IN SOUTH..,"'
   citation-key: christophejaffrelotSHAREDSACREDSITES2025
   editor:
     - family: Christophe Jaffrelot
@@ -1117,6 +1219,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/ZSVVE7X3/Results.html
       key: ZSVVE7X3
       type: file
+  chicago-bibliography: '"Religion: mental religion."'
+  chicago-note-full: ', "Religion: mental religion,"'
+  chicago-note-short: ', "Religion: mental religion,"'
   citation-key: clementsReligionMentalReligion2017
   collection-title: Macmillan interdisciplinary handbooks. Religion
   editor:
@@ -1139,6 +1244,9 @@ references:
   zotero_language: eng
 
 - id: colemanMedicineReligionBody2010
+  chicago-bibliography: '"Medicine, religion, and the body." . https://doi.org/10.1163/ej.9789004179707.i-300'
+  chicago-note-full: ', "Medicine, religion, and the body,", https://doi.org/10.1163/ej.9789004179707.i-300'
+  chicago-note-short: ', "Medicine, religion, and the body,"'
   citation-key: colemanMedicineReligionBody2010
   collection-number: v. 11
   collection-title: International studies in religion and society
@@ -1179,6 +1287,9 @@ references:
       given: Hanna (Herausgeber)
     - family: Stille
       given: Max (Herausgeber)
+  chicago-bibliography: Conrad, Ruth (Herausgeber), Roland (Herausgeber) Hardenberg, Hanna (Herausgeber) Miethner, and Max (Herausgeber) Stille. "Ritual and social dynamics in Christian and Islamic preaching." (2024). https://doi.org/10.5040/9781350408876
+  chicago-note-full: Ruth (Herausgeber) Conrad, Roland (Herausgeber) Hardenberg, Hanna (Herausgeber) Miethner, Max (Herausgeber) Stille, "Ritual and social dynamics in Christian and Islamic preaching," (2024), https://doi.org/10.5040/9781350408876
+  chicago-note-short: Conrad, "Ritual and social dynamics in..," (2024)
   citation-key: conradRitualSocialDynamics2024
   DOI: 10.5040/9781350408876
   ISBN: 978-1-350-40885-2
@@ -1214,6 +1325,9 @@ references:
   author:
     - family: Csordas
       given: Thomas J.
+  chicago-bibliography: 'Csordas, Thomas J. "1. Introduction." The sacred self: A cultural phenomenology of charismatic healing: 1–24. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/11_Csordas_SacredSelf.pdf'
+  chicago-note-full: 'Thomas J. Csordas, "1. Introduction," The sacred self: A cultural phenomenology of charismatic healing, 1–24, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/11_Csordas_SacredSelf.pdf'
+  chicago-note-short: Csordas, "1. Introduction,"
   citation-key: csordas1Introduction1994
   container-title: 'The sacred self: A cultural phenomenology of charismatic healing'
   ISBN: 978-0-520-08311-0
@@ -1294,6 +1408,9 @@ references:
   author:
     - family: Cyranka
       given: Daniel
+  chicago-bibliography: 'Cyranka, Daniel. "II.3 Was ist Esoterik?." Religionswissenschaft: Aktuelle Annäherungen: 151–160. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-014/html'
+  chicago-note-full: 'Daniel Cyranka, "II.3 Was ist Esoterik?," Religionswissenschaft: Aktuelle Annäherungen, 151–160, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-014/html'
+  chicago-note-short: Cyranka, "II.3 Was ist Esoterik?,"
   citation-key: cyrankaII3WasIst2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -1329,6 +1446,9 @@ references:
   author:
     - family: Decker
       given: Doris
+  chicago-bibliography: 'Decker, Doris. "IV.5 Kontextualisierungen religionsgeschichtlicher Textquellen." Religionswissenschaft: Aktuelle Annäherungen: 341–352. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-031/html'
+  chicago-note-full: 'Doris Decker, "IV.5 Kontextualisierungen religionsgeschichtlicher Textquellen," Religionswissenschaft: Aktuelle Annäherungen, 341–352, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-031/html'
+  chicago-note-short: Decker, "IV.5 Kontextualisierungen religionsgeschichtlicher Textquellen,"
   citation-key: deckerIV5KontextualisierungenReligionsgeschichtlicher2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -1354,6 +1474,9 @@ references:
   zotero_language: de
 
 - id: deconickReligionSecretReligion2016
+  chicago-bibliography: '"Religion: secret religion."'
+  chicago-note-full: ', "Religion: secret religion,"'
+  chicago-note-short: ', "Religion: secret religion,"'
   citation-key: deconickReligionSecretReligion2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -1390,6 +1513,9 @@ references:
   author:
     - family: Deibl
       given: Jakob Helmut
+  chicago-bibliography: 'Deibl, Jakob Helmut. "Interpretation und Bündnis." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 107–130. https://doi.org/10.14220/jrat.2016.2.2.107'
+  chicago-note-full: Jakob Helmut Deibl, "Interpretation und Bündnis," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 107–130, https://doi.org/10.14220/jrat.2016.2.2.107
+  chicago-note-short: Deibl, "Interpretation und Bündnis,"
   citation-key: deiblInterpretationUndBundnis2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -1422,6 +1548,9 @@ references:
     - family: Jong
       given: Albert
       non-dropping-particle: de
+  chicago-bibliography: 'Jong, Albert. "Spiritual Elite Communities in the Contemporary Middle East." Sociology of Islam 6, no. 2: 116–140. https://doi.org/10.1163/22131418-00602002'
+  chicago-note-full: Albert Jong, "Spiritual Elite Communities in the Contemporary Middle East," Sociology of Islam 6, no. 2, 116–140, https://doi.org/10.1163/22131418-00602002
+  chicago-note-short: Jong, "Spiritual Elite Communities in the..,"
   citation-key: dejongSpiritualEliteCommunities2018
   container-title: Sociology of Islam
   container-title-short: Sociol. Islam
@@ -1457,6 +1586,9 @@ references:
   author:
     - family: Dreßler
       given: Markus
+  chicago-bibliography: 'Dreßler, Markus. "I.4 Religionisierung: Ein konstruktivistischer Zugang zu Religion und Säkularität." Religionswissenschaft: Aktuelle Annäherungen: 61–72. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-006/html'
+  chicago-note-full: 'Markus Dreßler, "I.4 Religionisierung: Ein konstruktivistischer Zugang zu Religion und Säkularität," Religionswissenschaft: Aktuelle Annäherungen, 61–72, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-006/html'
+  chicago-note-short: 'Dreßler, "I.4 Religionisierung: Ein konstruktivistischer Zugang..,"'
   citation-key: dresslerI4ReligionisierungKonstruktivistischer2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -1491,6 +1623,9 @@ references:
   author:
     - family: Durkheim
       given: Émile
+  chicago-bibliography: 'Durkheim, Émile. "Durkheim on religion : a selection of readings with bibliographies." . http://archive.org/details/durkheimonreligi0000durk'
+  chicago-note-full: 'Émile Durkheim, "Durkheim on religion : a selection of readings with bibliographies,", http://archive.org/details/durkheimonreligi0000durk'
+  chicago-note-short: 'Durkheim, "Durkheim on religion : a..,"'
   citation-key: durkheimDurkheimReligionSelection1975
   contributor:
     - literal: Internet Archive
@@ -1521,6 +1656,9 @@ references:
       given: Émile (Verfasser)
     - family: Adorno
       given: Theodor W.
+  chicago-bibliography: 'Durkheim, Émile (Verfasser), and Theodor W. Adorno. "Soziologie und Philosophie : mit einer Einleitung von Theodor W. Adorno." . https://ubffm.hds.hebis.de/Record/HEB184748046'
+  chicago-note-full: 'Émile (Verfasser) Durkheim, Theodor W. Adorno, "Soziologie und Philosophie : mit einer Einleitung von Theodor W. Adorno,", https://ubffm.hds.hebis.de/Record/HEB184748046'
+  chicago-note-short: 'Durkheim, "Soziologie und Philosophie : mit..,"'
   citation-key: durkheimSoziologieUndPhilosophie1996
   edition: 3. Auflage
   ISBN: 978-3-518-27776-8
@@ -1548,6 +1686,9 @@ references:
       given: Amir
     - family: Middelbeck-Varwick
       given: Anja
+  chicago-bibliography: Dziri, Amir, and Anja Middelbeck-Varwick. "Flucht, Migration, Vertreibung - Herausforderungen für die christliche und islamische Theologie?." . https://publikationen.uni.tuebingen.de/xmlui/handle/10900/137123
+  chicago-note-full: Amir Dziri, Anja Middelbeck-Varwick, "Flucht, Migration, Vertreibung - Herausforderungen für die christliche und islamische Theologie?,", https://publikationen.uni.tuebingen.de/xmlui/handle/10900/137123
+  chicago-note-short: Dziri, "Flucht, Migration, Vertreibung - Herausforderungen..,"
   citation-key: dziriFluchtMigrationVertreibung2018
   issued:
     - year: 2018
@@ -1575,6 +1716,9 @@ references:
   author:
     - family: Eilert
       given: Jürgen
+  chicago-bibliography: 'Eilert, Jürgen. "Fundamentalistische Kommunikation als religionspädagogische Herausforderung ? Fundamentalisten sind nicht immer »die Anderen«." Fundamentalismus als religionspädagogische Herausforderung: 197–208. https://doi.org/10.14220/9783737004190.197'
+  chicago-note-full: Jürgen Eilert, "Fundamentalistische Kommunikation als religionspädagogische Herausforderung ? Fundamentalisten sind nicht immer »die Anderen«," Fundamentalismus als religionspädagogische Herausforderung, 197–208, https://doi.org/10.14220/9783737004190.197
+  chicago-note-short: Eilert, "Fundamentalistische Kommunikation als religionspädagogische Herausforderung..,"
   citation-key: eilertFundamentalistischeKommunikationAls2015
   container-title: Fundamentalismus als religionspädagogische Herausforderung
   DOI: 10.14220/9783737004190.197
@@ -1597,6 +1741,9 @@ references:
   author:
     - family: Eppler
       given: Wilhelm (Herausgeber)
+  chicago-bibliography: Eppler, Wilhelm (Herausgeber). "Fundamentalismus als religionspädagogische Herausforderung." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.14220%2F9783737004190
+  chicago-note-full: Wilhelm (Herausgeber) Eppler, "Fundamentalismus als religionspädagogische Herausforderung,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.14220%2F9783737004190
+  chicago-note-short: Eppler, "Fundamentalismus als religionspädagogische Herausforderung,"
   citation-key: epplerFundamentalismusAlsReligionspadagogische2015
   edition: 1. Auflage
   ISBN: 978-3-7370-0419-0
@@ -1629,6 +1776,9 @@ references:
       given: Edith
     - family: Maske
       given: Verena
+  chicago-bibliography: 'Franke, Edith, and Verena Maske. "Religionen, Religionswissenschaft und die Kategorie Geschlecht/Gender." Religionswissenschaft: 125–139. https://doi.org/10.1515/9783110258936'
+  chicago-note-full: Edith Franke, Verena Maske, "Religionen, Religionswissenschaft und die Kategorie Geschlecht/Gender," Religionswissenschaft, 125–139, https://doi.org/10.1515/9783110258936
+  chicago-note-short: Franke, "Religionen, Religionswissenschaft und die Kategorie..,"
   citation-key: frankeReligionenReligionswissenschaftUnd2012
   collection-title: De Gruyter Studium
   container-title: Religionswissenschaft
@@ -1682,6 +1832,9 @@ references:
       given: Maren
     - family: Schüler
       given: Sebastian
+  chicago-bibliography: 'Freudenberg, Maren, and Sebastian Schüler. "II.1 Charisma: Genese, Erhalt und Veralltäglichung von Autoritätsbeziehungen in Religion." Religionswissenschaft: Aktuelle Annäherungen: 127–138. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-012/html'
+  chicago-note-full: 'Maren Freudenberg, Sebastian Schüler, "II.1 Charisma: Genese, Erhalt und Veralltäglichung von Autoritätsbeziehungen in Religion," Religionswissenschaft: Aktuelle Annäherungen, 127–138, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-012/html'
+  chicago-note-short: 'Freudenberg, "II.1 Charisma: Genese, Erhalt und..,"'
   citation-key: freudenbergII1CharismaGenese2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -1723,6 +1876,9 @@ references:
   author:
     - family: Freudenberg
       given: Maren
+  chicago-bibliography: 'Freudenberg, Maren. "Joel Osteen’s Prosperity Gospel and the Enduring Popularity of America’s “Smiling Preacher”." Ritual and Social Dynamics in Christian and Islamic Preaching: 105–126. https://doi.org/10.5040/9781350408876.ch-005'
+  chicago-note-full: Maren Freudenberg, "Joel Osteen’s Prosperity Gospel and the Enduring Popularity of America’s “Smiling Preacher”," Ritual and Social Dynamics in Christian and Islamic Preaching, 105–126, https://doi.org/10.5040/9781350408876.ch-005
+  chicago-note-short: Freudenberg, "Joel Osteen’s Prosperity Gospel and..,"
   citation-key: freudenbergJoelOsteensProsperity2024
   container-title: Ritual and Social Dynamics in Christian and Islamic Preaching
   DOI: 10.5040/9781350408876.ch-005
@@ -1767,6 +1923,9 @@ references:
   author:
     - family: Freud
       given: Sigmund
+  chicago-bibliography: Freud, Sigmund. "Die Zukunft einer Illusion." . http://archive.org/details/Freud_1927_Die_Zukunft_einer_Illusion_k
+  chicago-note-full: Sigmund Freud, "Die Zukunft einer Illusion,", http://archive.org/details/Freud_1927_Die_Zukunft_einer_Illusion_k
+  chicago-note-short: Freud, "Die Zukunft einer Illusion,"
   citation-key: freudZukunftIllusion1927
   issued:
     - year: 1927
@@ -1815,6 +1974,9 @@ references:
       given: S.
     - family: Borasio
       given: G.d.
+  chicago-bibliography: 'Frick, E., C. Riedner, M.j. Fegg, S. Hauf, and G.d. Borasio. "A clinical interview assessing cancer patients’ spiritual needs and preferences." European Journal of Cancer Care 15, no. 3: 238–243. https://doi.org/10.1111/j.1365-2354.2005.00646.x'
+  chicago-note-full: E. Frick, C. Riedner, M.j. Fegg, S. Hauf, G.d. Borasio, "A clinical interview assessing cancer patients’ spiritual needs and preferences," European Journal of Cancer Care 15, no. 3, 238–243, https://doi.org/10.1111/j.1365-2354.2005.00646.x
+  chicago-note-short: Frick, "A clinical interview assessing cancer..,"
   citation-key: frickClinicalInterviewAssessing2006
   container-title: European Journal of Cancer Care
   container-title-short: Eur. J. Cancer Care (Engl.)
@@ -1853,6 +2015,9 @@ references:
     - family: Funk
       given: Rainer (Herausgeber)
   call-number: 90.938.12
+  chicago-bibliography: Fromm, Erich (Verfasser), Elisabeth (Übersetzer) Rotten, Liselotte (Übersetzer) Mickel, Ernst (Übersetzer) Mickel, and Rainer (Herausgeber) Funk. "Psychoanalyse und Religion." . https://ubffm.hds.hebis.de/Record/HEB42879825X
+  chicago-note-full: Erich (Verfasser) Fromm, Elisabeth (Übersetzer) Rotten, Liselotte (Übersetzer) Mickel, Ernst (Übersetzer) Mickel, Rainer (Herausgeber) Funk, "Psychoanalyse und Religion,", https://ubffm.hds.hebis.de/Record/HEB42879825X
+  chicago-note-short: Fromm, "Psychoanalyse und Religion,"
   citation-key: frommPsychoanalyseUndReligion2018
   edition: Neuausgabe
   ISBN: 978-3-423-34934-5
@@ -1877,6 +2042,9 @@ references:
   author:
     - family: Gebauer
       given: Matthias
+  chicago-bibliography: 'Gebauer, Matthias. "Erlebe den Versuch von Zion! Die Religionsgeschichte der Mormonen als Living History Museum und sakrales Event." Geographische Rundschau 74, no. 10: 40–45. https://www.westermann.de/anlage/4649775/Erlebe-den-Versuch-von-Zion-Die-Religionsgeschichte-der-Mormonen-als-Living-History-Museum-und-sakrales-Event'
+  chicago-note-full: Matthias Gebauer, "Erlebe den Versuch von Zion! Die Religionsgeschichte der Mormonen als Living History Museum und sakrales Event," Geographische Rundschau 74, no. 10, 40–45, https://www.westermann.de/anlage/4649775/Erlebe-den-Versuch-von-Zion-Die-Religionsgeschichte-der-Mormonen-als-Living-History-Museum-und-sakrales-Event
+  chicago-note-short: Gebauer, "Erlebe den Versuch von Zion!..,"
   citation-key: gebauerErlebeVersuchZion2022
   container-title: Geographische Rundschau
   container-title-short: Geogr. Rundsch.
@@ -1908,6 +2076,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/I2IBEXED/Gebhardt et al. - 2013 - Charisma Theorie - Religion - Politik.pdf
       key: I2IBEXED
       type: pdf
+  chicago-bibliography: '"Charisma: Theorie - Religion - Politik." . https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110889796/html'
+  chicago-note-full: ', "Charisma: Theorie - Religion - Politik,", https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110889796/html'
+  chicago-note-short: ', "Charisma: Theorie - Religion -..,"'
   citation-key: gebhardtCharismaTheorieReligion2013
   editor:
     - family: Gebhardt
@@ -1952,6 +2123,9 @@ references:
   author:
     - family: Gemmeke
       given: Amber B.
+  chicago-bibliography: 'Gemmeke, Amber B. "Marabout women in Dakar: Creating authority in Islamic knowledge." Africa: Journal of the International African Institute 79, no. 1 (= Knowledge in Practice: Expertise and the Transmission of Knowledge): 128–147. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/06_Marabout_Women_Dakar.pdf'
+  chicago-note-full: 'Amber B. Gemmeke, "Marabout women in Dakar: Creating authority in Islamic knowledge," Africa: Journal of the International African Institute 79, no. 1 (= Knowledge in Practice: Expertise and the Transmission of Knowledge), 128–147, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/06_Marabout_Women_Dakar.pdf'
+  chicago-note-short: 'Gemmeke, "Marabout women in Dakar: Creating..,"'
   citation-key: gemmekeMaraboutWomenDakar2009
   container-title: 'Africa: Journal of the International African Institute'
   container-title-short: Afr. J. Int. Afr. Inst.
@@ -1979,6 +2153,9 @@ references:
   author:
     - family: Golan
       given: Oren
+  chicago-bibliography: 'Golan, Oren. "Introduction: Digital Youth and Religion." Religions 14, no. 6: 704. https://doi.org/10.3390/rel14060704'
+  chicago-note-full: 'Oren Golan, "Introduction: Digital Youth and Religion," Religions 14, no. 6, 704, https://doi.org/10.3390/rel14060704'
+  chicago-note-short: 'Golan, "Introduction: Digital Youth and Religion,"'
   citation-key: golanIntroductionDigitalYouth2023
   container-title: Religions
   DOI: 10.3390/rel14060704
@@ -2018,6 +2195,9 @@ references:
   author:
     - family: Goshadze
       given: Mariam
+  chicago-bibliography: 'Goshadze, Mariam. "I.7 African Traditional Religion (ATR): A Model in the Study of African Religions." Religionswissenschaft: Aktuelle Annäherungen: 97–106. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-009/html'
+  chicago-note-full: 'Mariam Goshadze, "I.7 African Traditional Religion (ATR): A Model in the Study of African Religions," Religionswissenschaft: Aktuelle Annäherungen, 97–106, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-009/html'
+  chicago-note-short: Goshadze, "I.7 African Traditional Religion (ATR):..,"
   citation-key: goshadzeI7AfricanTraditional2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -2053,6 +2233,9 @@ references:
   author:
     - family: Grimes
       given: Ronald L.
+  chicago-bibliography: Grimes, Ronald L. "Beginnings in ritual studies." . https://ubffm.hds.hebis.de/Record/HEB04315218X
+  chicago-note-full: Ronald L. Grimes, "Beginnings in ritual studies,", https://ubffm.hds.hebis.de/Record/HEB04315218X
+  chicago-note-short: Grimes, "Beginnings in ritual studies,"
   citation-key: grimesBeginningsRitualStudies1995
   edition: rev. ed.
   ISBN: 978-1-57003-001-7
@@ -2080,6 +2263,9 @@ references:
   author:
     - family: Grimes
       given: Ronald L.
+  chicago-bibliography: Grimes, Ronald L. "The Craft of Ritual Studies." . https://www.google.de/books?id=BWMBAQAAQBAJ
+  chicago-note-full: Ronald L. Grimes, "The Craft of Ritual Studies,", https://www.google.de/books?id=BWMBAQAAQBAJ
+  chicago-note-short: Grimes, "The Craft of Ritual Studies,"
   citation-key: grimesCraftRitualStudies2014
   ISBN: 978-0-19-530142-7
   issued:
@@ -2113,6 +2299,9 @@ references:
   author:
     - family: Grimes
       given: Ronald L.
+  chicago-bibliography: 'Grimes, Ronald L. "Rite out of place : ritual, media, and the arts." . https://ubffm.hds.hebis.de/Record/HEB18034837X'
+  chicago-note-full: 'Ronald L. Grimes, "Rite out of place : ritual, media, and the arts,", https://ubffm.hds.hebis.de/Record/HEB18034837X'
+  chicago-note-short: Grimes, "Rite out of place :..,"
   citation-key: grimesRiteOutPlace2006
   ISBN: 978-0-19-530145-8
   issued:
@@ -2139,6 +2328,9 @@ references:
   author:
     - family: Haußmann
       given: Werner
+  chicago-bibliography: 'Haußmann, Werner. "Universität und Lehrerausbildung als Orte interreligiösen Lernens." Handbuch interreligiöses Lernen: 508–519. https://comenius.de/produkt/a40058_handbuch_interreligioeses_lernen/'
+  chicago-note-full: Werner Haußmann, "Universität und Lehrerausbildung als Orte interreligiösen Lernens," Handbuch interreligiöses Lernen, 508–519, https://comenius.de/produkt/a40058_handbuch_interreligioeses_lernen/
+  chicago-note-short: Haußmann, "Universität und Lehrerausbildung als Orte..,"
   citation-key: haussmannUniversitaetUndLehrerausbildung2013
   container-title: Handbuch interreligiöses Lernen
   editor:
@@ -2188,6 +2380,9 @@ references:
       given: Enrique
     - family: Bakić-Hayden
       given: Milica
+  chicago-bibliography: Hayden, Robert M., Aykan Erdemir, Tuğba Tanyeri-Erdemir, Timothy D. Walker, Devika Rangachari, Manuel Aguilar-Moreno, Enrique López-Hurtado, and Milica Bakić-Hayden. "Antagonistic Tolerance." . https://doi.org/10.4324/9781315642079
+  chicago-note-full: Robert M. Hayden, Aykan Erdemir, Tuğba Tanyeri-Erdemir, Timothy D. Walker, Devika Rangachari, Manuel Aguilar-Moreno, Enrique López-Hurtado, Milica Bakić-Hayden, "Antagonistic Tolerance,", https://doi.org/10.4324/9781315642079
+  chicago-note-short: Hayden, "Antagonistic Tolerance,"
   citation-key: haydenAntagonisticTolerance2016
   DOI: 10.4324/9781315642079
   edition: '0'
@@ -2222,6 +2417,9 @@ references:
   author:
     - family: Hayden
       given: Robert M.
+  chicago-bibliography: 'Hayden, Robert M. "Antagonistic Tolerance: Competitive Sharing of Religious Sites in South Asia and the Balkans." Current Anthropology 43, no. 2: 205–231. https://doi.org/10.1086/338303'
+  chicago-note-full: 'Robert M. Hayden, "Antagonistic Tolerance: Competitive Sharing of Religious Sites in South Asia and the Balkans," Current Anthropology 43, no. 2, 205–231, https://doi.org/10.1086/338303'
+  chicago-note-short: 'Hayden, "Antagonistic Tolerance: Competitive Sharing of..,"'
   citation-key: haydenAntagonisticToleranceCompetitive2002
   container-title: Current Anthropology
   container-title-short: Curr. Anthropol.
@@ -2251,6 +2449,9 @@ references:
     - family: Heine
       given: Susanne
   call-number: 02/BE 3620 H468
+  chicago-bibliography: 'Heine, Susanne. "Grundlagen der Religionspsychologie : Modelle und Methoden." . https://ubffm.hds.hebis.de/Record/HEB121790029'
+  chicago-note-full: 'Susanne Heine, "Grundlagen der Religionspsychologie : Modelle und Methoden,", https://ubffm.hds.hebis.de/Record/HEB121790029'
+  chicago-note-short: 'Heine, "Grundlagen der Religionspsychologie : Modelle..,"'
   citation-key: heineGrundlagenReligionspsychologieModelle2005
   ISBN: 978-3-8252-2528-5
   issued:
@@ -2280,6 +2481,9 @@ references:
       given: Birgit
     - family: Franke
       given: Edith
+  chicago-bibliography: Heller, Birgit, and Edith Franke. "Religion und Geschlecht." . https://doi.org/10.1515/9783110697407
+  chicago-note-full: Birgit Heller, Edith Franke, "Religion und Geschlecht,", https://doi.org/10.1515/9783110697407
+  chicago-note-short: Heller, "Religion und Geschlecht,"
   citation-key: hellerReligionUndGeschlecht2024
   DOI: 10.1515/9783110697407
   ISBN: 978-3-11-069740-7 978-3-11-069340-9 978-3-11-069748-3
@@ -2311,6 +2515,9 @@ references:
     - family: Henning
       given: Christian (Herausgeber)
   call-number: 02/BE 3620 H517
+  chicago-bibliography: Henning, Christian (Herausgeber). "Einführung in die Religionspsychologie." . https://ubffm.hds.hebis.de/Record/HEB116532807
+  chicago-note-full: Christian (Herausgeber) Henning, "Einführung in die Religionspsychologie,", https://ubffm.hds.hebis.de/Record/HEB116532807
+  chicago-note-short: Henning, "Einführung in die Religionspsychologie,"
   citation-key: henningEinfuehrungReligionspsychologie2003
   ISBN: 978-3-8252-2435-6
   issued:
@@ -2342,6 +2549,9 @@ references:
   author:
     - family: Hermann
       given: Adrian
+  chicago-bibliography: 'Hermann, Adrian. "IV.6 Globale Religionsgeschichte: Zeitschriften als Medium von „Religion“ um 1900." Religionswissenschaft: Aktuelle Annäherungen: 353–364. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-032/html'
+  chicago-note-full: 'Adrian Hermann, "IV.6 Globale Religionsgeschichte: Zeitschriften als Medium von „Religion“ um 1900," Religionswissenschaft: Aktuelle Annäherungen, 353–364, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-032/html'
+  chicago-note-short: 'Hermann, "IV.6 Globale Religionsgeschichte: Zeitschriften als..,"'
   citation-key: hermannIV6GlobaleReligionsgeschichte2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -2377,6 +2587,9 @@ references:
       given: Richard S.
     - family: Pringle
       given: Denys
+  chicago-bibliography: 'Hess, Richard S., and Denys Pringle. "12. Sacred Spaces and Holy Places." The Oxford Illustrated History of the Holy Land: 317–351. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/10_Hess+and+Pringle+-+2018+-+12.+Sacred+Spaces+and+Holy+Places.pdf'
+  chicago-note-full: Richard S. Hess, Denys Pringle, "12. Sacred Spaces and Holy Places," The Oxford Illustrated History of the Holy Land, 317–351, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/10_Hess+and+Pringle+-+2018+-+12.+Sacred+Spaces+and+Holy+Places.pdf
+  chicago-note-short: Hess, "12. Sacred Spaces and Holy..,"
   citation-key: hess12SacredSpaces2018
   container-title: The Oxford Illustrated History of the Holy Land
   editor:
@@ -2413,6 +2626,9 @@ references:
   author:
     - family: Hoch
       given: Lothar Carlos 1945-
+  chicago-bibliography: 'Hoch, Lothar Carlos 1945-. "Gott im Körper erfahren: das Phänomen religiöser Heilungen in den Pfingstkirchen und den afrobrasilianischen Kulten als Herausforderung für Medizin und Kirche." Heilung in Mission und Ökumene: Impulse zum interkulturellen Dialog über Heilung und ihre kirchliche Praxis: 153–166'
+  chicago-note-full: 'Lothar Carlos 1945- Hoch, "Gott im Körper erfahren: das Phänomen religiöser Heilungen in den Pfingstkirchen und den afrobrasilianischen Kulten als Herausforderung für Medizin und Kirche," Heilung in Mission und Ökumene: Impulse zum interkulturellen Dialog über Heilung und ihre kirchliche Praxis, 153–166'
+  chicago-note-short: 'Hoch, "Gott im Körper erfahren: das..,"'
   citation-key: hochGottImKoerper2001
   collection-number: '41'
   collection-title: Weltmission heute
@@ -2443,6 +2659,9 @@ references:
   author:
     - family: Hock
       given: Klaus
+  chicago-bibliography: Hock, Klaus. "Einführung in die Religionswissenschaft." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fcontent-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783534738519
+  chicago-note-full: Klaus Hock, "Einführung in die Religionswissenschaft,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fcontent-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783534738519
+  chicago-note-short: Hock, "Einführung in die Religionswissenschaft,"
   citation-key: hockEinfuehrungReligionswissenschaft2014
   collection-title: Einführung Theologie
   edition: 5., bibliografisch erweiterte Auflage
@@ -2476,6 +2695,9 @@ references:
   author:
     - family: Hock
       given: Klaus
+  chicago-bibliography: 'Hock, Klaus. "V.3. Religionssoziologische Typenbildungen." Einführung in die Religionswissenschaft: 97–105. https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073923&page=19'
+  chicago-note-full: Klaus Hock, "V.3. Religionssoziologische Typenbildungen," Einführung in die Religionswissenschaft, 97–105, https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073923&page=19
+  chicago-note-short: Hock, "V.3. Religionssoziologische Typenbildungen,"
   citation-key: hockV3ReligionssoziologischeTypenbildungen2014
   collection-title: Einführung Theologie
   container-title: Einführung in die Religionswissenschaft
@@ -2513,6 +2735,9 @@ references:
   author:
     - family: Hock
       given: Klaus
+  chicago-bibliography: 'Hock, Klaus. "VIII.1. Religionsgeographie – Religion-Umwelt-Forschung – Geographie der Geisteshaltung." Einführung in die Religionswissenschaft: 146–152. https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1'
+  chicago-note-full: Klaus Hock, "VIII.1. Religionsgeographie – Religion-Umwelt-Forschung – Geographie der Geisteshaltung," Einführung in die Religionswissenschaft, 146–152, https://content-select-com.proxy.ub.uni-frankfurt.de/media/moz_viewer/57ced661-5604-4f60-84b6-2ac1b0dd2d03#chapter=8073941&page=1
+  chicago-note-short: Hock, "VIII.1. Religionsgeographie – Religion-Umwelt-Forschung –..,"
   citation-key: hockVIII1ReligionsgeographieReligionUmweltForschung2014
   collection-title: Einführung Theologie
   container-title: Einführung in die Religionswissenschaft
@@ -2550,6 +2775,9 @@ references:
   author:
     - family: Hödl
       given: Hans Gerald
+  chicago-bibliography: 'Hödl, Hans Gerald. "Reversed racism: fundamentalist genealogies in African-American religions." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 131–153. https://doi.org/10.14220/jrat.2016.2.2.131'
+  chicago-note-full: 'Hans Gerald Hödl, "Reversed racism: fundamentalist genealogies in African-American religions," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 131–153, https://doi.org/10.14220/jrat.2016.2.2.131'
+  chicago-note-short: 'Hödl, "Reversed racism: fundamentalist genealogies in..,"'
   citation-key: hodlReversedRacismFundamentalist2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -2579,6 +2807,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/TUFLPVUD/Höpflinger et al. - 2008 - Handbuch Gender und Religion.pdf
       key: TUFLPVUD
       type: pdf
+  chicago-bibliography: '"Handbuch Gender und Religion." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.utb.de%2Fdoi%2Fbook%2F10.36198%2F9783838530628'
+  chicago-note-full: ', "Handbuch Gender und Religion,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Felibrary.utb.de%2Fdoi%2Fbook%2F10.36198%2F9783838530628'
+  chicago-note-short: ', "Handbuch Gender und Religion,"'
   citation-key: hoepflingerHandbuchGenderUnd2008
   collection-number: '3062'
   collection-title: UTB Theologie, Religion
@@ -2622,6 +2853,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/KZ6XTKAX/76897.html
       key: KZ6XTKAX
       type: file
+  chicago-bibliography: '"Exploring Ritual Fields Today." . https://doi.org/10.3390/books978-3-0365-1311-9'
+  chicago-note-full: ', "Exploring Ritual Fields Today,", https://doi.org/10.3390/books978-3-0365-1311-9'
+  chicago-note-short: ', "Exploring Ritual Fields Today,"'
   citation-key: hoondertExploringRitualFields2021
   DOI: 10.3390/books978-3-0365-1311-9
   editor:
@@ -2651,6 +2885,9 @@ references:
       path: ''
       key: M2FPLGKR
       type: webpage
+  chicago-bibliography: '"The Oxford Illustrated History of the Holy Land."'
+  chicago-note-full: ', "The Oxford Illustrated History of the Holy Land,"'
+  chicago-note-short: ', "The Oxford Illustrated History of..,"'
   citation-key: hoylandOxfordIllustratedHistory2018
   editor:
     - family: Hoyland
@@ -2680,6 +2917,9 @@ references:
     - family: Huber
       given: Stefan
   call-number: 'PsyMertonstr: XIV a 081'
+  chicago-bibliography: 'Huber, Stefan. "Dimensionen der Religiosität : Skalen, Messmodelle und Ergebnisse einer empirisch orientierten Religionspsychologie." . https://ubffm.hds.hebis.de/Record/HEB050959220'
+  chicago-note-full: 'Stefan Huber, "Dimensionen der Religiosität : Skalen, Messmodelle und Ergebnisse einer empirisch orientierten Religionspsychologie,", https://ubffm.hds.hebis.de/Record/HEB050959220'
+  chicago-note-short: 'Huber, "Dimensionen der Religiosität : Skalen,..,"'
   citation-key: huberDimensionenReligiositatSkalen1996
   ISBN: 978-3-7278-1086-2
   issued:
@@ -2700,6 +2940,9 @@ references:
   author:
     - family: Hutter
       given: Manfred
+  chicago-bibliography: 'Hutter, Manfred. "Religionsgeschichte: Einführung." . https://doi.org/10.5771/9783748928713'
+  chicago-note-full: 'Manfred Hutter, "Religionsgeschichte: Einführung,", https://doi.org/10.5771/9783748928713'
+  chicago-note-short: 'Hutter, "Religionsgeschichte: Einführung,"'
   citation-key: hutterReligionsgeschichteEinfuehrung2025
   collection-title: NomosBibliothek
   DOI: 10.5771/9783748928713
@@ -2732,6 +2975,9 @@ references:
   author:
     - family: James
       given: william
+  chicago-bibliography: 'James, william. "The Varieties of religious experience: A study in human nature." . http://archive.org/details/in.ernet.dli.2015.205091'
+  chicago-note-full: 'william James, "The Varieties of religious experience: A study in human nature,", http://archive.org/details/in.ernet.dli.2015.205091'
+  chicago-note-short: James, "The Varieties of religious experience:..,"
   citation-key: jamesVarietiesReligiousExperience1902
   issued:
     - year: 1902
@@ -2760,6 +3006,9 @@ references:
   author:
     - family: Jaschke
       given: Hans-Gerd
+  chicago-bibliography: 'Jaschke, Hans-Gerd. "Politischer Extremismus: Eine Einführung." . https://doi.org/10.1007/978-3-658-32378-3'
+  chicago-note-full: 'Hans-Gerd Jaschke, "Politischer Extremismus: Eine Einführung,", https://doi.org/10.1007/978-3-658-32378-3'
+  chicago-note-short: 'Jaschke, "Politischer Extremismus: Eine Einführung,"'
   citation-key: jaschkePolitischerExtremismusEinfuehrung2020
   collection-title: Elemente der Politik
   DOI: 10.1007/978-3-658-32378-3
@@ -2790,6 +3039,9 @@ references:
   author:
     - family: Joas
       given: Hans
+  chicago-bibliography: Joas, Hans. "Die Entstehung der Werte." . https://ubffm.hds.hebis.de/Record/HEB063776359
+  chicago-note-full: Hans Joas, "Die Entstehung der Werte,", https://ubffm.hds.hebis.de/Record/HEB063776359
+  chicago-note-short: Joas, "Die Entstehung der Werte,"
   citation-key: joasEntstehungWerte1999
   edition: 1. Aufl.
   ISBN: 978-3-518-29016-3
@@ -2807,6 +3059,9 @@ references:
   URL: https://ubffm.hds.hebis.de/Record/HEB063776359
 
 - id: johnstonReligionNarratingReligion2017
+  chicago-bibliography: '"Religion: narrating religion."'
+  chicago-note-full: ', "Religion: narrating religion,"'
+  chicago-note-short: ', "Religion: narrating religion,"'
   citation-key: johnstonReligionNarratingReligion2017
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -2845,6 +3100,9 @@ references:
       given: Rosemary A.
     - family: Johnson
       given: Lisa M.
+  chicago-bibliography: Joyce, Rosemary A., and Lisa M. Johnson. "Materializing Ritual Practices." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fmuse.jhu.edu%2Fbook%2F100667%2F
+  chicago-note-full: Rosemary A. Joyce, Lisa M. Johnson, "Materializing Ritual Practices,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fmuse.jhu.edu%2Fbook%2F100667%2F
+  chicago-note-short: Joyce, "Materializing Ritual Practices,"
   citation-key: joyceMaterializingRitualPractices2022
   ISBN: 978-1-64642-239-5
   issued:
@@ -2868,6 +3126,9 @@ references:
   author:
     - family: Jung
       given: C. G. (Carl Gustav)
+  chicago-bibliography: 'Jung, C. G. (Carl Gustav). "Psychologie und religion. : Die Terry lectures, 1937, gehalten an der Yale university." . http://archive.org/details/psychologieundre0000jung'
+  chicago-note-full: 'C. G. (Carl Gustav) Jung, "Psychologie und religion. : Die Terry lectures, 1937, gehalten an der Yale university,", http://archive.org/details/psychologieundre0000jung'
+  chicago-note-short: 'Jung, "Psychologie und religion. : Die..,"'
   citation-key: jungPsychologieUndReligion1947
   contributor:
     - literal: Internet Archive
@@ -2901,6 +3162,9 @@ references:
   author:
     - family: Käsehage
       given: Nina
+  chicago-bibliography: 'Käsehage, Nina. "Frauen im Extremismus: Radikale Rekruteurinnen zwischen Tradition und Moderne." . https://doi.org/10.17433/978-3-17-046295-3'
+  chicago-note-full: 'Nina Käsehage, "Frauen im Extremismus: Radikale Rekruteurinnen zwischen Tradition und Moderne,", https://doi.org/10.17433/978-3-17-046295-3'
+  chicago-note-short: 'Käsehage, "Frauen im Extremismus: Radikale Rekruteurinnen..,"'
   citation-key: kaesehageFrauenImExtremismus2025
   DOI: 10.17433/978-3-17-046295-3
   edition: '1'
@@ -2936,6 +3200,9 @@ references:
   author:
     - family: Karcher
       given: Florian
+  chicago-bibliography: 'Karcher, Florian. "Jugendkultur, Religion und Fundamentalismus ? Religiosität Jugendlicher heute und ihre Anfälligkeit für Fundamentalismus." Fundamentalismus als religionspädagogische Herausforderung: 163–178. https://doi.org/10.14220/9783737004190.163'
+  chicago-note-full: Florian Karcher, "Jugendkultur, Religion und Fundamentalismus ? Religiosität Jugendlicher heute und ihre Anfälligkeit für Fundamentalismus," Fundamentalismus als religionspädagogische Herausforderung, 163–178, https://doi.org/10.14220/9783737004190.163
+  chicago-note-short: Karcher, "Jugendkultur, Religion und Fundamentalismus ?..,"
   citation-key: karcherJugendkulturReligionUnd2015
   container-title: Fundamentalismus als religionspädagogische Herausforderung
   DOI: 10.14220/9783737004190.163
@@ -2966,6 +3233,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/42XKFUIB/Käsehage - 2021 - Religious Fundamentalism in the Age of Pandemic.pdf
       key: 42XKFUIB
       type: pdf
+  chicago-bibliography: '"Religious Fundamentalism in the Age of Pandemic." 21. https://doi.org/10.14361/9783839454855'
+  chicago-note-full: ', "Religious Fundamentalism in the Age of Pandemic," 21, https://doi.org/10.14361/9783839454855'
+  chicago-note-short: ', "Religious Fundamentalism in the Age..,"'
   citation-key: kasehageReligiousFundamentalismAge2021
   collection-title: Religionswissenschaft
   DOI: 10.14361/9783839454855
@@ -3008,6 +3278,9 @@ references:
   author:
     - family: Kaufmann
       given: Astrid
+  chicago-bibliography: 'Kaufmann, Astrid. "Jerusalem II: Jerusalem in Roman-Byzantine Times." : 159809. https://doi.org/10.1628/978-3-16-159809-8'
+  chicago-note-full: 'Astrid Kaufmann, "Jerusalem II: Jerusalem in Roman-Byzantine Times,", 159809, https://doi.org/10.1628/978-3-16-159809-8'
+  chicago-note-short: 'Kaufmann, "Jerusalem II: Jerusalem in Roman-Byzantine..,"'
   citation-key: kaufmannJerusalemIIJerusalem2021
   DOI: 10.1628/978-3-16-159809-8
   editor:
@@ -3036,6 +3309,9 @@ references:
     - family: Kehrer
       given: Günter
   call-number: '2'
+  chicago-bibliography: 'Kehrer, Günter. "Gruppe / Gruppendynamik." Handbuch religionswissenschaftlicher Grundbegriffe: 51–63. https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ?hl=de&gbpv=1&pg=PA51&printsec=frontcover'
+  chicago-note-full: Günter Kehrer, "Gruppe / Gruppendynamik," Handbuch religionswissenschaftlicher Grundbegriffe, 51–63, https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wX4eAAAAMAAJ?hl=de&gbpv=1&pg=PA51&printsec=frontcover
+  chicago-note-short: Kehrer, "Gruppe / Gruppendynamik,"
   citation-key: kehrerGruppeGruppendynamik1993
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -3077,6 +3353,9 @@ references:
   author:
     - family: Khorchide
       given: Mouhanad
+  chicago-bibliography: 'Khorchide, Mouhanad. "Islamischer Fundamentalismus in Deutschland: Ein soziales Phänomen? Verunsicherte Identitäten und die Suche nach Anerkennung." Fundamentalismus als religionspädagogische Herausforderung: 85–104. https://doi.org/10.14220/9783737004190.85'
+  chicago-note-full: 'Mouhanad Khorchide, "Islamischer Fundamentalismus in Deutschland: Ein soziales Phänomen? Verunsicherte Identitäten und die Suche nach Anerkennung," Fundamentalismus als religionspädagogische Herausforderung, 85–104, https://doi.org/10.14220/9783737004190.85'
+  chicago-note-short: 'Khorchide, "Islamischer Fundamentalismus in Deutschland: Ein..,"'
   citation-key: khorchideIslamischerFundamentalismusDeutschland2015
   container-title: Fundamentalismus als religionspädagogische Herausforderung
   DOI: 10.14220/9783737004190.85
@@ -3110,6 +3389,9 @@ references:
   author:
     - family: Khosrokhavar
       given: Farhad
+  chicago-bibliography: 'Khosrokhavar, Farhad. "The new European Jihadism and its avatars." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 1–29. https://doi.org/10.14220/jrat.2016.2.2.1'
+  chicago-note-full: Farhad Khosrokhavar, "The new European Jihadism and its avatars," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 1–29, https://doi.org/10.14220/jrat.2016.2.2.1
+  chicago-note-short: Khosrokhavar, "The new European Jihadism and..,"
   citation-key: khosrokhavarNewEuropeanJihadism2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -3149,6 +3431,9 @@ references:
     - family: Stuckrad
       given: Kocku
       non-dropping-particle: von
+  chicago-bibliography: 'Kippenberg, Hans Gerhard, and Kocku Stuckrad. "Einführung in die Religionswissenschaft: Gegenstände und Begriffe."'
+  chicago-note-full: 'Hans Gerhard Kippenberg, Kocku Stuckrad, "Einführung in die Religionswissenschaft: Gegenstände und Begriffe,"'
+  chicago-note-short: 'Kippenberg, "Einführung in die Religionswissenschaft: Gegenstände..,"'
   citation-key: kippenbergEinfuehrungReligionswissenschaftGegenstaende2003
   ISBN: 978-3-406-50207-1
   issued:
@@ -3177,6 +3462,9 @@ references:
   author:
     - family: Kirby
       given: Benjamin
+  chicago-bibliography: 'Kirby, Benjamin. "III.2 Religion and Urban Life." Religionswissenschaft: Aktuelle Annäherungen: 229–238. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-021/html'
+  chicago-note-full: 'Benjamin Kirby, "III.2 Religion and Urban Life," Religionswissenschaft: Aktuelle Annäherungen, 229–238, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-021/html'
+  chicago-note-short: Kirby, "III.2 Religion and Urban Life,"
   citation-key: kirbyIII2ReligionUrban2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -3252,6 +3540,9 @@ references:
       given: Egbert
     - family: Talabardon
       given: Susanne
+  chicago-bibliography: 'Klapheck, Elisa, Johannes Zu Eltz, Joanna Zdrzalek, Hildegard Wustmans, Carolin Simon-Winter, Bertram Schmitz, Judith Roth-Smileski, Christian Preidel, Hamideh Mohagheghi, Martin Matl, Dagmar Kuhle, Angela Kaupp, Hans Gerald Hödl, Carl S. Ehrlich, Christian Bauer, Beatrix Ahr, Viera Pirker, Andreas Bieringer, Jakob Deibl, Egbert Ballhorn, and Susanne Talabardon. "Heilige Räume: Verständigungen zwischen Theologie und Kulturwissenschaft." . https://doi.org/10.17433/978-3-17-042504-0'
+  chicago-note-full: 'Elisa Klapheck, Johannes Zu Eltz, Joanna Zdrzalek, Hildegard Wustmans, Carolin Simon-Winter, Bertram Schmitz, Judith Roth-Smileski, Christian Preidel, Hamideh Mohagheghi, Martin Matl, Dagmar Kuhle, Angela Kaupp, Hans Gerald Hödl, Carl S. Ehrlich, Christian Bauer, Beatrix Ahr, Viera Pirker, Andreas Bieringer, Jakob Deibl, Egbert Ballhorn, Susanne Talabardon, "Heilige Räume: Verständigungen zwischen Theologie und Kulturwissenschaft,", https://doi.org/10.17433/978-3-17-042504-0'
+  chicago-note-short: 'Klapheck, "Heilige Räume: Verständigungen zwischen Theologie..,"'
   citation-key: klapheckHeiligeRaeumeVerstaendigungen2024
   DOI: 10.17433/978-3-17-042504-0
   edition: '1'
@@ -3288,6 +3579,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/2VKP9C26/handbuch-der-religionen.html
       key: 2VKP9C26
       type: file
+  chicago-bibliography: '"Handbuch der Religionen: Kirchen und andere Glaubensgemeinschaften in Deutschland und im deutschsprachigen Raum." . https://doi.org/10.5771/9783866175167'
+  chicago-note-full: ', "Handbuch der Religionen: Kirchen und andere Glaubensgemeinschaften in Deutschland und im deutschsprachigen Raum,", https://doi.org/10.5771/9783866175167'
+  chicago-note-short: ', "Handbuch der Religionen: Kirchen und..,"'
   citation-key: kloeckerHandbuchReligionenKirchen2025
   collection-title: Handbuch der Religionen
   DOI: 10.5771/9783866175167
@@ -3320,6 +3614,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/QSRZB3K4/Klöcker and Tworuschka - 2008 - Praktische Religionswissenschaft ein Handbuch für.pdf
       key: QSRZB3K4
       type: pdf
+  chicago-bibliography: '"Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf."'
+  chicago-note-full: ', "Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf,"'
+  chicago-note-short: ', "Praktische Religionswissenschaft: ein Handbuch für..,"'
   citation-key: kloeckerPraktischeReligionswissenschaftHandbuch2008
   collection-number: '3165'
   collection-title: UTB M (Medium-Format) Religionswissenschaft
@@ -3358,6 +3655,9 @@ references:
   author:
     - family: Könemann
       given: Judith
+  chicago-bibliography: Könemann, Judith. "Normativität." Wissenschaftlich-Religionspädagogisches Lexikon. https://doi.org/10.23768/wirelex.400064
+  chicago-note-full: Judith Könemann, "Normativität," Wissenschaftlich-Religionspädagogisches Lexikon, https://doi.org/10.23768/wirelex.400064
+  chicago-note-short: Könemann, "Normativität,"
   citation-key: koenemannNormativitaet2025
   container-title: Wissenschaftlich-Religionspädagogisches Lexikon
   DOI: 10.23768/wirelex.400064
@@ -3375,6 +3675,9 @@ references:
   zotero_language: de
 
 - id: kripalReligionSourcesPerspectives2016
+  chicago-bibliography: '"Religion: sources, perspectives, and methodologies."'
+  chicago-note-full: ', "Religion: sources, perspectives, and methodologies,"'
+  chicago-note-short: ', "Religion: sources, perspectives, and methodologies,"'
   citation-key: kripalReligionSourcesPerspectives2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -3397,6 +3700,9 @@ references:
   zotero_language: eng
 
 - id: kripalReligionSuperReligion2017
+  chicago-bibliography: '"Religion: super religion."'
+  chicago-note-full: ', "Religion: super religion,"'
+  chicago-note-short: ', "Religion: super religion,"'
   citation-key: kripalReligionSuperReligion2017
   collection-title: Macmillan interdisciplinary handbooks. Religion
   editor:
@@ -3432,6 +3738,9 @@ references:
   author:
     - family: Laack
       given: Isabel
+  chicago-bibliography: 'Laack, Isabel. "II.5 Indigenität: Diskurse um indigene Religionen, dekoloniale Kritik an westlicher Wissenschaft und mögliche Konsequenzen für die Religionswissenschaft." Religionswissenschaft: Aktuelle Annäherungen: 173–184. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-016/html'
+  chicago-note-full: 'Isabel Laack, "II.5 Indigenität: Diskurse um indigene Religionen, dekoloniale Kritik an westlicher Wissenschaft und mögliche Konsequenzen für die Religionswissenschaft," Religionswissenschaft: Aktuelle Annäherungen, 173–184, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-016/html'
+  chicago-note-short: 'Laack, "II.5 Indigenität: Diskurse um indigene..,"'
   citation-key: laackII5IndigenitaetDiskurse2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -3475,6 +3784,9 @@ references:
       given: Karl Heinz
     - family: Unterrainer
       given: Human-Friedrich
+  chicago-bibliography: 'Ladenhauf, Karl Heinz, and Human-Friedrich Unterrainer. "Religiosität und Spiritualität im Krankheitsprozess: Ergebnisse aus einem interdisziplinären Forschungsprojekt von empirischer Religionspsychologie und Pastoralpsychologie." Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur: 163–188. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/11_Ladenhauf+and+Unterrainer+-+2010+-+Krankheitsprozess.pdf'
+  chicago-note-full: 'Karl Heinz Ladenhauf, Human-Friedrich Unterrainer, "Religiosität und Spiritualität im Krankheitsprozess: Ergebnisse aus einem interdisziplinären Forschungsprojekt von empirischer Religionspsychologie und Pastoralpsychologie," Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur, 163–188, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/11_Ladenhauf+and+Unterrainer+-+2010+-+Krankheitsprozess.pdf'
+  chicago-note-short: Ladenhauf, "Religiosität und Spiritualität im Krankheitsprozess:..,"
   citation-key: ladenhaufReligiositaetUndSpiritualitaet2010
   collection-number: '14'
   collection-title: Theologie im kulturellen Dialog
@@ -3511,6 +3823,9 @@ references:
       given: Robert
     - family: Simon
       given: Udo
+  chicago-bibliography: 'Langer, Robert, and Udo Simon. "The Dynamics of Orthodoxy and Heterodoxy. Dealing with Divergence in Muslim Discourses and Islamic Studies." Die Welt des Islams 48, no. 3/4: 273. https://ubffm.hds.hebis.de/EdsRecord/edsjsr%2Cedsjsr.27798270/PDF'
+  chicago-note-full: Robert Langer, Udo Simon, "The Dynamics of Orthodoxy and Heterodoxy. Dealing with Divergence in Muslim Discourses and Islamic Studies," Die Welt des Islams 48, no. 3/4, 273, https://ubffm.hds.hebis.de/EdsRecord/edsjsr%2Cedsjsr.27798270/PDF
+  chicago-note-short: Langer, "The Dynamics of Orthodoxy and..,"
   citation-key: langerDynamicsOrthodoxyHeterodoxy2008
   container-title: Die Welt des Islams
   container-title-short: Welt Islams
@@ -3543,6 +3858,9 @@ references:
   author:
     - family: Langer
       given: Robert
+  chicago-bibliography: 'Langer, Robert. "IV.3 Religionsbezogene Orte: Eine praxisorientierte Annäherung." Religionswissenschaft: Aktuelle Annäherungen: 317–328. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-029/html'
+  chicago-note-full: 'Robert Langer, "IV.3 Religionsbezogene Orte: Eine praxisorientierte Annäherung," Religionswissenschaft: Aktuelle Annäherungen, 317–328, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-029/html'
+  chicago-note-short: 'Langer, "IV.3 Religionsbezogene Orte: Eine praxisorientierte..,"'
   citation-key: langerIV3ReligionsbezogeneOrte2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -3583,6 +3901,9 @@ references:
   author:
     - family: Langer
       given: Gerhard
+  chicago-bibliography: 'Langer, Gerhard. "Learning instead of fighting: the impact of rabbinic theory on Jewish identity." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 201–215. https://doi.org/10.14220/jrat.2016.2.2.201'
+  chicago-note-full: 'Gerhard Langer, "Learning instead of fighting: the impact of rabbinic theory on Jewish identity," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 201–215, https://doi.org/10.14220/jrat.2016.2.2.201'
+  chicago-note-short: 'Langer, "Learning instead of fighting: the..,"'
   citation-key: langerLearningInsteadFighting2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -3609,6 +3930,9 @@ references:
   author:
     - family: Langer
       given: Robert
+  chicago-bibliography: 'Langer, Robert. "Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext: Das Beispiel Oruç Güvenç." Somatisierung des Religiösen: Empirische Studien zum rezenten religiösen Heilungs-und Therapiemarkt: 219–236. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/04_Therapeutisch_religiose_Ritualperformanz.pdf'
+  chicago-note-full: 'Robert Langer, "Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext: Das Beispiel Oruç Güvenç," Somatisierung des Religiösen: Empirische Studien zum rezenten religiösen Heilungs-und Therapiemarkt, 219–236, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/04_Therapeutisch_religiose_Ritualperformanz.pdf'
+  chicago-note-short: Langer, "Therapeutisch-religiöse Ritualperformanzen im sufischen Kontext:..,"
   citation-key: langerTherapeutischreligioseRitualperformanzenIm2015
   container-title: 'Somatisierung des Religiösen: Empirische Studien zum rezenten religiösen Heilungs-und Therapiemarkt'
   editor:
@@ -3644,6 +3968,9 @@ references:
   author:
     - family: Langer
       given: Robert
+  chicago-bibliography: 'Langer, Robert. "Yezidism between Scholarly Literature and Actual Practice: From ‘Heterodox’ Islam and ‘Syncretism’ to the Formation of a Transnational Yezidi ‘Orthodoxy’." British Journal of Middle Eastern Studies 37, no. 3: 393–403. https://doi.org/10.1080/13530194.2010.524441'
+  chicago-note-full: 'Robert Langer, "Yezidism between Scholarly Literature and Actual Practice: From ‘Heterodox’ Islam and ‘Syncretism’ to the Formation of a Transnational Yezidi ‘Orthodoxy’," British Journal of Middle Eastern Studies 37, no. 3, 393–403, https://doi.org/10.1080/13530194.2010.524441'
+  chicago-note-short: Langer, "Yezidism between Scholarly Literature and..,"
   citation-key: langerYezidismScholarlyLiterature2010
   container-title: British Journal of Middle Eastern Studies
   container-title-short: Br. J. Middle East. Stud.
@@ -3685,6 +4012,9 @@ references:
       given: Mika
     - family: Nynäs
       given: Peter
+  chicago-bibliography: 'Lassander, Mika, and Peter Nynäs. "Contemporary fundamentalist Christianity in Finland: the variety of religious subjectivities and their association with values." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 154–184. https://doi.org/10.14220/jrat.2016.2.2.154'
+  chicago-note-full: 'Mika Lassander, Peter Nynäs, "Contemporary fundamentalist Christianity in Finland: the variety of religious subjectivities and their association with values," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 154–184, https://doi.org/10.14220/jrat.2016.2.2.154'
+  chicago-note-short: Lassander, "Contemporary fundamentalist Christianity in Finland:..,"
   citation-key: lassanderContemporaryFundamentalistChristianity2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -3722,6 +4052,9 @@ references:
   author:
     - family: Lewerenz
       given: Timm
+  chicago-bibliography: 'Lewerenz, Timm. "Künstliche Intelligenz und Religion: »Mit der KI haben wir eine Religion erschaffen«." Die Zeit. https://www.zeit.de/2026/23/kuenstliche-intelligenz-religion-inken-prohl'
+  chicago-note-full: 'Timm Lewerenz, "Künstliche Intelligenz und Religion: »Mit der KI haben wir eine Religion erschaffen«," Die Zeit, https://www.zeit.de/2026/23/kuenstliche-intelligenz-religion-inken-prohl'
+  chicago-note-short: 'Lewerenz, "Künstliche Intelligenz und Religion: »Mit..,"'
   citation-key: lewerenzKuenstlicheIntelligenzUnd2026
   container-title: Die Zeit
   ISSN: 0044-2070
@@ -3762,6 +4095,9 @@ references:
   author:
     - family: Lohlker
       given: Rüdiger
+  chicago-bibliography: 'Lohlker, Rüdiger. "Fundamentalism and the Internet." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 56–74. https://doi.org/10.14220/jrat.2016.2.2.56'
+  chicago-note-full: Rüdiger Lohlker, "Fundamentalism and the Internet," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 56–74, https://doi.org/10.14220/jrat.2016.2.2.56
+  chicago-note-short: Lohlker, "Fundamentalism and the Internet,"
   citation-key: lohlkerFundamentalismInternet2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -3787,6 +4123,9 @@ references:
   author:
     - family: Luger
       given: Martin A.
+  chicago-bibliography: 'Luger, Martin A. "Verkörperte spirituelle Erfahrung: der achtsame Körper in Feldenkrais-Methode und Vipassana-Meditation." Heilung in den Religionen: religiöse, spirituelle und leibliche Dimensionen: 451–465'
+  chicago-note-full: 'Martin A. Luger, "Verkörperte spirituelle Erfahrung: der achtsame Körper in Feldenkrais-Methode und Vipassana-Meditation," Heilung in den Religionen: religiöse, spirituelle und leibliche Dimensionen, 451–465'
+  chicago-note-short: 'Luger, "Verkörperte spirituelle Erfahrung: der achtsame..,"'
   citation-key: lugerVerkoerperteSpirituelleErfahrung2013
   collection-number: '5'
   collection-title: Schriftenreihe der Österreichischen Gesellschaft für Religionswissenschaft (ÖGRW)
@@ -3828,6 +4167,9 @@ references:
   author:
     - family: Makrides
       given: Vasilios N.
+  chicago-bibliography: 'Makrides, Vasilios N. "III.4 Jenseits von herkömmlichen Religionsformen: Kulte um Personen, säkulare Systeme, politische Religionen." Religionswissenschaft: 269–282. https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.269/html'
+  chicago-note-full: 'Vasilios N. Makrides, "III.4 Jenseits von herkömmlichen Religionsformen: Kulte um Personen, säkulare Systeme, politische Religionen," Religionswissenschaft, 269–282, https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.269/html'
+  chicago-note-short: Makrides, "III.4 Jenseits von herkömmlichen Religionsformen:..,"
   citation-key: makridesIII4JenseitsHerkommlichen2012
   container-title: Religionswissenschaft
   editor:
@@ -3866,6 +4208,9 @@ references:
   author:
     - family: Makrides
       given: Vasilios N.
+  chicago-bibliography: 'Makrides, Vasilios N. "Orthodox Christian rigorism: attempting to delineate a multifaceted phenomenon." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 216–252. https://doi.org/10.14220/jrat.2016.2.2.216'
+  chicago-note-full: 'Vasilios N. Makrides, "Orthodox Christian rigorism: attempting to delineate a multifaceted phenomenon," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 216–252, https://doi.org/10.14220/jrat.2016.2.2.216'
+  chicago-note-short: 'Makrides, "Orthodox Christian rigorism: attempting to..,"'
   citation-key: makridesOrthodoxChristianRigorism2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -3902,6 +4247,9 @@ references:
   author:
     - family: Maltese
       given: Giovanni
+  chicago-bibliography: 'Maltese, Giovanni. "II.4 Gender: Zur Vergeschlechtlichung von Allgemein- und Vergleichsbegriffen." Religionswissenschaft: Aktuelle Annäherungen: 161–172. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-015/html'
+  chicago-note-full: 'Giovanni Maltese, "II.4 Gender: Zur Vergeschlechtlichung von Allgemein- und Vergleichsbegriffen," Religionswissenschaft: Aktuelle Annäherungen, 161–172, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-015/html'
+  chicago-note-short: 'Maltese, "II.4 Gender: Zur Vergeschlechtlichung von..,"'
   citation-key: malteseII4GenderZur2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -3939,6 +4287,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/ULBD3SPG/COM-00000036.html
       key: ULBD3SPG
       type: file
+  chicago-bibliography: '"Material Culture." referenceworks. https://doi.org/10.1163/9789004249707_vsr_COM_00000036'
+  chicago-note-full: ', "Material Culture," referenceworks, https://doi.org/10.1163/9789004249707_vsr_COM_00000036'
+  chicago-note-short: ', "Material Culture,"'
   citation-key: MaterialCulture
   container-title: referenceworks
   DOI: 10.1163/9789004249707_vsr_COM_00000036
@@ -3978,6 +4329,9 @@ references:
       given: Markus
     - family: Breuer
       given: Ludwig Maximilian
+  chicago-bibliography: Mattes, Astrid, Christoph Novak, Miriam Haselbacher, Katharina Limacher, Shirin Abdolvahab, Eva Rauer, Stefan Probst, Matej Ďurčo, Markus Hasenberger, and Ludwig Maximilian Breuer. "YouBeOn - Young Believers Online." . https://app.youbeon.eu/places
+  chicago-note-full: Astrid Mattes, Christoph Novak, Miriam Haselbacher, Katharina Limacher, Shirin Abdolvahab, Eva Rauer, Stefan Probst, Matej Ďurčo, Markus Hasenberger, Ludwig Maximilian Breuer, "YouBeOn - Young Believers Online,", https://app.youbeon.eu/places
+  chicago-note-short: Mattes, "YouBeOn - Young Believers Online,"
   citation-key: mattesYouBeOnYoungBelievers2022
   issued:
     - year: 2022
@@ -4001,6 +4355,9 @@ references:
   author:
     - family: Mattson
       given: Ingrid
+  chicago-bibliography: 'Mattson, Ingrid. "The Voice and the Pen." The Story of the Qur''an: Its History and Place in Muslim Life: 79–140'
+  chicago-note-full: 'Ingrid Mattson, "The Voice and the Pen," The Story of the Qur''an: Its History and Place in Muslim Life, 79–140'
+  chicago-note-short: Mattson, "The Voice and the Pen,"
   citation-key: mattsonVoicePen2013
   container-title: 'The Story of the Qur''an: Its History and Place in Muslim Life'
   ISBN: 978-0-470-67349-2
@@ -4044,6 +4401,9 @@ references:
       given: Shampa
     - family: Mazumdar
       given: Sanjoy
+  chicago-bibliography: 'Mazumdar, Shampa, and Sanjoy Mazumdar. "Sacred space and place attachment." Journal of Environmental Psychology 13, no. 3: 231–242. https://doi.org/10.1016/S0272-4944(05)80175-6'
+  chicago-note-full: Shampa Mazumdar, Sanjoy Mazumdar, "Sacred space and place attachment," Journal of Environmental Psychology 13, no. 3, 231–242, https://doi.org/10.1016/S0272-4944(05)80175-6
+  chicago-note-short: Mazumdar, "Sacred space and place attachment,"
   citation-key: mazumdarSacredSpacePlace1993
   container-title: Journal of Environmental Psychology
   container-title-short: J. Environ. Psychol.
@@ -4068,6 +4428,9 @@ references:
   author:
     - family: Mercadante
       given: Linda A.
+  chicago-bibliography: 'Mercadante, Linda A. "Belief without borders : inside the minds of the spiritual but not religious." . http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001'
+  chicago-note-full: 'Linda A. Mercadante, "Belief without borders : inside the minds of the spiritual but not religious,", http://dx.doi.org/10.1093/acprof:oso/9780199931002.001.0001'
+  chicago-note-short: 'Mercadante, "Belief without borders : inside..,"'
   citation-key: mercadanteBeliefBordersMinds2014
   ISBN: 978-0-19-993100-2
   issued:
@@ -4092,6 +4455,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/FZRYTBL4/Meseth et al. - 2019 - Normativität in der Erziehungswissenschaft.pdf
       key: FZRYTBL4
       type: pdf
+  chicago-bibliography: '"Normativität in der Erziehungswissenschaft." . https://doi.org/10.1007/978-3-658-21244-5'
+  chicago-note-full: ', "Normativität in der Erziehungswissenschaft,", https://doi.org/10.1007/978-3-658-21244-5'
+  chicago-note-short: ', "Normativität in der Erziehungswissenschaft,"'
   citation-key: mesethNormativitaetErziehungswissenschaft2019
   DOI: 10.1007/978-3-658-21244-5
   editor:
@@ -4127,6 +4493,9 @@ references:
   author:
     - family: Middelbeck-Varwick
       given: Anja
+  chicago-bibliography: 'Middelbeck-Varwick, Anja. "Ramadan in Brandenburg : Signaturen des christlich-muslimischen Dialogs in Deutschland." Lebendige Seelsorge 70, no. 4: 238–243. https://doi.org/10.15496/PUBLIKATION-78472'
+  chicago-note-full: 'Anja Middelbeck-Varwick, "Ramadan in Brandenburg : Signaturen des christlich-muslimischen Dialogs in Deutschland," Lebendige Seelsorge 70, no. 4, 238–243, https://doi.org/10.15496/PUBLIKATION-78472'
+  chicago-note-short: 'Middelbeck-Varwick, "Ramadan in Brandenburg : Signaturen..,"'
   citation-key: middelbeck-varwickRamadanBrandenburgSignaturen2019
   container-title: Lebendige Seelsorge
   container-title-short: Leb. Seelsorge
@@ -4161,6 +4530,9 @@ references:
     - family: Mieth
       given: Dietmar
   call-number: '2'
+  chicago-bibliography: 'Mieth, Dietmar. "Normen." Handbuch religionswissenschaftlicher Grundbegriffe 4 (Kultbild - Rolle): 243–250. https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA243&printsec=frontcover'
+  chicago-note-full: Dietmar Mieth, "Normen," Handbuch religionswissenschaftlicher Grundbegriffe 4 (Kultbild - Rolle), 243–250, https://www.google.de/books/edition/Handbuch_religionswissenschaftlicher_Gru/wn4eAAAAMAAJ?hl=de&gbpv=1&pg=PA243&printsec=frontcover
+  chicago-note-short: Mieth, "Normen,"
   citation-key: miethNormen1998
   collection-title: Handbuch religionswissenschaftlicher Grundbegriffe
   container-title: Handbuch religionswissenschaftlicher Grundbegriffe
@@ -4204,6 +4576,9 @@ references:
   author:
     - family: Molthagen
       given: Dietmar
+  chicago-bibliography: 'Molthagen, Dietmar. "Fundamentalismus und Demokratie ? am Beispiel des Salafismus und des Rechtsextremismus in Deutschland." Fundamentalismus als religionspädagogische Herausforderung: 257–278. https://doi.org/10.14220/9783737004190.257'
+  chicago-note-full: Dietmar Molthagen, "Fundamentalismus und Demokratie ? am Beispiel des Salafismus und des Rechtsextremismus in Deutschland," Fundamentalismus als religionspädagogische Herausforderung, 257–278, https://doi.org/10.14220/9783737004190.257
+  chicago-note-short: Molthagen, "Fundamentalismus und Demokratie ? am..,"
   citation-key: molthagenFundamentalismusUndDemokratie2015
   container-title: Fundamentalismus als religionspädagogische Herausforderung
   DOI: 10.14220/9783737004190.257
@@ -4238,6 +4613,9 @@ references:
       given: Sebastian
     - family: Namini
       given: S.
+  chicago-bibliography: 'Murken, Sebastian, and S. Namini. "Religionspsychologie." : 903–910. https://www.psychology-of-religion.de/deutsch/murken/murken+namini2006.pdf'
+  chicago-note-full: Sebastian Murken, S. Namini, "Religionspsychologie,", 903–910, https://www.psychology-of-religion.de/deutsch/murken/murken+namini2006.pdf
+  chicago-note-short: Murken, "Religionspsychologie,"
   citation-key: murkenReligionspsychologie2006
   editor:
     - family: Pawlik
@@ -4266,6 +4644,9 @@ references:
   author:
     - family: Murken
       given: Sebastian
+  chicago-bibliography: 'Murken, Sebastian. "Ungesunde Religiosität – Entscheidungen der Psychologie?." Kritik an Religionen. Religionwissenschaft und der kritische Umgang mit Religionen.: 157–172. https://religionspsychologie.de/inc/download/murken1997.pdf'
+  chicago-note-full: Sebastian Murken, "Ungesunde Religiosität – Entscheidungen der Psychologie?," Kritik an Religionen. Religionwissenschaft und der kritische Umgang mit Religionen., 157–172, https://religionspsychologie.de/inc/download/murken1997.pdf
+  chicago-note-short: Murken, "Ungesunde Religiosität – Entscheidungen der..,"
   citation-key: murkenUngesundeReligiositaetEntscheidungen1997
   container-title: Kritik an Religionen. Religionwissenschaft und der kritische Umgang mit Religionen.
   editor:
@@ -4304,6 +4685,9 @@ references:
   author:
     - family: Nagel
       given: Alexander-Kenneth
+  chicago-bibliography: 'Nagel, Alexander-Kenneth. "II.2 Diaspora: Migration und religiöser Wandel." Religionswissenschaft: Aktuelle Annäherungen: 139–150. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-013/html'
+  chicago-note-full: 'Alexander-Kenneth Nagel, "II.2 Diaspora: Migration und religiöser Wandel," Religionswissenschaft: Aktuelle Annäherungen, 139–150, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-013/html'
+  chicago-note-short: 'Nagel, "II.2 Diaspora: Migration und religiöser..,"'
   citation-key: nagelII2DiasporaMigration2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -4342,6 +4726,9 @@ references:
       given: Anna
     - family: Klinkhammer
       given: Gritt
+  chicago-bibliography: 'Neumaier, Anna, and Gritt Klinkhammer. "III.3 Religiöse Pluralität: Empirische Lage, Begriffsgeschichte und theoretischer Kontext." Religionswissenschaft: Aktuelle Annäherungen: 239–250. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-022/html'
+  chicago-note-full: 'Anna Neumaier, Gritt Klinkhammer, "III.3 Religiöse Pluralität: Empirische Lage, Begriffsgeschichte und theoretischer Kontext," Religionswissenschaft: Aktuelle Annäherungen, 239–250, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-022/html'
+  chicago-note-short: 'Neumaier, "III.3 Religiöse Pluralität: Empirische Lage,..,"'
   citation-key: neumaierIII3ReligioesePluralitaet2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -4371,6 +4758,9 @@ references:
   author:
     - family: Palmer
       given: Michael (Verfasser)
+  chicago-bibliography: Palmer, Michael (Verfasser). "Freud and Jung on religion." . https://doi.org/10.4324/9781003266785
+  chicago-note-full: Michael (Verfasser) Palmer, "Freud and Jung on religion,", https://doi.org/10.4324/9781003266785
+  chicago-note-short: Palmer, "Freud and Jung on religion,"
   citation-key: palmerFreudJungReligion2022
   DOI: 10.4324/9781003266785
   ISBN: 978-1-000-73908-4
@@ -4388,6 +4778,9 @@ references:
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2F9781003266785
 
 - id: parsonsReligionSocialReligion2016
+  chicago-bibliography: '"Religion: social religion."'
+  chicago-note-full: ', "Religion: social religion,"'
+  chicago-note-short: ', "Religion: social religion,"'
   citation-key: parsonsReligionSocialReligion2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -4430,6 +4823,9 @@ references:
   author:
     - family: Pelikan
       given: Jaroslav
+  chicago-bibliography: 'Pelikan, Jaroslav. "Beyond Written Torah: Talmud and Continuing Revelation." Whose Bible Is It?: A Short History of the Scriptures: 67–86. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/08_Pelikan+-+2006+-+Beyond+Written+Torah+Talmud+and+Continuing+Revela.pdf'
+  chicago-note-full: 'Jaroslav Pelikan, "Beyond Written Torah: Talmud and Continuing Revelation," Whose Bible Is It?: A Short History of the Scriptures, 67–86, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/08_Pelikan+-+2006+-+Beyond+Written+Torah+Talmud+and+Continuing+Revela.pdf'
+  chicago-note-short: 'Pelikan, "Beyond Written Torah: Talmud and..,"'
   citation-key: pelikanWrittenTorahTalmud2006
   container-title: 'Whose Bible Is It?: A Short History of the Scriptures'
   ISBN: 978-0-14-303677-7
@@ -4463,6 +4859,9 @@ references:
   author:
     - family: Picard
       given: Jacques
+  chicago-bibliography: Picard, Jacques. "Jerusalem, Babylon und andere Orte der Erinnerung. Über das Woher und Wohin in der jüdischen Geschichtsschreibung."
+  chicago-note-full: Jacques Picard, "Jerusalem, Babylon und andere Orte der Erinnerung. Über das Woher und Wohin in der jüdischen Geschichtsschreibung,"
+  chicago-note-short: Picard, "Jerusalem, Babylon und andere Orte..,"
   citation-key: picardJerusalemBabylonUnd
   language: de
   source: Zotero
@@ -4474,6 +4873,9 @@ references:
   zotero_language: de
 
 - id: pinnReligionJustReligion2016
+  chicago-bibliography: '"Religion: just religion."'
+  chicago-note-full: ', "Religion: just religion,"'
+  chicago-note-short: ', "Religion: just religion,"'
   citation-key: pinnReligionJustReligion2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -4509,6 +4911,9 @@ references:
   author:
     - family: Pokorny
       given: Lukas K.
+  chicago-bibliography: 'Pokorny, Lukas K. "II.6 Millenarismus: Definition, Theorie, Systematik." Religionswissenschaft: Aktuelle Annäherungen: 185–196. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-017/html'
+  chicago-note-full: 'Lukas K. Pokorny, "II.6 Millenarismus: Definition, Theorie, Systematik," Religionswissenschaft: Aktuelle Annäherungen, 185–196, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-017/html'
+  chicago-note-short: 'Pokorny, "II.6 Millenarismus: Definition, Theorie, Systematik,"'
   citation-key: pokornyII6MillenarismusDefinition2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -4545,6 +4950,9 @@ references:
   author:
     - family: Posch
       given: Gottfried
+  chicago-bibliography: 'Posch, Gottfried. "Fundamentalismus : ein Überblick." . http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/11631'
+  chicago-note-full: 'Gottfried Posch, "Fundamentalismus : ein Überblick,", http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/11631'
+  chicago-note-short: 'Posch, "Fundamentalismus : ein Überblick,"'
   citation-key: poschFundamentalismusUberblick2009
   issued:
     - year: 2009
@@ -4581,6 +4989,9 @@ references:
   author:
     - family: Post
       given: Paul
+  chicago-bibliography: Post, Paul. "Ritual Studies." Oxford Research Encyclopedia of Religion. https://doi.org/10.1093/acrefore/9780199340378.013.21
+  chicago-note-full: Paul Post, "Ritual Studies," Oxford Research Encyclopedia of Religion, https://doi.org/10.1093/acrefore/9780199340378.013.21
+  chicago-note-short: Post, "Ritual Studies,"
   citation-key: postRitualStudies2015
   container-title: Oxford Research Encyclopedia of Religion
   DOI: 10.1093/acrefore/9780199340378.013.21
@@ -4610,6 +5021,9 @@ references:
   author:
     - family: Pratsch
       given: Thomas
+  chicago-bibliography: 'Pratsch, Thomas. "Konflikt und Bewältigung: die Zerstörung der Grabeskirche zu Jerusalem im Jahre 1009." . https://library.oapen.org/bitstream/id/13696de2-5f0e-4476-86f1-d4d217e590a4/9783110253528.pdf'
+  chicago-note-full: 'Thomas Pratsch, "Konflikt und Bewältigung: die Zerstörung der Grabeskirche zu Jerusalem im Jahre 1009,", https://library.oapen.org/bitstream/id/13696de2-5f0e-4476-86f1-d4d217e590a4/9783110253528.pdf'
+  chicago-note-short: 'Pratsch, "Konflikt und Bewältigung: die Zerstörung..,"'
   citation-key: pratschKonfliktUndBewaeltigung2011
   collection-number: Band 32
   collection-title: Millennium-Studien
@@ -4643,6 +5057,9 @@ references:
   author:
     - family: Prohl
       given: Inken
+  chicago-bibliography: 'Prohl, Inken. "Materiale Religion." Religionswissenschaft: 379–392. https://doi.org/10.1515/9783110258936'
+  chicago-note-full: Inken Prohl, "Materiale Religion," Religionswissenschaft, 379–392, https://doi.org/10.1515/9783110258936
+  chicago-note-short: Prohl, "Materiale Religion,"
   citation-key: prohlMaterialeReligion2012
   collection-title: De Gruyter Studium
   container-title: Religionswissenschaft
@@ -4689,6 +5106,9 @@ references:
   author:
     - family: Radde-Antweiler
       given: Kerstin
+  chicago-bibliography: 'Radde-Antweiler, Kerstin. "III.6 Religion in Zeiten tiefgreifender Mediatisierung." Religionswissenschaft: Aktuelle Annäherungen: 273–282. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-025/html'
+  chicago-note-full: 'Kerstin Radde-Antweiler, "III.6 Religion in Zeiten tiefgreifender Mediatisierung," Religionswissenschaft: Aktuelle Annäherungen, 273–282, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-025/html'
+  chicago-note-short: Radde-Antweiler, "III.6 Religion in Zeiten tiefgreifender..,"
   citation-key: radde-antweilerIII6ReligionZeiten2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -4724,6 +5144,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/5BDCJNNK/de.html
       key: 5BDCJNNK
       type: file
+  chicago-bibliography: '"Religionspsychologie." . https://religionspsychologie.de/de/'
+  chicago-note-full: ', "Religionspsychologie,", https://religionspsychologie.de/de/'
+  chicago-note-short: ', "Religionspsychologie,"'
   citation-key: Religionspsychologie
   tags:
     - _further-reading
@@ -4747,6 +5170,9 @@ references:
   author:
     - family: Renger
       given: Almut-Barbara
+  chicago-bibliography: 'Renger, Almut-Barbara. "III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der Religionsgeschichte." Religionswissenschaft: 313–326. https://doi.org/10.1515/9783110258936.313'
+  chicago-note-full: Almut-Barbara Renger, "III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in der Religionsgeschichte," Religionswissenschaft, 313–326, https://doi.org/10.1515/9783110258936.313
+  chicago-note-short: Renger, "III.7 Meister-Jünger- und Lehrer-Schüler-Verhältnisse in..,"
   citation-key: rengerIII7MeisterJuengerUnd2012
   container-title: Religionswissenschaft
   DOI: 10.1515/9783110258936.313
@@ -4793,6 +5219,9 @@ references:
   author:
     - family: Reuter
       given: Astrid
+  chicago-bibliography: 'Reuter, Astrid. "I.2 Das religiöse Feld." Religionswissenschaft: Aktuelle Annäherungen: 37–48. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-004/html'
+  chicago-note-full: 'Astrid Reuter, "I.2 Das religiöse Feld," Religionswissenschaft: Aktuelle Annäherungen, 37–48, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-004/html'
+  chicago-note-short: Reuter, "I.2 Das religiöse Feld,"
   citation-key: reuterI2ReligioeseFeld2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -4831,6 +5260,9 @@ references:
   author:
     - family: Rezania
       given: Kianoosh
+  chicago-bibliography: 'Rezania, Kianoosh. "I.5 Die Genese eines Religionsbegriffs im iranischen Feld des Religionskontaktes." Religionswissenschaft: Aktuelle Annäherungen: 73–84. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-007/html'
+  chicago-note-full: 'Kianoosh Rezania, "I.5 Die Genese eines Religionsbegriffs im iranischen Feld des Religionskontaktes," Religionswissenschaft: Aktuelle Annäherungen, 73–84, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-007/html'
+  chicago-note-short: Rezania, "I.5 Die Genese eines Religionsbegriffs..,"
   citation-key: rezaniaI5GeneseReligionsbegriffs2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -4870,6 +5302,9 @@ references:
   author:
     - family: Riedenauer
       given: Markus
+  chicago-bibliography: 'Riedenauer, Markus. "Fundamentalismus als „kritische Reaktion“?." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 86–106. https://doi.org/10.14220/jrat.2016.2.2.86'
+  chicago-note-full: Markus Riedenauer, "Fundamentalismus als „kritische Reaktion“?," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 86–106, https://doi.org/10.14220/jrat.2016.2.2.86
+  chicago-note-short: Riedenauer, "Fundamentalismus als „kritische Reaktion“?,"
   citation-key: riedenauerFundamentalismusAlsKritische2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -4905,6 +5340,9 @@ references:
   author:
     - family: Riesebrodt
       given: Martin
+  chicago-bibliography: 'Riesebrodt, Martin. "1.1 Fundamentalismus und Soziologie; 1.2 Fundamentalismus: ein umstrittenes Konzept; 1.3 Fundamentalismus: ein definitorischer und typologischer Neuansatz." Fundamentalismus als patriarchalische Protestbewegung: amerikanische Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich: 1–24. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/13_Riesebrodt_Fundamentalismus-1_1-3.pdf'
+  chicago-note-full: 'Martin Riesebrodt, "1.1 Fundamentalismus und Soziologie; 1.2 Fundamentalismus: ein umstrittenes Konzept; 1.3 Fundamentalismus: ein definitorischer und typologischer Neuansatz," Fundamentalismus als patriarchalische Protestbewegung: amerikanische Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich, 1–24, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/13_Riesebrodt_Fundamentalismus-1_1-3.pdf'
+  chicago-note-short: Riesebrodt, "1.1 Fundamentalismus und Soziologie; 1.2..,"
   citation-key: riesebrodt11FundamentalismusUnd1990
   container-author:
     - family: Riesebrodt
@@ -4967,6 +5405,9 @@ references:
   author:
     - family: Riesebrodt
       given: Martin
+  chicago-bibliography: 'Riesebrodt, Martin. "Charisma in Max Weber’s Sociology of Religion." Religion 29, no. 1: 1–14. https://doi.org/10.1006/reli.1999.0175'
+  chicago-note-full: Martin Riesebrodt, "Charisma in Max Weber’s Sociology of Religion," Religion 29, no. 1, 1–14, https://doi.org/10.1006/reli.1999.0175
+  chicago-note-short: Riesebrodt, "Charisma in Max Weber’s Sociology..,"
   citation-key: riesebrodtCharismaMaxWebers1999
   container-title: Religion
   DOI: 10.1006/reli.1999.0175
@@ -5001,6 +5442,9 @@ references:
   author:
     - family: Riesebrodt
       given: Martin
+  chicago-bibliography: 'Riesebrodt, Martin. "Fundamentalismus als patriarchalische Protestbewegung: amerikanische Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich." . https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/13_Riesebrodt_Fundamentalismus-Buch.pdf'
+  chicago-note-full: 'Martin Riesebrodt, "Fundamentalismus als patriarchalische Protestbewegung: amerikanische Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich,", https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/13_Riesebrodt_Fundamentalismus-Buch.pdf'
+  chicago-note-short: 'Riesebrodt, "Fundamentalismus als patriarchalische Protestbewegung: amerikanische..,"'
   citation-key: riesebrodtFundamentalismusAlsPatriarchalische1990
   ISBN: 978-3-16-145669-5
   issued:
@@ -5054,6 +5498,9 @@ references:
   author:
     - family: Rötting
       given: Martin
+  chicago-bibliography: 'Rötting, Martin. "III.4 Interreligiöser Dialog und Religionswissenschaft." Religionswissenschaft: Aktuelle Annäherungen: 251–262. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-023/html'
+  chicago-note-full: 'Martin Rötting, "III.4 Interreligiöser Dialog und Religionswissenschaft," Religionswissenschaft: Aktuelle Annäherungen, 251–262, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-023/html'
+  chicago-note-short: Rötting, "III.4 Interreligiöser Dialog und Religionswissenschaft,"
   citation-key: roettingIII4InterreligioeserDialog2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5093,6 +5540,9 @@ references:
   author:
     - family: Rothgangel
       given: Martin
+  chicago-bibliography: 'Rothgangel, Martin. "Fundamentalism as a key topic for religious education. Observations from a Protestant perspective." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 253–270. https://doi.org/10.14220/jrat.2016.2.2.253'
+  chicago-note-full: Martin Rothgangel, "Fundamentalism as a key topic for religious education. Observations from a Protestant perspective," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 253–270, https://doi.org/10.14220/jrat.2016.2.2.253
+  chicago-note-short: Rothgangel, "Fundamentalism as a key topic..,"
   citation-key: rothgangelFundamentalismKeyTopic2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -5125,6 +5575,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/7XKZXILE/Schaupp and Ruckenbauer - 2010 - Macht Religion gesund christliches Heilsangebot .pdf
       key: 7XKZXILE
       type: pdf
+  chicago-bibliography: '"Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur." . https://unipub.uni-graz.at/obvugroa/download/pdf/10318635'
+  chicago-note-full: ', "Macht Religion gesund?: christliches Heilsangebot und Wellness-Kultur,", https://unipub.uni-graz.at/obvugroa/download/pdf/10318635'
+  chicago-note-short: ', "Macht Religion gesund?: christliches Heilsangebot..,"'
   citation-key: schauppMachtReligionGesund2010
   collection-number: '14'
   collection-title: Theologie im kulturellen Dialog
@@ -5157,6 +5610,9 @@ references:
   author:
     - family: Schilbrack
       given: Kevin
+  chicago-bibliography: Schilbrack, Kevin. "The Concept of Religion." The Stanford Encyclopedia of Philosophy. https://plato.stanford.edu/archives/sum2022/entries/concept-religion/
+  chicago-note-full: Kevin Schilbrack, "The Concept of Religion," The Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/archives/sum2022/entries/concept-religion/
+  chicago-note-short: Schilbrack, "The Concept of Religion,"
   citation-key: schilbrackConceptReligion2022
   container-title: The Stanford Encyclopedia of Philosophy
   edition: Summer 2022
@@ -5197,6 +5653,9 @@ references:
   author:
     - family: Schlieter
       given: Jens
+  chicago-bibliography: 'Schlieter, Jens. "Religion, Religionswissenschaft und Normativität." Religionswissenschaft: 227–240. https://doi.org/10.1515/9783110258936.227'
+  chicago-note-full: Jens Schlieter, "Religion, Religionswissenschaft und Normativität," Religionswissenschaft, 227–240, https://doi.org/10.1515/9783110258936.227
+  chicago-note-short: Schlieter, "Religion, Religionswissenschaft und Normativität,"
   citation-key: schlieterReligionReligionswissenschaftUnd2012
   container-title: Religionswissenschaft
   DOI: 10.1515/9783110258936.227
@@ -5230,6 +5689,9 @@ references:
   author:
     - family: Schmiedel
       given: Michael A.
+  chicago-bibliography: 'Schmiedel, Michael A. "Interreligiöser Dialog als Aufgabe angewandter Religionswissenschaft." Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf: 228–237. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/14_Schmiedel+-+2008+-+Interreligioeser+Dialog+als+Aufgabe+angewandter+Rel.pdf'
+  chicago-note-full: 'Michael A. Schmiedel, "Interreligiöser Dialog als Aufgabe angewandter Religionswissenschaft," Praktische Religionswissenschaft: ein Handbuch für Studium und Beruf, 228–237, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/14_Schmiedel+-+2008+-+Interreligioeser+Dialog+als+Aufgabe+angewandter+Rel.pdf'
+  chicago-note-short: Schmiedel, "Interreligiöser Dialog als Aufgabe angewandter..,"
   citation-key: schmiedelInterreligioeserDialogAls2008
   collection-number: '3165'
   collection-title: UTB M (Medium-Format) Religionswissenschaft
@@ -5272,6 +5734,9 @@ references:
       given: Paula
     - family: Spies
       given: Eva
+  chicago-bibliography: 'Schrode, Paula, and Eva Spies. "I.3 Religion relational: Eine Forschungsperspektive auf Praktiken und Prozesse." Religionswissenschaft: Aktuelle Annäherungen: 49–60. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-005/html'
+  chicago-note-full: 'Paula Schrode, Eva Spies, "I.3 Religion relational: Eine Forschungsperspektive auf Praktiken und Prozesse," Religionswissenschaft: Aktuelle Annäherungen, 49–60, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-005/html'
+  chicago-note-short: 'Schrode, "I.3 Religion relational: Eine Forschungsperspektive..,"'
   citation-key: schrodeI3ReligionRelational2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5311,6 +5776,9 @@ references:
   author:
     - family: Schweitzer
       given: Friedrich
+  chicago-bibliography: 'Schweitzer, Friedrich. "Fundamental, nicht fundamentalistisch ? Wege einer religiösen Erziehung jenseits von Relativismus und Fundamentalismus." Fundamentalismus als religionspädagogische Herausforderung: 13–30. https://doi.org/10.14220/9783737004190.13'
+  chicago-note-full: Friedrich Schweitzer, "Fundamental, nicht fundamentalistisch ? Wege einer religiösen Erziehung jenseits von Relativismus und Fundamentalismus," Fundamentalismus als religionspädagogische Herausforderung, 13–30, https://doi.org/10.14220/9783737004190.13
+  chicago-note-short: Schweitzer, "Fundamental, nicht fundamentalistisch ? Wege..,"
   citation-key: schweitzerFundamentalNichtFundamentalistisch2015
   container-title: Fundamentalismus als religionspädagogische Herausforderung
   DOI: 10.14220/9783737004190.13
@@ -5333,6 +5801,9 @@ references:
   author:
     - family: Sijapati
       given: Megan Adamson
+  chicago-bibliography: 'Sijapati, Megan Adamson. ""The body is a tool for remembrance": healing, transformation, and the instrumentality of the body in a North American Sufi order." Body and religion 5, no. 1: 96'
+  chicago-note-full: 'Megan Adamson Sijapati, ""The body is a tool for remembrance": healing, transformation, and the instrumentality of the body in a North American Sufi order," Body and religion 5, no. 1, 96'
+  chicago-note-short: Sijapati, ""The body is a tool..,"
   citation-key: sijapatiBodyToolRemembrance2021
   container-title: Body and religion
   container-title-short: Body Relig.
@@ -5376,6 +5847,9 @@ references:
       given: Katharina
     - family: Zick
       given: Andreas
+  chicago-bibliography: 'Srowig, Fabian, Viktoria Roth, Daniela Pisoiu, Katharina Seewald, and Andreas Zick. "Radikalisierung von Individuen: ein Überblick über mögliche Erklärungsansätze." PRIF report: 1–31. https://www.hsfk.de/fileadmin/HSFK/hsfk_publikationen/prif0618.pdf'
+  chicago-note-full: 'Fabian Srowig, Viktoria Roth, Daniela Pisoiu, Katharina Seewald, Andreas Zick, "Radikalisierung von Individuen: ein Überblick über mögliche Erklärungsansätze," PRIF report, 1–31, https://www.hsfk.de/fileadmin/HSFK/hsfk_publikationen/prif0618.pdf'
+  chicago-note-short: 'Srowig, "Radikalisierung von Individuen: ein Überblick..,"'
   citation-key: srowigRadikalisierungIndividuenUeberblick2018
   collection-title: PRIF report
   container-title: PRIF report
@@ -5408,6 +5882,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/93MXCRTW/Stausberg and Wilkens - 2025 - Glossar.pdf
       key: 93MXCRTW
       type: pdf
+  chicago-bibliography: '"Glossar." Religionswissenschaft: Aktuelle Annäherungen: 379–390. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-034/html'
+  chicago-note-full: ', "Glossar," Religionswissenschaft: Aktuelle Annäherungen, 379–390, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-034/html'
+  chicago-note-short: ', "Glossar,"'
   citation-key: stausbergGlossar2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5450,6 +5927,9 @@ references:
   author:
     - family: Stausberg
       given: Michael
+  chicago-bibliography: 'Stausberg, Michael. "I.1 Religion : Begriff, Definitionen, Theorien." Religionswissenschaft: 33–47. https://doi.org/10.1515/9783110258936'
+  chicago-note-full: 'Michael Stausberg, "I.1 Religion : Begriff, Definitionen, Theorien," Religionswissenschaft, 33–47, https://doi.org/10.1515/9783110258936'
+  chicago-note-short: 'Stausberg, "I.1 Religion : Begriff, Definitionen,..,"'
   citation-key: stausbergI1ReligionBegriff2012
   collection-title: De Gruyter Studium
   container-title: Religionswissenschaft
@@ -5496,6 +5976,9 @@ references:
   author:
     - family: Stausberg
       given: Michael
+  chicago-bibliography: 'Stausberg, Michael. "Normen, Werte und Tugenden in der Religionswissenschaft." Religionswissenschaft: Aktuelle Annäherungen: 367–378. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-033/html'
+  chicago-note-full: 'Michael Stausberg, "Normen, Werte und Tugenden in der Religionswissenschaft," Religionswissenschaft: Aktuelle Annäherungen, 367–378, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-033/html'
+  chicago-note-short: Stausberg, "Normen, Werte und Tugenden in..,"
   citation-key: stausbergNormenWerteUnd2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5538,6 +6021,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/ZAA8QV6N/2012 - Religionswissenschaft.pdf
       key: ZAA8QV6N
       type: pdf
+  chicago-bibliography: '"Religionswissenschaft." . https://doi.org/10.1515/9783110258936'
+  chicago-note-full: ', "Religionswissenschaft,", https://doi.org/10.1515/9783110258936'
+  chicago-note-short: ', "Religionswissenschaft,"'
   citation-key: stausbergReligionswissenschaft2012
   collection-title: De Gruyter Studium
   DOI: 10.1515/9783110258936
@@ -5579,6 +6065,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/34P62R5Z/2025 - Religionswissenschaft Aktuelle Annäherungen.pdf
       key: 34P62R5Z
       type: pdf
+  chicago-bibliography: '"Religionswissenschaft: Aktuelle Annäherungen." . https://doi.org/10.1515/9783111458892'
+  chicago-note-full: ', "Religionswissenschaft: Aktuelle Annäherungen,", https://doi.org/10.1515/9783111458892'
+  chicago-note-short: ', "Religionswissenschaft: Aktuelle Annäherungen,"'
   citation-key: stausbergReligionswissenschaftAktuelleAnnaherungen2025
   DOI: 10.1515/9783111458892
   editor:
@@ -5620,6 +6109,9 @@ references:
   author:
     - family: Stausberg
       given: Michael
+  chicago-bibliography: 'Stausberg, Michael. "Religionswissenschaft: Profil eines Universitätsfachs im deutschsprachigen Raum." Religionswissenschaft: 1–30. https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.1/html'
+  chicago-note-full: 'Michael Stausberg, "Religionswissenschaft: Profil eines Universitätsfachs im deutschsprachigen Raum," Religionswissenschaft, 1–30, https://www.degruyterbrill.com/document/doi/10.1515/9783110258936.1/html'
+  chicago-note-short: 'Stausberg, "Religionswissenschaft: Profil eines Universitätsfachs im..,"'
   citation-key: stausbergReligionswissenschaftProfilUniversitatsfachs2012
   container-title: Religionswissenschaft
   editor:
@@ -5664,6 +6156,9 @@ references:
       given: Michael
     - family: Wilkens
       given: Katharina
+  chicago-bibliography: 'Stausberg, Michael, and Katharina Wilkens. "Religionswissenschaft: Warum, was, wer, wie." Religionswissenschaft: Aktuelle Annäherungen: 1-3 (von 16). https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-001/html'
+  chicago-note-full: 'Michael Stausberg, Katharina Wilkens, "Religionswissenschaft: Warum, was, wer, wie," Religionswissenschaft: Aktuelle Annäherungen, 1-3 (von 16), https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-001/html'
+  chicago-note-short: 'Stausberg, "Religionswissenschaft: Warum, was, wer, wie,"'
   citation-key: stausbergReligionswissenschaftWarumWas2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5705,6 +6200,9 @@ references:
   author:
     - family: Stepanova
       given: Ekaterina
+  chicago-bibliography: 'Stepanova, Ekaterina. "Regionalization of violent jihadism and beyond: the case of Daesh." Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2: 30–55. https://doi.org/10.14220/jrat.2016.2.2.30'
+  chicago-note-full: 'Ekaterina Stepanova, "Regionalization of violent jihadism and beyond: the case of Daesh," Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT 2, no. 2, 30–55, https://doi.org/10.14220/jrat.2016.2.2.30'
+  chicago-note-short: Stepanova, "Regionalization of violent jihadism and..,"
   citation-key: stepanovaRegionalizationViolentJihadism2016
   container-title: Interdisciplinary Journal for Religion and Transformation in Contemporary Society – J-RaT
   container-title-short: Interdiscip. J. Relig. Transform. Contemp. Soc. – J-RaT
@@ -5747,6 +6245,9 @@ references:
   author:
     - family: Stephenson
       given: Barry
+  chicago-bibliography: Stephenson, Barry. "Ritual." Oxford Research Encyclopedia of Religion. https://doi.org/10.1093/acrefore/9780199340378.013.923
+  chicago-note-full: Barry Stephenson, "Ritual," Oxford Research Encyclopedia of Religion, https://doi.org/10.1093/acrefore/9780199340378.013.923
+  chicago-note-short: Stephenson, "Ritual,"
   citation-key: stephensonRitual2022
   container-title: Oxford Research Encyclopedia of Religion
   DOI: 10.1093/acrefore/9780199340378.013.923
@@ -5779,6 +6280,9 @@ references:
   author:
     - family: Strube
       given: Julian
+  chicago-bibliography: 'Strube, Julian. "III.1 Die globale Entstehung der Religionswissenschaft: Das Beispiel Bengalens zwischen Universalismus und Nationalismus." Religionswissenschaft: Aktuelle Annäherungen: 217–228. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-020/html'
+  chicago-note-full: 'Julian Strube, "III.1 Die globale Entstehung der Religionswissenschaft: Das Beispiel Bengalens zwischen Universalismus und Nationalismus," Religionswissenschaft: Aktuelle Annäherungen, 217–228, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-020/html'
+  chicago-note-short: Strube, "III.1 Die globale Entstehung der..,"
   citation-key: strubeIII1GlobaleEntstehung2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5818,6 +6322,9 @@ references:
   author:
     - family: Suarsana
       given: Yan
+  chicago-bibliography: 'Suarsana, Yan. "I.6 Vom Glauben zur Religion: Liberaler Protestantismus und Religionsbegriff im 19. und 20. Jahrhundert." Religionswissenschaft: Aktuelle Annäherungen: 85–96. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-008/html'
+  chicago-note-full: 'Yan Suarsana, "I.6 Vom Glauben zur Religion: Liberaler Protestantismus und Religionsbegriff im 19. und 20. Jahrhundert," Religionswissenschaft: Aktuelle Annäherungen, 85–96, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-008/html'
+  chicago-note-short: Suarsana, "I.6 Vom Glauben zur Religion:..,"
   citation-key: suarsanaI6VomGlauben2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -5855,6 +6362,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/LUT5KDRJ/Holdings.html
       key: LUT5KDRJ
       type: file
+  chicago-bibliography: '"The Routledge handbook of material religion." . http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2F9781351176231'
+  chicago-note-full: ', "The Routledge handbook of material religion,", http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fwww.taylorfrancis.com%2Fbooks%2F9781351176231'
+  chicago-note-short: ', "The Routledge handbook of material..,"'
   citation-key: tamimiarabRoutledgeHandbookMaterial2023
   editor:
     - family: Tamimi Arab
@@ -5900,6 +6410,9 @@ references:
   author:
     - family: Tavárez
       given: David
+  chicago-bibliography: 'Tavárez, David. "The Anthropology of Ritual Language: Classic and Contemporary Approaches." The Oxford Handbook of Ritual Language: 0. https://doi.org/10.1093/oxfordhb/9780192868091.013.2'
+  chicago-note-full: 'David Tavárez, "The Anthropology of Ritual Language: Classic and Contemporary Approaches," The Oxford Handbook of Ritual Language, 0, https://doi.org/10.1093/oxfordhb/9780192868091.013.2'
+  chicago-note-short: Tavárez, "The Anthropology of Ritual Language:..,"
   citation-key: tavarezAnthropologyRitualLanguage2024
   container-title: The Oxford Handbook of Ritual Language
   DOI: 10.1093/oxfordhb/9780192868091.013.2
@@ -5937,6 +6450,9 @@ references:
   author:
     - family: Tavárez
       given: David
+  chicago-bibliography: 'Tavárez, David. "Language, Ritual, and Colonialism: A Brief Cultural History." The Oxford Handbook of Ritual Language: 0. https://doi.org/10.1093/oxfordhb/9780192868091.013.1'
+  chicago-note-full: 'David Tavárez, "Language, Ritual, and Colonialism: A Brief Cultural History," The Oxford Handbook of Ritual Language, 0, https://doi.org/10.1093/oxfordhb/9780192868091.013.1'
+  chicago-note-short: 'Tavárez, "Language, Ritual, and Colonialism: A..,"'
   citation-key: tavarezLanguageRitualColonialism2024
   container-title: The Oxford Handbook of Ritual Language
   DOI: 10.1093/oxfordhb/9780192868091.013.1
@@ -5969,6 +6485,9 @@ references:
   author:
     - family: Tavárez
       given: David (Herausgeber)
+  chicago-bibliography: Tavárez, David (Herausgeber). "The Oxford handbook of ritual language." (2025). http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1093%2Foxfordhb%2F9780192868091.001.0001
+  chicago-note-full: David (Herausgeber) Tavárez, "The Oxford handbook of ritual language," (2025), http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1093%2Foxfordhb%2F9780192868091.001.0001
+  chicago-note-short: Tavárez, "The Oxford handbook of ritual..," (2025)
   citation-key: tavarezOxfordHandbookRitual2025
   ISBN: 978-0-19-196014-7
   issued:
@@ -5996,6 +6515,9 @@ references:
   author:
     - literal: Thomas Schlag
     - literal: Ilona Nord
+  chicago-bibliography: Thomas Schlag, and Ilona Nord. "Religion, digitale." Das wissenschaftlich-religionspädagogische Lexikon im Internet (WiReLex). https://doi.org/10.23768/wirelex.Religion_digitale.200879
+  chicago-note-full: Thomas Schlag, Ilona Nord, "Religion, digitale," Das wissenschaftlich-religionspädagogische Lexikon im Internet (WiReLex), https://doi.org/10.23768/wirelex.Religion_digitale.200879
+  chicago-note-short: Schlag, "Religion, digitale,"
   citation-key: thomasschlagReligionDigitale2020
   container-title: Das wissenschaftlich-religionspädagogische Lexikon im Internet (WiReLex)
   DOI: 10.23768/wirelex.Religion_digitale.200879
@@ -6028,6 +6550,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/QDNIRGE6/COM-00000168.html
       key: QDNIRGE6
       type: file
+  chicago-bibliography: '"Totem." referenceworks. https://doi.org/10.1163/9789004249707_vsr_COM_00000168'
+  chicago-note-full: ', "Totem," referenceworks, https://doi.org/10.1163/9789004249707_vsr_COM_00000168'
+  chicago-note-short: ', "Totem,"'
   citation-key: Totem
   container-title: referenceworks
   DOI: 10.1163/9789004249707_vsr_COM_00000168
@@ -6048,6 +6573,9 @@ references:
   author:
     - family: Tsuria
       given: Ruth
+  chicago-bibliography: Tsuria, Ruth. "Journal of Religion, Media and Digital Culture." Journal of Religion, Media and Digital Culture. https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/rmdc/rmdc-overview.xml
+  chicago-note-full: Ruth Tsuria, "Journal of Religion, Media and Digital Culture," Journal of Religion, Media and Digital Culture, https://brill-com.proxy.ub.uni-frankfurt.de/view/journals/rmdc/rmdc-overview.xml
+  chicago-note-short: Tsuria, "Journal of Religion, Media and..,"
   citation-key: tsuriaJournalReligionMedia
   container-title: Journal of Religion, Media and Digital Culture
   container-title-short: J. Relig. Media Digit. Cult.
@@ -6076,6 +6604,9 @@ references:
       given: Michael
     - family: Demmrich
       given: Sarah
+  chicago-bibliography: 'Utsch, Michael, and Sarah Demmrich. "Psychologie des Glaubens: Einführung in die Religionspsychologie." . https://doi.org/10.36198/9783838560564'
+  chicago-note-full: 'Michael Utsch, Sarah Demmrich, "Psychologie des Glaubens: Einführung in die Religionspsychologie,", https://doi.org/10.36198/9783838560564'
+  chicago-note-short: 'Utsch, "Psychologie des Glaubens: Einführung in..,"'
   citation-key: utschPsychologieGlaubensEinfuhrung2023
   DOI: 10.36198/9783838560564
   ISBN: 978-3-8385-6056-4
@@ -6109,6 +6640,9 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/HCSTBLTA/vsro.html
       key: HCSTBLTA
       type: file
+  chicago-bibliography: '"Vocabulary for the Study of Religion Online." referenceworks. https://referenceworks-1brill-1com-1h247bkmi02b8.proxy.fid-lizenzen.de/display/db/vsro'
+  chicago-note-full: ', "Vocabulary for the Study of Religion Online," referenceworks, https://referenceworks-1brill-1com-1h247bkmi02b8.proxy.fid-lizenzen.de/display/db/vsro'
+  chicago-note-short: ', "Vocabulary for the Study of..,"'
   citation-key: VocabularyStudyReligion
   container-title: referenceworks
   language: en
@@ -6127,6 +6661,9 @@ references:
   author:
     - family: Waardenburg
       given: Jacques
+  chicago-bibliography: 'Waardenburg, Jacques. "Religionen und Religion: Systematische Einführung in die Religionswissenschaft." . https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110852196'
+  chicago-note-full: 'Jacques Waardenburg, "Religionen und Religion: Systematische Einführung in die Religionswissenschaft,", https://doi-org.proxy.ub.uni-frankfurt.de/10.1515/9783110852196'
+  chicago-note-short: 'Waardenburg, "Religionen und Religion: Systematische Einführung..,"'
   citation-key: waardenburgReligionenUndReligion1986
   ISBN: 978-3-11-085219-6
   issued:
@@ -6166,6 +6703,9 @@ references:
       given: Peter
     - family: Hoyland
       given: Robert
+  chicago-bibliography: 'Walker, Peter, and Robert Hoyland. "11. Pilgrimage." The Oxford Illustrated History of the Holy Land: 281–316. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/10_Walker+and+Hoyland+-+2018+-+11.+Pilgrimage.pdf'
+  chicago-note-full: Peter Walker, Robert Hoyland, "11. Pilgrimage," The Oxford Illustrated History of the Holy Land, 281–316, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/10_Walker+and+Hoyland+-+2018+-+11.+Pilgrimage.pdf
+  chicago-note-short: Walker, "11. Pilgrimage,"
   citation-key: walker11Pilgrimage2018
   container-title: The Oxford Illustrated History of the Holy Land
   editor:
@@ -6206,6 +6746,9 @@ references:
   author:
     - family: Walthert
       given: Rafael
+  chicago-bibliography: 'Walthert, Rafael. "I.1 Religion als Symbolsystem? Clifford Geertz und die Folgen." Religionswissenschaft: Aktuelle Annäherungen: 25–36. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-003/html'
+  chicago-note-full: 'Rafael Walthert, "I.1 Religion als Symbolsystem? Clifford Geertz und die Folgen," Religionswissenschaft: Aktuelle Annäherungen, 25–36, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-003/html'
+  chicago-note-short: Walthert, "I.1 Religion als Symbolsystem? Clifford..,"
   citation-key: walthertI1ReligionAls2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -6247,6 +6790,9 @@ references:
     - family: Weber
       given: Max
   call-number: AFC-2045
+  chicago-bibliography: Weber, Max. "Wirtschaft und Gesellschaft." . http://archive.org/details/wirtschaftundges00webeuoft
+  chicago-note-full: Max Weber, "Wirtschaft und Gesellschaft,", http://archive.org/details/wirtschaftundges00webeuoft
+  chicago-note-short: Weber, "Wirtschaft und Gesellschaft,"
   citation-key: weberWirtschaftUndGesellschaft1922
   contributor:
     - literal: Robarts - University of Toronto
@@ -6271,6 +6817,9 @@ references:
     - family: Wedgwood
       given: Ralph
   call-number: 02/CC 7240 W393
+  chicago-bibliography: Wedgwood, Ralph. "The nature of normativity." . https://www.google.de/books/edition/The_Nature_of_Normativity/HLESDAAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover
+  chicago-note-full: Ralph Wedgwood, "The nature of normativity,", https://www.google.de/books/edition/The_Nature_of_Normativity/HLESDAAAQBAJ?hl=en&gbpv=1&pg=PP1&printsec=frontcover
+  chicago-note-short: Wedgwood, "The nature of normativity,"
   citation-key: wedgwoodNatureNormativity2009
   ISBN: 978-0-19-956819-2
   issued:
@@ -6300,6 +6849,9 @@ references:
   author:
     - family: Weltecke
       given: Dorothea
+  chicago-bibliography: 'Weltecke, Dorothea. "Über Religion vor der „Religion“: Konzeptionen vor der Entstehung des neuzeitlichen Begriffes." Religion als Prozess: 13–34. https://doi.org/10.30965/9783657781164_004'
+  chicago-note-full: 'Dorothea Weltecke, "Über Religion vor der „Religion“: Konzeptionen vor der Entstehung des neuzeitlichen Begriffes," Religion als Prozess, 13–34, https://doi.org/10.30965/9783657781164_004'
+  chicago-note-short: Weltecke, "Über Religion vor der „Religion“:..,"
   citation-key: welteckeUeberReligionVor2015
   container-title: Religion als Prozess
   DOI: 10.30965/9783657781164_004
@@ -6338,6 +6890,9 @@ references:
   author:
     - family: Wenzel
       given: Catherina
+  chicago-bibliography: Wenzel, Catherina. "Definitionen von Religion." . https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/03_Handout_ReligionsDefinitionen.pdf
+  chicago-note-full: Catherina Wenzel, "Definitionen von Religion,", https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/03_Handout_ReligionsDefinitionen.pdf
+  chicago-note-short: Wenzel, "Definitionen von Religion,"
   citation-key: wenzelDefinitionenReligion2023
   issued:
     - year: 2023
@@ -6361,6 +6916,9 @@ references:
   author:
     - family: Wilke
       given: Annette
+  chicago-bibliography: 'Wilke, Annette. "IV.6 Text, Klang und Ritual. Plädoyer für Religionswissenschaft als Kulturhermeneutik." Religionswissenschaft: 407–420. https://doi.org/10.1515/9783110258936'
+  chicago-note-full: Annette Wilke, "IV.6 Text, Klang und Ritual. Plädoyer für Religionswissenschaft als Kulturhermeneutik," Religionswissenschaft, 407–420, https://doi.org/10.1515/9783110258936
+  chicago-note-short: Wilke, "IV.6 Text, Klang und Ritual..,"
   citation-key: wilkeIV6TextKlang2012
   collection-title: De Gruyter Studium
   container-title: Religionswissenschaft
@@ -6401,6 +6959,9 @@ references:
   author:
     - family: Will
       given: Herbert
+  chicago-bibliography: 'Will, Herbert. "Freuds Atheismus im Widerspruch: Freud, Weber und Wittgenstein im Konflikt zwischen säkularem Denken und Religion." . https://doi.org/10.17433/978-3-17-025023-9'
+  chicago-note-full: 'Herbert Will, "Freuds Atheismus im Widerspruch: Freud, Weber und Wittgenstein im Konflikt zwischen säkularem Denken und Religion,", https://doi.org/10.17433/978-3-17-025023-9'
+  chicago-note-short: 'Will, "Freuds Atheismus im Widerspruch: Freud,..,"'
   citation-key: willFreudsAtheismusIm2014
   DOI: 10.17433/978-3-17-025023-9
   edition: '1'
@@ -6436,6 +6997,9 @@ references:
   author:
     - family: Winter
       given: Franz
+  chicago-bibliography: 'Winter, Franz. "III.5 Religionsgeschichte als Begegnungs- und Verflechtungsgeschichte." Religionswissenschaft: Aktuelle Annäherungen: 263–272. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-024/html'
+  chicago-note-full: 'Franz Winter, "III.5 Religionsgeschichte als Begegnungs- und Verflechtungsgeschichte," Religionswissenschaft: Aktuelle Annäherungen, 263–272, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-024/html'
+  chicago-note-short: Winter, "III.5 Religionsgeschichte als Begegnungs- und..,"
   citation-key: winterIII5ReligionsgeschichteAls2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -6464,6 +7028,9 @@ references:
   author:
     - family: Wulff
       given: David M. (Verfasser)
+  chicago-bibliography: 'Wulff, David M. (Verfasser). "Psychology of religion : classic and contemporary views." . https://ubffm.hds.hebis.de/Record/HEB104479914'
+  chicago-note-full: 'David M. (Verfasser) Wulff, "Psychology of religion : classic and contemporary views,", https://ubffm.hds.hebis.de/Record/HEB104479914'
+  chicago-note-short: 'Wulff, "Psychology of religion : classic..,"'
   citation-key: wulffPsychologyReligionClassic1997
   edition: 2. edition
   ISBN: 978-0-471-03706-4
@@ -6495,6 +7062,9 @@ references:
   author:
     - family: Yelle
       given: Robert A.
+  chicago-bibliography: 'Yelle, Robert A. "II.7 Secularization: Transformations of Religion and Politics in Western Europe (and the US)." Religionswissenschaft: Aktuelle Annäherungen: 197–208. https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-018/html'
+  chicago-note-full: 'Robert A. Yelle, "II.7 Secularization: Transformations of Religion and Politics in Western Europe (and the US)," Religionswissenschaft: Aktuelle Annäherungen, 197–208, https://www.degruyterbrill.com/document/doi/10.1515/9783111458892-018/html'
+  chicago-note-short: 'Yelle, "II.7 Secularization: Transformations of Religion..,"'
   citation-key: yelleII7SecularizationTransformations2025
   container-title: 'Religionswissenschaft: Aktuelle Annäherungen'
   editor:
@@ -6527,6 +7097,9 @@ references:
   author:
     - family: Zinser
       given: Hartmut
+  chicago-bibliography: 'Zinser, Hartmut. "3.5 Soziale Beziehungen der Menschen in den religiösen Gemeinschaften." Grundfragen der Religionswissenschaft: 105–111. https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_103'
+  chicago-note-full: Hartmut Zinser, "3.5 Soziale Beziehungen der Menschen in den religiösen Gemeinschaften," Grundfragen der Religionswissenschaft, 105–111, https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_103
+  chicago-note-short: Zinser, "3.5 Soziale Beziehungen der Menschen..,"
   citation-key: zinser35SozialeBeziehungen2010
   container-title: Grundfragen der Religionswissenschaft
   issued:
@@ -6554,6 +7127,9 @@ references:
   author:
     - family: Zinser
       given: Hartmut
+  chicago-bibliography: 'Zinser, Hartmut. "7.4 Tempel und Sakralbauten." Grundfragen der Religionswissenschaft: 212–216. https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_210'
+  chicago-note-full: Hartmut Zinser, "7.4 Tempel und Sakralbauten," Grundfragen der Religionswissenschaft, 212–216, https://daten.digitale-sammlungen.de/~db/0010/bsb00107067/image_210
+  chicago-note-short: Zinser, "7.4 Tempel und Sakralbauten,"
   citation-key: zinser74TempelUnd2010
   container-title: Grundfragen der Religionswissenschaft
   issued:
@@ -6574,6 +7150,9 @@ references:
   author:
     - family: Zinser
       given: Hartmut
+  chicago-bibliography: 'Zinser, Hartmut. "9.2 Orakel und Offenbarung: Mantik und andere Divinationsverfahren." Grundfragen der Religionswissenschaft: 237–241. https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/11_Zinser_Grundfragen_233-47.pdf'
+  chicago-note-full: 'Hartmut Zinser, "9.2 Orakel und Offenbarung: Mantik und andere Divinationsverfahren," Grundfragen der Religionswissenschaft, 237–241, https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/25095503872/CourseNode/93668888136198/11_Zinser_Grundfragen_233-47.pdf'
+  chicago-note-short: 'Zinser, "9.2 Orakel und Offenbarung: Mantik..,"'
   citation-key: zinser92OrakelUnd2010
   container-title: Grundfragen der Religionswissenschaft
   issued:
@@ -6594,6 +7173,9 @@ references:
   author:
     - family: Zinser
       given: Hartmut
+  chicago-bibliography: Zinser, Hartmut. "Grundfragen der Religionswissenschaft." . https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00107067-3
+  chicago-note-full: Hartmut Zinser, "Grundfragen der Religionswissenschaft,", https://nbn-resolving.org/urn:nbn:de:bvb:12-bsb00107067-3
+  chicago-note-short: Zinser, "Grundfragen der Religionswissenschaft,"
   citation-key: zinserGrundfragenReligionswissenschaft2010
   issued:
     - year: 2010
@@ -6611,6 +7193,9 @@ references:
   author:
     - family: Zinser
       given: Hartmut
+  chicago-bibliography: 'Zinser, Hartmut. "VI Texte und Schriften in den Religionen." Grundfragen der Religionswissenschaft: 155–193. https://daten.digitale-sammlungen.de/0010/bsb00107067/images/index.html?fip=193.174.98.30&id=00107067&seite=153'
+  chicago-note-full: Hartmut Zinser, "VI Texte und Schriften in den Religionen," Grundfragen der Religionswissenschaft, 155–193, https://daten.digitale-sammlungen.de/0010/bsb00107067/images/index.html?fip=193.174.98.30&id=00107067&seite=153
+  chicago-note-short: Zinser, "VI Texte und Schriften in..,"
   citation-key: zinserVITexteUnd2010
   container-title: Grundfragen der Religionswissenschaft
   issued:
@@ -6628,6 +7213,9 @@ references:
   zotero_language: de
 
 - id: zuckermanReligionReligion2016
+  chicago-bibliography: '"Religion: beyond religion."'
+  chicago-note-full: ', "Religion: beyond religion,"'
+  chicago-note-short: ', "Religion: beyond religion,"'
   citation-key: zuckermanReligionReligion2016
   collection-title: Macmillan interdisciplinary handbooks
   editor:
@@ -6654,6 +7242,9 @@ references:
     - family: Zwingmann
       given: Christian (Hrsg )
   call-number: X 7262
+  chicago-bibliography: 'Zwingmann, Christian (Hrsg ). "Religiosität: Messverfahren und Studien zu Gesundheit und Lebensbewältigung : neue Beiträge zur Religionspsychologie." . https://ubffm.hds.hebis.de/Record/HEB12432519X'
+  chicago-note-full: 'Christian (Hrsg ) Zwingmann, "Religiosität: Messverfahren und Studien zu Gesundheit und Lebensbewältigung : neue Beiträge zur Religionspsychologie,", https://ubffm.hds.hebis.de/Record/HEB12432519X'
+  chicago-note-short: 'Zwingmann, "Religiosität: Messverfahren und Studien zu..,"'
   citation-key: zwingmannReligiositatMessverfahrenUnd2004
   ISBN: 978-3-8309-1428-0
   issued:
