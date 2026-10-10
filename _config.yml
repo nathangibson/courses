@@ -12,9 +12,9 @@ collections:
   course_25rw:
     output: true
     permalink: /25rw/:title
-#  course_25ki:
-#    output: true
-#    permalink: /25rw/ki/:title
+  course_26rw:
+    output: true
+    permalink: /26rw/:title
 
 # jekyll-paginate configuration
 paginate: 50
@@ -34,7 +34,7 @@ plugins:
 future: true
 
 # Site identity (used for share/RSS absolute URLs and the header/title)
-title: "Kurse"
+title: "Courses"
 description: "Course websites of Nathan P. Gibson"
 author: "Nathan Gibson"
 
