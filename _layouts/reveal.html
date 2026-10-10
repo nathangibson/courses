@@ -1,13 +1,10 @@
 {% include course-data.html %}
+{% include session-meta.html item=page %}
 
-{% assign sessions = course_sessions | where: "session",page.session | first
-%}
-
-<!-- If frontmatter title is empty, Jekyll sets page.title to extension after post date. Thus value from sessions preferred here. -->
-{% assign zotero-tag = page.zotero-tag |
-default: sessions.zotero-tag %} {% assign poll-slug = page.poll-slug |
-  default: zotero-tag %} {% assign pad-slug = page.pad-slug |
-default: sessions.pad-slug %}
+<!-- Front matter is the source of truth; derived fields computed in session-meta.html. -->
+{% assign zotero-tag = m_zotero_tag %}
+{% assign poll-slug = m_poll_slug %}
+{% assign pad-slug = m_pad_slug %}
 
 <!-- Captures the menu links as a variable so filters can be used on them later -->
 {% capture menu-links %}{% include menu-links.html %}{% endcapture %}
