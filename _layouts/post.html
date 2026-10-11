@@ -22,6 +22,7 @@ layout: default
   {% if long-topic %}
   <h2>{{ long-topic }}</h2>
   {% endif %}
+  {% include slides-pdf-button.html %}
   {% if image %}
   {% include featured-image.html image=image %}
   {% endif %}
@@ -30,8 +31,6 @@ layout: default
     <h2><i class="fa-solid fa-check"></i> Learning objective</h2>
     {{ objective }} {% endif %} {% include readings.html %} {{ content }}
   </article>
-
-  {% include slides-pdf-button.html %}
 
   {% assign glossary_terms_for_session = "" %} {% for row in course_glossary
   %} {% if row.session contains page.tags %} {% assign
