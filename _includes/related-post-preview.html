@@ -2,6 +2,19 @@
     <h3>
       <a href="{{ site.baseurl }}{{ item.url }}" target="_blank">
         <div class="related-title">{{ item.title }}</div>
+        {% comment %}
+          Download PDF button: shown under the slides post title (between the
+          title and the thumbnail) when this related item is a reveal.js deck
+          (layout: reveal).  Links to the deck with ?print-pdf, which opens the
+          browser print dialog for Save-as-PDF.
+        {% endcomment %}
+        {% if item.layout == "reveal" %}
+        <div class="related-pdf-button-wrap">
+          <a class="btn slides-pdf-button" href="{{ site.baseurl }}{{ item.url }}?print-pdf" target="_blank" rel="noopener">
+            <i class="fa-solid fa-file-pdf" aria-hidden="true"></i> Download PDF
+          </a>
+        </div>
+        {% endif %}
         <div class="related-thumbnail">
           {% if item.image %}
           <img
