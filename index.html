@@ -7,15 +7,52 @@ title: Courses
 
 <p>Course websites and teaching materials by Nathan P. Gibson.</p>
 
-<ul class="course-list">
-  {% comment %}
-    Courses are Jekyll collections named course_<slug>.
-    Each is listed here; add a collection to _config.yml to surface it.
-  {% endcomment %}
-  {% if site.course_25rw %}
-  <li>
-    <h3><a href="{{ site.baseurl }}/25rw/1">Einführung in die Religionswissenschaft (25rw)</a></h3>
-    <p>Winter semester 2025/2026.</p>
+{% comment %}
+  Courses store their data in _data/course_<slug>/ (settings.yml, sessions.csv,
+  zotero.yaml, ...). We iterate site.data (the _data dir) to find course_* keys,
+  read semester/year/hero from each course's settings.yml, and list them grouped
+  by semester, newest academic year first. All values handled as strings.
+{% endcomment %}
+
+{%- assign all = "" | split: "x" -%}
+{%- for d in site.data -%}
+  {%- assign key = d[0] -%}
+  {%- if key contains "course_" -%}
+    {%- assign slug = key | remove_first: "course_" -%}
+    {%- assign cs = d[1].settings -%}
+    {%- assign c_year = cs.year | default: "0" -%}
+    {%- assign c_sem = cs.semester | default: "winter" -%}
+    {%- assign c_title = cs.title | default: key -%}
+    {%- assign c_hero = cs.hero | default: "candle.jpg" -%}
+    {%- assign c_desc = cs.description | default: "" -%}
+    {%- capture entry -%}{{ c_year }}__{{ c_sem }}__{{ slug }}__{{ c_title }}__{{ c_hero }}__{{ c_desc }}{%- endcapture -%}
+    {%- assign all = all | push: entry -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- assign sorted = all | sort | reverse -%}
+
+{%- assign cur_sem = "" -%}
+{%- assign shown = 0 -%}
+{%- for entry in sorted -%}
+  {%- assign parts = entry | split: "__" -%}
+  {%- assign sem = parts[1] -%}
+  {%- unless sem == cur_sem -%}
+    {%- if shown > 0 -%}</ul>{%- endif -%}
+    <h2 class="semester-heading">{{ sem | capitalize }} Semester</h2>
+    <ul class="course-list">
+    {%- assign cur_sem = sem -%}
+  {%- endunless -%}
+
+  <li class="course-card">
+    <a class="course-card-link" href="{{ site.baseurl }}/{{ parts[2] }}/">
+      <img class="course-hero" src="{{ site.baseurl }}/assets/img/{{ parts[4] }}" alt="{{ parts[3] }}" />
+      <div class="course-card-body">
+        <h3>{{ parts[3] }} ({{ parts[2] }})</h3>
+        {%- if parts[5] != "" %}<p>{{ parts[5] }}</p>{% endif %}
+      </div>
+    </a>
   </li>
-  {% endif %}
-</ul>
+  {%- assign shown = shown | plus: 1 -%}
+{%- endfor -%}
+{%- if shown > 0 -%}</ul>{%- endif -%}
