@@ -11,8 +11,8 @@ Examples of the `.layout-split` media layouts for reveal.js slides.
 
 ## 1. Image right half, text left half (default)
 
-<div class="layout-split">
-<div class="text">
+<div class="layout-split" markdown="1">
+<div class="text" markdown="1">
 
 **Text column (left, 50%)**
 
@@ -23,7 +23,7 @@ each taking half the slide width, vertically centered, with a comfortable gap.
 - The text column is vertically centered.
 
 </div>
-<div class="image">
+<div class="image" markdown="1">
 
 ![candle](/courses/assets/img/candle.jpg)
 
@@ -32,13 +32,13 @@ each taking half the slide width, vertically centered, with a comfortable gap.
 
 ## 2. Image left half, text right half
 
-<div class="layout-split image-left">
-<div class="image">
+<div class="layout-split image-left" markdown="1">
+<div class="image" markdown="1">
 
 ![stars](/courses/assets/img/stars.jpg)
 
 </div>
-<div class="text">
+<div class="text" markdown="1">
 
 **Text column (right, 50%)**
 
@@ -52,8 +52,8 @@ while keeping the 50/50 split.
 
 ## 3. Text 2/3, image right 1/3
 
-<div class="layout-split text-2-3">
-<div class="text">
+<div class="layout-split text-2-3" markdown="1">
+<div class="text" markdown="1">
 
 **Wide text column (left, ~2/3)**
 
@@ -64,7 +64,7 @@ third on the right.
 - The image column stays centered and fills its third.
 
 </div>
-<div class="image">
+<div class="image" markdown="1">
 
 ![mosque](/courses/assets/img/mosque.jpg)
 
@@ -73,13 +73,13 @@ third on the right.
 
 ## 4. Image 1/3 left, text 2/3 right
 
-<div class="layout-split image-left-1-3">
-<div class="image">
+<div class="layout-split image-left-1-3" markdown="1">
+<div class="image" markdown="1">
 
 ![kaaba](/courses/assets/img/kaaba.jpg)
 
 </div>
-<div class="text">
+<div class="text" markdown="1">
 
 **Wide text column (right, ~2/3)**
 
@@ -93,13 +93,13 @@ on the right — the mirrored companion of `text-2-3`.
 
 ## 5. Image 2/3 left, text 1/3 right
 
-<div class="layout-split image-2-3">
-<div class="image">
+<div class="layout-split image-2-3" markdown="1">
+<div class="image" markdown="1">
 
 ![madaba-map](/courses/assets/img/madaba-map.jpg)
 
 </div>
-<div class="text">
+<div class="text" markdown="1">
 
 **Narrow text column (right, ~1/3)**
 
@@ -115,17 +115,17 @@ column on the right.
 
 Layouts compose with other reveal.js markup — fragment lists, backgrounds, etc.
 
-<div class="layout-split text-2-3">
-<div class="text">
+<div class="layout-split text-2-3" markdown="1">
+<div class="text" markdown="1">
 
 - Reveal **fragments** work inside the text column:
   <span class="fragment">first</span>,
   <span class="fragment">second</span>,
   <span class="fragment">third</span>.
-- Use `--` to separate slides and `##` to start a new `layout-split` each time.
+- Use `##` to start a new slide with a `layout-split` each time.
 
 </div>
-<div class="image">
+<div class="image" markdown="1">
 
 ![dome-of-the-rock](/courses/assets/img/dome-of-the-rock.jpg)
 
