@@ -181,8 +181,10 @@ automatically flex and fill row. */
 
 .layout-photo-full {
     width: 100%;
-    height: calc(100% - 2.5em);  /* leave room for the title heading above */
+    height: calc(100% - 3.5em);  /* leave room for the title above AND a little space below */
     margin-top: 0.5em;
+    /* bottom breathing room so the photo doesn't touch the bottom edge */
+    margin-bottom: 1.5em;
     box-sizing: border-box;
 }
 .layout-photo-full img {
