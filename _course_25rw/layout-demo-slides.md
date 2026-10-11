@@ -131,3 +131,14 @@ Layouts compose with other reveal.js markup — fragment lists, backgrounds, etc
 
 </div>
 </div>
+
+## Full-width photo under the title
+
+`.layout-photo-full` puts the photo full-width directly under the slide heading.
+
+<div class="layout-photo-full" markdown="1">
+
+![candle](/courses/assets/img/candle.jpg)
+
+</div>
+

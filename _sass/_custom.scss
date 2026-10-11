@@ -164,3 +164,31 @@ automatically flex and fill row. */
     display: block;
     margin: 0 auto;
 }
+
+/********************************************************************
+ * FULL-WIDTH PHOTO UNDER TITLE (feature: slide-layout-css)
+ *
+ * .layout-photo-full — place a photo FULL-WIDTH directly underneath the
+ * slide's title, filling the remaining slide height.
+ *
+ * Usage in the slide markdown:
+ *
+ *   ## My slide title
+ *   <div class="layout-photo-full" markdown="1">
+ *     ![description](.../candle.jpg)
+ *   </div>
+ ********************************************************************/
+
+.layout-photo-full {
+    width: 100%;
+    height: calc(100% - 2.5em);  /* leave room for the title heading above */
+    margin-top: 0.5em;
+    box-sizing: border-box;
+}
+.layout-photo-full img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;          /* fills the space; use object-fit:contain to letterbox */
+    display: block;
+    border-radius: 8px;
+}
