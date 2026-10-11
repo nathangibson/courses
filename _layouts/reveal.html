@@ -180,7 +180,19 @@
         });
       }).catch(function (err) {
         console.error('reveal.js failed to initialize:', err);
-      });
+      });   // end Reveal.initialize
+
+      {% comment %}
+        Feature: auto-open the browser print dialog when the deck is opened in
+        PDF-export mode (?print-pdf), so "Download PDF" is one click from the
+        print dialog's "Save as PDF" option.
+      {% endcomment %}
+      if (window.location.search.indexOf('print-pdf') !== -1) {
+        // Give reveal.js a moment to lay out all slides for print, then print.
+        window.addEventListener('load', function () {
+          setTimeout(function () { window.print(); }, 800);
+        });
+      }
     </script>
   </body>
 </html>

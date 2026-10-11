@@ -1,14 +1,27 @@
 <li>      
-    <h3>
-      <a href="{{ site.baseurl }}{{ item.url }}" target="_blank">
-        <div class="related-title">{{ item.title }}</div>
-        <div class="related-thumbnail">
-          {% if item.image %}
-          <img
-            src="{{ site.baseurl }}/assets/img/{{ item.image }}"
-          />
-          {% endif %}
-        </div>
+    <div class="related-header">
+      <a class="related-title" href="{{ site.baseurl }}{{ item.url }}" target="_blank">{{ item.title }}</a>
+      {% comment %}
+        Download PDF button: sits on the SAME line as the slides title,
+        right-aligned. Only shown when this related item is a reveal.js deck
+        (layout: reveal). Links to the deck with ?print-pdf (opens the browser
+        print dialog for Save-as-PDF). Sized ~50% via .slides-pdf-button.
+      {% endcomment %}
+      {% if item.layout == "reveal" %}
+      <a class="btn slides-pdf-button" href="{{ site.baseurl }}{{ item.url }}?print-pdf" target="_blank" rel="noopener">
+        <i class="fa-solid fa-file-pdf" aria-hidden="true"></i> Download PDF
       </a>
-    </h3>
+      {% endif %}
+    </div>
+    {% comment %}
+      The thumbnail image itself links to the HTML slideshow (separate from the
+      title link above).
+    {% endcomment %}
+    <a class="related-thumbnail" href="{{ site.baseurl }}{{ item.url }}" target="_blank">
+      {% if item.image %}
+      <img
+        src="{{ site.baseurl }}/assets/img/{{ item.image }}"
+      />
+      {% endif %}
+    </a>
   </li>
