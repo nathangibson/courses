@@ -13,12 +13,17 @@
 <html>
   {% include head.html %}
   <style>
-    /* Ensure the reveal container fills the viewport so reveal.js can lay out
-       the full deck and render the ESC overview grid. Without a set height,
-       `.reveal { height:100% }` collapses and overview shows only the current
-       slide. (Feature: revealify-overview-fix) */
-    html, body { height: 100%; margin: 0; }
-    .reveal { height: 100vh; }
+    /* Give the reveal container deterministic full-viewport dimensions so
+       reveal.js can compute slide/overview geometry. The NaNpx overview error
+       came from a container with no settled size at init. Use fixed 100vw/100vh
+       and reset box sizing so overview scaling has real numbers to work with. */
+    html, body { height: 100%; margin: 0; padding: 0; }
+    .reveal {
+      width: 100vw;
+      height: 100vh;
+      box-sizing: border-box;
+    }
+    .reveal .slides { box-sizing: border-box; }
   </style>
   <body>
     {{ content | revealify }}
