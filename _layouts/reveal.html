@@ -12,6 +12,14 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
+  <style>
+    /* Ensure the reveal container fills the viewport so reveal.js can lay out
+       the full deck and render the ESC overview grid. Without a set height,
+       `.reveal { height:100% }` collapses and overview shows only the current
+       slide. (Feature: revealify-overview-fix) */
+    html, body { height: 100%; margin: 0; }
+    .reveal { height: 100vh; }
+  </style>
   <body>
     {{ content | revealify }}
     <script src="{{site.baseurl}}/assets/reveal.js/dist/reveal.js"></script>
