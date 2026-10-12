@@ -181,10 +181,12 @@ automatically flex and fill row. */
 
 .layout-photo-full {
     width: 100%;
-    height: calc(100% - 3.5em);  /* leave room for the title above AND a little space below */
+    /* Leave room for the title above and a clearly visible gap below so the
+       photo does not touch the bottom edge of the slide. */
+    height: calc(100% - 5em);
     margin-top: 0.5em;
-    /* bottom breathing room so the photo doesn't touch the bottom edge */
-    margin-bottom: 1.5em;
+    margin-bottom: 3em;
+    padding-bottom: 1em;
     box-sizing: border-box;
 }
 .layout-photo-full img {
