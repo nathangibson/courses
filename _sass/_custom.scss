@@ -91,3 +91,106 @@ automatically flex and fill row. */
     font-weight: bold;
     font-size: 25px;
 }
+
+/********************************************************************
+ * SPLIT / MEDIA LAYOUTS (feature: slide-layout-css)
+ *
+ * Easy layout classes for a single reveal.js slide: split the slide
+ * into a text column and an image/media column side by side.
+ *
+ * Usage in the slide markdown (wrap the slide body in a div):
+ *
+ *   ## Slide title
+ *   <div class="layout-split">
+ *     <div class="text">Left / text content here.</div>
+ *     <div class="image">   <img src="..."> or just content </div>
+ *   </div>
+ *
+ * Variants (add one to .layout-split):
+ *   (default)             50 / 50  — image on the RIGHT, text on the LEFT
+ *   .image-left           50 / 50  — image on the LEFT,  text on the RIGHT
+ *   .text-2-3            ~2/3 : 1/3 — text wider, image on the RIGHT
+ *   .image-left-1-3      1/3 : 2/3 — image 1/3 on the LEFT, text 2/3 RIGHT
+ * Aesthetic margins: each column gets comfortable padding and gap.
+ ********************************************************************/
+
+/* Base: fill the slide height, lay columns out side by side with a gap. */
+.layout-split {
+    display: flex;
+    align-items: stretch;
+    gap: 1.5em;                 /* space between text and image columns */
+    height: 100%;               /* fill the full slide height */
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Each column: hold its own scroll/overflow and center its content. */
+.layout-split > .text,
+.layout-split > .image {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;    /* vertically center content in the column */
+    box-sizing: border-box;
+    padding: 0 0.5em;           /* aesthetic inner margins */
+    min-width: 0;               /* allow flex children to shrink below content width */
+}
+
+/* Default 50/50: text left, image right. */
+.layout-split > .text  { flex: 1 1 50%; }
+.layout-split > .image { flex: 1 1 50%; }
+
+/* Swap: put the image column on the left, text on the right (still 50/50). */
+.layout-split.image-left > .image { order: -1; }
+
+/* Text wider (2/3), image on the right at 1/3. */
+.layout-split.text-2-3 > .text  { flex: 2 1 66%; }
+.layout-split.text-2-3 > .image { flex: 1 1 33%; }
+
+/* Image wider (2/3) on the left, text 1/3 on the right. */
+.layout-split.image-2-3 > .image { flex: 2 1 66%; order: -1; }
+.layout-split.image-2-3 > .text  { flex: 1 1 33%; }
+
+/* Image 1/3 on the left, text 2/3 on the right. */
+.layout-split.image-left-1-3 > .image { flex: 1 1 33%; order: -1; }
+.layout-split.image-left-1-3 > .text  { flex: 2 1 66%; }
+
+/* Keep images inside a media column from blowing out of the slide. */
+.layout-split .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;         /* cover fills the column; use `object-fit: contain`
+                                  on the img to letterbox instead */
+    border-radius: 8px;        /* subtle rounded corners */
+    display: block;
+    margin: 0 auto;
+}
+
+/********************************************************************
+ * FULL-WIDTH PHOTO UNDER TITLE (feature: slide-layout-css)
+ *
+ * .layout-photo-full — place a photo FULL-WIDTH directly underneath the
+ * slide's title, filling the remaining slide height.
+ *
+ * Usage in the slide markdown:
+ *
+ *   ## My slide title
+ *   <div class="layout-photo-full" markdown="1">
+ *     ![description](.../candle.jpg)
+ *   </div>
+ ********************************************************************/
+
+.layout-photo-full {
+    display: flex;               /* REQUIRED: makes the height + centering work */
+    justify-content: center;     /* center the image horizontally */
+    width: 100%;
+    height: calc(100% - 1em);    /* leave a small gap below so it doesn't touch the bottom */
+    margin: 0 auto;              /* center the container */
+    box-sizing: border-box;
+}
+.layout-photo-full img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;          /* fills and centers; use object-fit:contain to letterbox */
+    display: block;
+    border-radius: 8px;
+}
