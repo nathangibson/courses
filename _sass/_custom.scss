@@ -181,7 +181,6 @@ automatically flex and fill row. */
 
 .layout-photo-full {
     display: flex;               /* REQUIRED: makes the height + centering work */
-    align-items: center;         /* center the image vertically in the space */
     justify-content: center;     /* center the image horizontally */
     width: 100%;
     height: calc(100% - 1em);    /* leave a small gap below so it doesn't touch the bottom */
