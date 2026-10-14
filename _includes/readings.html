@@ -1,6 +1,7 @@
 <div class="readings">
+  {% include heading.html key="readings" fallback="Suggested Readings" %}
   <h2>
-    <i class="fa-solid fa-book-open" aria-hidden="true"></i> Suggested Readings
+    <i class="fa-solid fa-book-open" aria-hidden="true"></i> {{ heading_text }}
   </h2>
   <ul>
     {% for reading in zotero-readings %}
@@ -21,7 +22,7 @@
   Zotero:
   <a
     href="{{ course_settings.base-urls.zotero }}/tags/{{ zotero-tag }},_further-reading/library"
-    >Further Reading (optional)</a
+    >{% include heading.html key="further_reading" fallback="Further Reading (optional)" %}{{ heading_text }}</a
   >
   <i class="fa-solid fa-arrow-up-right-from-square"></i>
 </div>

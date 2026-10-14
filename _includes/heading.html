@@ -1,0 +1,26 @@
+{%- comment -%}
+  heading.html — resolve a session-detail heading string for the current course
+  from the global config (_data/headings.yml), selecting by the course's
+  `language` and `type` (set in _data/course_<slug>/settings.yml).
+
+  Usage (in a course layout/include):
+      {% include heading.html key="readings" fallback="Suggested Readings" %}
+      ...then use {{ heading_text }}...
+
+  Arguments:
+    key      — the heading key in headings.yml (e.g. "readings")
+    fallback — the hardcoded English default, used if nothing resolves
+
+  Sets the variable `heading_text` to the resolved string.
+
+  Fallback chain (implemented in the heading_string Liquid filter):
+    headings[key][lang][type]
+      -> headings[key][lang]["seminar"]   (default type)
+        -> headings[key][lang]            (plain string, type-independent)
+          -> English (same three steps)
+            -> fallback
+{%- endcomment -%}
+{%- include course-data.html -%}
+{%- assign heading_lang = course_settings.language | default: "en" -%}
+{%- assign heading_type = course_settings.type | default: "seminar" -%}
+{%- assign heading_text = site.data.headings | heading_string: include.key, heading_lang, heading_type, "seminar", include.fallback -%}

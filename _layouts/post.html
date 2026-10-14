@@ -27,7 +27,8 @@ layout: default
   {% endif %}
   <article>
     {% if objective %}
-    <h2><i class="fa-solid fa-check"></i> Learning objective</h2>
+    {% include heading.html key="learning_objective" fallback="Learning objective" %}
+    <h2><i class="fa-solid fa-check"></i> {{ heading_text }}</h2>
     {{ objective }} {% endif %} {% include readings.html %} {{ content }}
   </article>
 
@@ -35,8 +36,9 @@ layout: default
   %} {% if row.session contains page.tags %} {% assign
   glossary_terms_for_session = glossary_terms_for_session | append: row.term |
   append: "," %} {% endif %} {% endfor %} {% if glossary_terms_for_session != ""
-  %}
-  <h2><i class="fa-solid fa-search"></i>Glossary Terms</h2>
+ %}
+ {% include heading.html key="glossary_terms" fallback="Glossary Terms" %}
+ <h2><i class="fa-solid fa-search"></i>{{ heading_text }}</h2>
   <table>
     <tr>
       <th>Term</th>

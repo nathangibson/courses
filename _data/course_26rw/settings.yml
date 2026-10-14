@@ -7,6 +7,11 @@ disqus:
 title: "Einführung in die Religionswissenschaft"
 description: "Aktuelle Themen in der Religionsforschung (course website, winter semester 2026/2027)"
 
+# Session-heading language + type. These select the wording of the session
+# detail-page headings via the global config at _data/headings.yml.
+language: "de"            # en | de  (the language of the course's session pages)
+type: "lecture"           # lecture | seminar  (drives type-specific headings, e.g. readings)
+
 # Semester listing for the courses index (feature/course-index)
 semester: winter          # winter | summer
 year: 2026                # start year of the academic year (e.g. 2026 => WS 2026/27)
