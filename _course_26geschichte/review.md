@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Überblick
-permalink: /26rw/review
+permalink: /26geschichte/review
 ---
 
 ## Überblick

@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About
-permalink: /26rw/about
+permalink: /26geschichte/about
 ---
