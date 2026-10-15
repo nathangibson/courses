@@ -9,12 +9,12 @@ baseurl: /courses
 # (e.g. _course_25rw/). Docs render at /courses/<course>/<title>.
 # List a course here the moment its content lands in the repo.
 collections:
-  course_25rw:
-    output: true
-    permalink: /25rw/:title
   course_26rw:
     output: true
     permalink: /26rw/:title
+  course_26geschichte:
+    output: true
+    permalink: /26geschichte/:title
 
 # jekyll-paginate configuration
 paginate: 50
