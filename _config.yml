@@ -15,6 +15,9 @@ collections:
   course_26geschichte:
     output: true
     permalink: /26geschichte/:title
+  course_26comm:
+    output: true
+    permalink: /26comm/:title
 
 # jekyll-paginate configuration
 paginate: 50

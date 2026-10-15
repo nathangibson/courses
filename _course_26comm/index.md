@@ -1,5 +1,5 @@
 ---
 layout: course-home
-title: Einführung in die Religionswissenschaft
-permalink: /26rw/
+title: Interreligious Communication in Global Crisis and Development Work
+permalink: /26comm/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: redirect
 title: Polls
-permalink: /26rw/poll
-redirect: https://partici.fi/99976265
+permalink: /26comm/poll
+redirect: https://partici.fi/56506605
 ---

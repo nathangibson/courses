@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Podcast
-permalink: /26rw/podcast/
+permalink: /26comm/podcast/
 ---
 <div class="post-content">
 <h1>{{ page.title }}</h1>

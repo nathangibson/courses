@@ -10,7 +10,7 @@ description: "Aktuelle Themen in der Religionsforschung (course website, winter 
 # Session-heading language + type. These select the wording of the session
 # detail-page headings via the global config at _data/headings.yml.
 language: "de"            # en | de  (the language of the course's session pages)
-type: "lecture"           # lecture | seminar  (drives type-specific headings, e.g. readings)
+type: "seminar"           # lecture | seminar  (drives type-specific headings, e.g. readings)
 
 # Semester listing for the courses index (feature/course-index)
 semester: winter          # winter | summer
