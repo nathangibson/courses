@@ -5,3 +5,4 @@ _site/
 *.xlsx~
 ~$*.xlsx
 tmp/
+.hermes/plans/*
