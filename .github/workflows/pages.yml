@@ -32,6 +32,13 @@ jobs:
       - name: Install dependencies
         run: bundle install
 
+      - name: Check _data YAML for control characters
+        # Fail loudly (with the exact file) if any _data YAML contains C0/C1
+        # control bytes (e.g. Windows-1252 smart quotes pasted into a Zotero
+        # field), which would otherwise crash jekyll build with a cryptic
+        # Psych::SyntaxError.
+        run: ruby scripts/check_yaml_control_chars.rb
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
