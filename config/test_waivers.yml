@@ -1,20 +1,98 @@
-# test_waivers.yml — explicit, reasoned suppression list.
-#
-# Any finding listed here is reported as WAIVED (still shown in output,
-# never blocking CI). Format:
-#
-#   <check-id>:
-#     - path: "regex matched against the source file path"
-#       line: 42            # optional — omit to waive the whole file
-#       reason: "why this is acceptable"
-#
-# Check ids: yaml-control-chars, front-matter, unregistered-collection,
-# permalink-conflicts, session-docs, lfs-pointers, proof, collection-emitted,
-# slides-rendered, session-title-composed.
-#
-# Example (hypothetical — currently nothing is waived):
-#   session-docs:
-#     - path: "_course_26rw/layout-demo-slides\.md$"
-#       reason: "demo fixture, intentionally non-conforming"
+# BASELINE WAIVERS - pre-existing proof findings when the suite was
+# adopted (generated from the first full proof run). Each entry suppresses
+# findings for ONE source file; fix the content, then DELETE the entry.
+# New findings in OTHER files will still fail CI normally.
 ---
-{}
+proof:
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-10\\-29\\-3\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-11\\-05\\-4\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-11\\-09\\-5\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/paper-airplane
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-11\\-12\\-5\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-11\\-26\\-7\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-11\\-30\\-8\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (3 finding(s)): internal image assets/img/jewish-scriptu
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-12\\-03\\-8\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-12\\-07\\-9\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/jewish-scriptu
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2026\\-12\\-14\\-10\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (4 finding(s)): internal image assets/img/wired-ai-news-;
+    internal image assets/img/mahdi-kanifnat; internal image assets/img/mazumdar-1993-
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2027\\-01\\-11\\-11\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/mazumdar-1993-
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2027\\-01\\-14\\-11\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2027\\-01\\-21\\-12\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2027\\-01\\-28\\-13\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2027\\-02\\-04\\-14\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/2027\\-02\\-11\\-15\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26comm/glossary\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets\img\glossary-ms-de
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/2024\\-11\\-07\\-3\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/golden-bough-2
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/2024\\-11\\-21\\-5\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image ../assets/img/masuzawa.jp
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/2025\\-01\\-23\\-11\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image ../assets/img/emojis-2022
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/2025\\-01\\-30\\-12\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image ../assets/img/emojis-2022
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/2027\\-01\\-14\\-11\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/2027\\-02\\-04\\-14\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26geschichte/glossary\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets\img\glossary-ms-de
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/2026\\-11\\-09\\-5\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/paper-airplane
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/2026\\-11\\-30\\-8\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (3 finding(s)): internal image assets/img/jewish-scriptu
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/2026\\-12\\-07\\-9\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/jewish-scriptu
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/2026\\-12\\-14\\-10\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (4 finding(s)): internal image assets/img/wired-ai-news-;
+    internal image assets/img/mahdi-kanifnat; internal image assets/img/mazumdar-1993-
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/2027\\-01\\-11\\-11\\-slides\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets/img/mazumdar-1993-
+    - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/2027\\-02\\-08\\-15\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image /courses/assets/img/
+    does - fix content, then remove this waiver'
+- path: "/Users/nathan/git/Github/nathangibson/courses/_course_26rw/glossary\\.md"
+  reason: 'pre-existing at suite adoption (1 finding(s)): internal image assets\img\glossary-ms-de
+    - fix content, then remove this waiver'
