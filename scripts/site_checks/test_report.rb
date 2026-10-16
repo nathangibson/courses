@@ -89,6 +89,9 @@ module SiteChecks
         'findings' => @findings.map { |f| stringify_keys(f) },
         'ok_checks' => @oks.map { |o| stringify_keys(o) }
       }
+      require 'fileutils'
+      dir = File.dirname(path)
+      FileUtils.mkdir_p(dir) unless dir.empty? || Dir.exist?(dir)
       File.write(path, JSON.pretty_generate(doc) + "\n")
       path
     end
