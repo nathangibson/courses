@@ -1,0 +1,59 @@
+name: CI
+
+# PR gate: runs the full test suite (lint + build + proof) on the MERGE
+# COMMIT of every pull request into main, plus plain pushes to feature
+# branches. Job name "ci" is the required status check for branch protection.
+# Deploys to the live site happen ONLY via pages.yml on push to main.
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches-ignore:
+      - main        # main is deployed by pages.yml
+      - preview/**  # preview branches are handled by preview.yml
+      - docs/**     # docs-only branches: no CI
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          lfs: true
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true   # bundle install from Gemfile.lock
+
+      - name: Test suite (lint + build + proof)
+        run: bundle exec rake ci
+
+      - name: Upload test report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results-${{ github.event.pull_request.number || github.run_number }}
+          path: tmp/test-*.json
+          retention-days: 14
+          if-no-files-found: ignore
+
+      - name: Upload built site artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-${{ github.event.pull_request.number || github.run_number }}
+          path: _site
+          retention-days: 14
+          if-no-files-found: ignore

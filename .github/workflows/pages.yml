@@ -1,5 +1,10 @@
 name: Deploy Jekyll site to Pages
 
+# Deploys the LIVE site at https://npgibson.com/courses. Fires ONLY on push
+# to main — which branch protection (require PR + required check "ci") makes
+# the merge of a PR whose CI already passed. The full suite runs again here
+# as belt and suspenders.
+
 on:
   push:
     branches: ["main"]
@@ -28,9 +33,19 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
+          bundler-cache: true
 
-      - name: Install dependencies
-        run: bundle install
+      - name: Test suite (lint + build + proof)
+        run: bundle exec rake ci
+
+      - name: Upload test report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results-main-${{ github.sha }}
+          path: tmp/test-*.json
+          retention-days: 14
+          if-no-files-found: ignore
 
       - name: Setup Pages
         id: pages

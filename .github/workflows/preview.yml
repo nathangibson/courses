@@ -1,0 +1,92 @@
+name: Preview deploy
+
+# Branch-named signal: push to a preview/* branch (or open a PR from one)
+# and the built site deploys to the SEPARATE courses-preview repository,
+# served at https://npgibson.com/courses-preview/<branch-name>. The live
+# site (pages.yml, push to main only) is structurally never touched.
+#
+# Setup (once, by the repo owner):
+#   1. Create repo nathangibson/courses-preview (public, no README) and set
+#      its Pages source to "Deploy from a branch" → main / root.
+#   2. Fine-grained PAT with Contents: Read and write on courses-preview
+#      ONLY → add as repo secret PREVIEW_DEPLOY_TOKEN on nathangibson/courses.
+
+on:
+  pull_request:
+    branches: [main]
+    types: [opened, synchronize, reopened, closed]
+  push:
+    branches: ['preview/**']
+
+permissions:
+  contents: read
+
+jobs:
+  artifact:
+    # Every CI run: downloadable _site artifact — never touches the live site.
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          lfs: true
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build with preview baseurl
+        run: bundle exec jekyll build --baseurl /courses-preview
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-site-${{ github.event.pull_request.number || github.ref_name }}
+          path: _site
+          retention-days: 14
+
+  deploy:
+    # ONLY preview/* branches: deploy to the separate preview repo.
+    if: >-
+      startsWith(github.ref_name, 'preview/') ||
+      (github.event_name == 'pull_request' && startsWith(github.head_ref, 'preview/'))
+    runs-on: ubuntu-latest
+    needs: artifact
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          lfs: true
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build with preview baseurl
+        run: bundle exec jekyll build --baseurl /courses-preview
+        env:
+          JEKYLL_ENV: production
+
+      - name: Deploy to preview repo (npgibson.com/courses-preview/<branch>)
+        if: github.event_name != 'pull_request' || github.event.action != 'closed'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          external_repository: nathangibson/courses-preview
+          publish_branch: main
+          publish_dir: ./_site
+          personal_token: ${{ secrets.PREVIEW_DEPLOY_TOKEN }}
+          destination_dir: ${{ github.head_ref || github.ref_name }}
+          keep_files: false
+
+      - name: Report preview URL on PR
+        if: github.event_name == 'pull_request' && github.event.action != 'closed'
+        run: |
+          echo "Preview will be live at: https://npgibson.com/courses-preview/${{ github.head_ref }}/"
