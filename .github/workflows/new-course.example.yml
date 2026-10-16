@@ -1,0 +1,67 @@
+# Example GitHub Actions workflow: instantiate a course via repository_dispatch.
+#
+# This file is an EXAMPLE (ignored by Actions because of the .example suffix).
+# To wire it up later: copy it to .github/workflows/new-course.yml.
+#
+# Usage (from anywhere with a GitHub token):
+#   gh api repos/nathangibson/courses/dispatches \
+#     -f event_type=new-course \
+#     -F 'client_payload[spec_yaml]=slug: 26ki
+#         title: "Einführung in die KI und Religion"
+#         n: 12
+#         start: 2026-10-19
+#         freq: weekly
+#         holidays: "2026-12-18..2027-01-11"'
+#
+# The payload keys are exactly the spec-file keys (see
+# scripts/new_course_spec.example.yaml). The script runs with --commit so the
+# course lands in a commit on the default branch; the job then reports the
+# generated file list in the run summary.
+
+name: New course (repository_dispatch)
+
+# on:
+#   repository_dispatch:
+#     types: [new-course]
+
+jobs:
+  instantiate:
+    if: github.event.action == 'new-course'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
+          lfs: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instantiate the course
+        # The spec arrives as client_payload.spec_yaml (multi-line string);
+        # write it to a temp spec file and let the script do the work.
+        env:
+          SPEC_YAML: ${{ github.event.client_payload.spec_yaml }}
+        run: |
+          printf '%s\n' "$SPEC_YAML" > /tmp/course_spec.yaml
+          python3 scripts/new_course.py --spec /tmp/course_spec.yaml --commit --yes
+
+      - name: Verify the build
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build + lint
+        run: |
+          JEKYLL_ENV=production bundle exec jekyll build
+          ruby scripts/site_checks/lint.rb
+
+      - name: Push the generated course
+        run: |
+          git push origin HEAD:main

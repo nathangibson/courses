@@ -1,0 +1,32 @@
+# Example spec file for scripts/new_course.py
+#
+# Usage:
+#   python3 scripts/new_course.py --spec my_course.yaml            # interactive for anything missing
+#   python3 scripts/new_course.py --spec my_course.yaml --commit   # also git-commit
+#   python3 scripts/new_course.py --spec my_course.yaml --yes      # CI/agent mode (no prompts)
+#
+# CLI flags override spec-file values. Copy this file, rename it, fill it in.
+
+# --- identity (required) --------------------------------------------------
+slug: 26ki                        # lowercase/digits/hyphens; collection course_26ki, URL /courses/26ki/
+title: "Einführung in die KI und Religion"   # course title
+description: "Aktuelle Themen der KI-Ethik (course website, winter semester 2026/2027)"  # optional; defaults to "<title> (course website, <semester>)"
+
+# --- course page settings (defaults shown) --------------------------------
+language: de                      # en | de  — session-page headings
+type: lecture                     # lecture | seminar — type-specific headings (readings)
+semester: winter                  # winter | summer — courses index grouping
+year: 2026                        # start year; defaults to the start-date year
+hero: candle.jpg                  # hero image from assets/img (also the deck default image)
+
+# --- sessions (required) ---------------------------------------------------
+n: 12                             # how many sessions
+start: 2026-10-19                 # date of the FIRST session (ISO YYYY-MM-DD)
+freq: weekly                      # weekly | biweekly (default weekly)
+holidays: "2026-12-18..2027-01-11, 24.12.2026-26.12.2026"   # free-form; ranges/single dates
+
+# --- optional ---------------------------------------------------------------
+first-deck-date: 2026-10-19       # deck date for session 1 if different from the session date
+
+# --- behaviour ----------------------------------------------------------------
+commit: false                     # true = git-commit the generated course
