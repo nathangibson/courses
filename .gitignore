@@ -4,3 +4,4 @@ _site/
 .DS_Store
 *.xlsx~
 ~$*.xlsx
+tmp/

@@ -1,0 +1,20 @@
+# test_waivers.yml — explicit, reasoned suppression list.
+#
+# Any finding listed here is reported as WAIVED (still shown in output,
+# never blocking CI). Format:
+#
+#   <check-id>:
+#     - path: "regex matched against the source file path"
+#       line: 42            # optional — omit to waive the whole file
+#       reason: "why this is acceptable"
+#
+# Check ids: yaml-control-chars, front-matter, unregistered-collection,
+# permalink-conflicts, session-docs, lfs-pointers, proof, collection-emitted,
+# slides-rendered, session-title-composed.
+#
+# Example (hypothetical — currently nothing is waived):
+#   session-docs:
+#     - path: "_course_26rw/layout-demo-slides\.md$"
+#       reason: "demo fixture, intentionally non-conforming"
+---
+{}
