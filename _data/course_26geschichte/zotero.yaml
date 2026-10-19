@@ -2272,6 +2272,49 @@ references:
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
   zotero_language: de
 
+- id: petchNotesQueriesPitt2007
+  abstract: This article examines the contribution that a major ethnographic museum, the Pitt Rivers Museum at the University of Oxford, has made to the development of anthropology in the United Kingdom, through the prism of a seminal publication, Notes and Queries on Anthropology, which was published in several editions between 1874 and 1951. While Notes and Queries has been of considerable interest to historians of anthropology, its connections to museum anthropology and to material culture studies have, to a large degree, gone unexamined hitherto.
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  attachments:
+    - title: Full Text PDF
+      url: https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1525/mua.2007.30.1.21
+      path: /Users/nathan/app-files/Zotero/storage/D9AZMM9D/Petch - 2007 - Notes and Queries and the Pitt Rivers Museum.pdf
+      key: D9AZMM9D
+      type: pdf
+    - title: Snapshot
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1525/mua.2007.30.1.21
+      path: /Users/nathan/app-files/Zotero/storage/LUFP5CTK/mua.2007.30.1.html
+      key: LUFP5CTK
+      type: file
+  author:
+    - family: Petch
+      given: Alison
+  chicago-bibliography: 'Petch, Alison. "Notes and Queries and the Pitt Rivers Museum." Museum Anthropology 30, no. 1: 21–39. https://doi.org/10.1525/mua.2007.30.1.21'
+  chicago-note-full: Alison Petch, "Notes and Queries and the Pitt Rivers Museum," Museum Anthropology 30, no. 1, 21–39, https://doi.org/10.1525/mua.2007.30.1.21
+  chicago-note-short: Petch, "Notes and Queries and the..,"
+  citation-key: petchNotesQueriesPitt2007
+  container-title: Museum Anthropology
+  container-title-short: Mus. Anthropol.
+  DOI: 10.1525/mua.2007.30.1.21
+  ISSN: 1548-1379
+  issue: '1'
+  issued:
+    - year: 2007
+  language: en
+  page: 21–39
+  source: Wiley Online Library
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Notes and Queries and the Pitt Rivers Museum
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1525/mua.2007.30.1.21
+  volume: '30'
+  zotero_language: en
+
 - id: PhotographsWorldsFair1894
   abstract: '351 leaves : 29 x 33 cm; "Sold by subscription only."'
   accessed:
@@ -2791,9 +2834,12 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/NV3D7NFC/2015 - The Shock of the “Savage” Edward Burnett Tylor, E.pdf
       key: NV3D7NFC
       type: pdf
-  chicago-bibliography: '"The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits." Understanding Theories of Religion: An Introduction: 45–54. https://doi.org/10.1002/9781394261017.ch5'
-  chicago-note-full: ', "The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits," Understanding Theories of Religion: An Introduction, 45–54, https://doi.org/10.1002/9781394261017.ch5'
-  chicago-note-short: ', "The Shock of the “Savage”:..,"'
+  author:
+    - family: Strenski
+      given: Ivan
+  chicago-bibliography: 'Strenski, Ivan. "The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits." Understanding Theories of Religion: An Introduction: 45–54. https://doi.org/10.1002/9781394261017.ch5'
+  chicago-note-full: 'Ivan Strenski, "The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits," Understanding Theories of Religion: An Introduction, 45–54, https://doi.org/10.1002/9781394261017.ch5'
+  chicago-note-short: Strenski, "The Shock of the “Savage”:..,"
   citation-key: ShockSavageEdward2015
   container-title: 'Understanding Theories of Religion: An Introduction'
   DOI: 10.1002/9781394261017.ch5
@@ -2977,6 +3023,55 @@ references:
   type: article-journal
   URL: https://academic-oup-com.proxy.ub.uni-frankfurt.de/socrel/article/71/1/133/1623933
   volume: '71'
+  zotero_language: en
+
+- id: taylorFirstStoneLast2016
+  abstract: 'Between 1890 and 1905, Edward Burnett Tylor and Henry Ling Roth extended and formalised two ideas that were intricately connected and deeply influential to the development of nineteenth century anthropology: that the Tasmanian Aboriginal people represented the earliest phase of cultural evolution and that they were extinct. This paper offers a detailed archival exploration of the correspondence between 1891–1905 that informed those ideas. It finds that Tylor and Roth not only received abstracted facts and artefacts from their colonial contacts; they were directed and inspired by an emergent Australian scholarship that sought to propose and urge new disciplinary directions. This paper reveals not only the importance of Tasmanian Aboriginal people to the history of science, but the role that scientific ideas have shaped Australian social memory and national identity.'
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  attachments:
+    - title: Full Text PDF
+      url: https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1002/ocea.5145
+      path: /Users/nathan/app-files/Zotero/storage/JB4LLZBF/Taylor - 2016 - The First Stone and the Last Tasmanian The Colonial Correspondence of Edward Burnett Tylor and Henr.pdf
+      key: JB4LLZBF
+      type: pdf
+    - title: Snapshot
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ocea.5145
+      path: /Users/nathan/app-files/Zotero/storage/SQABZQQ4/ocea.html
+      key: SQABZQQ4
+      type: file
+  author:
+    - family: Taylor
+      given: Rebe
+  chicago-bibliography: 'Taylor, Rebe. "The First Stone and the Last Tasmanian: The Colonial Correspondence of Edward Burnett Tylor and Henry Ling Roth." Oceania 86, no. 3: 320–343. https://doi.org/10.1002/ocea.5145'
+  chicago-note-full: 'Rebe Taylor, "The First Stone and the Last Tasmanian: The Colonial Correspondence of Edward Burnett Tylor and Henry Ling Roth," Oceania 86, no. 3, 320–343, https://doi.org/10.1002/ocea.5145'
+  chicago-note-short: Taylor, "The First Stone and the..,"
+  citation-key: taylorFirstStoneLast2016
+  container-title: Oceania
+  DOI: 10.1002/ocea.5145
+  ISSN: 1834-4461
+  issue: '3'
+  issued:
+    - year: 2016
+  language: en
+  license: © 2016 Oceania Publications
+  page: 320–343
+  source: Wiley Online Library
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+    - Aborigines
+    - Australia
+    - Ling Roth
+    - Tasmania
+    - Tylor
+  title: 'The First Stone and the Last Tasmanian: The Colonial Correspondence of Edward Burnett Tylor and Henry Ling Roth'
+  title-short: The First Stone and the Last Tasmanian
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ocea.5145
+  volume: '86'
   zotero_language: en
 
 - id: thuswaldnerDerridaUndDanach2008
@@ -3377,8 +3472,6 @@ references:
   chicago-note-full: 'Edward Burnett Tylor, "Primitive culture: Researches into the development of mythology, philosophy, religion, art, and custom,", http://archive.org/details/primitiveculture00tylo'
   chicago-note-short: 'Tylor, "Primitive culture: Researches into the..,"'
   citation-key: tylorPrimitiveCultureResearches1871
-  contributor:
-    - literal: Harold B. Lee Library
   issued:
     - year: 1871
   language: en
@@ -3438,6 +3531,22 @@ references:
   type: book
   URL: http://archive.org/details/researchesintoea65tylo
   zotero_language: eng
+
+- id: TylorsOnionCurious
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  chicago-bibliography: '"Tylor''s Onion: a curious case of bewitched onions from Somerset." . https://england.prm.ox.ac.uk/englishness-tylors-onion.html'
+  chicago-note-full: ', "Tylor''s Onion: a curious case of bewitched onions from Somerset,", https://england.prm.ox.ac.uk/englishness-tylors-onion.html'
+  chicago-note-short: ', "Tylor''s Onion: a curious case..,"'
+  citation-key: TylorsOnionCurious
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: 'Tylor''s Onion: a curious case of bewitched onions from Somerset'
+  type: webpage
+  URL: https://england.prm.ox.ac.uk/englishness-tylors-onion.html
 
 - id: VideoAudioClifford
   accessed:
@@ -3911,4 +4020,39 @@ references:
   type: document
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/11_12_Handout_MaxWeber.docx
   zotero_language: de
+
+- id: wingfieldHeartHomeTylors2009
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  attachments:
+    - title: JSTOR Full Text PDF
+      url: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/pdfplus/10.2307/41417136.pdf?acceptTC=true
+      path: /Users/nathan/app-files/Zotero/storage/CCMGC9FC/Wingfield - 2009 - Is the Heart at Home E. B. Tylor's Collections from Somerset.pdf
+      key: CCMGC9FC
+      type: pdf
+  author:
+    - family: Wingfield
+      given: Chris
+  chicago-bibliography: 'Wingfield, Chris. "Is the Heart at Home? E. B. Tylor''s Collections from Somerset." Journal of Museum Ethnography, no. 22: 22–38. https://www.jstor.org/stable/41417136'
+  chicago-note-full: Chris Wingfield, "Is the Heart at Home? E. B. Tylor's Collections from Somerset," Journal of Museum Ethnography, no. 22, 22–38, https://www.jstor.org/stable/41417136
+  chicago-note-short: Wingfield, "Is the Heart at Home?..,"
+  citation-key: wingfieldHeartHomeTylors2009
+  container-title: Journal of Museum Ethnography
+  container-title-short: J. Mus. Ethnogr.
+  ISSN: 0954-7169
+  issue: '22'
+  issued:
+    - year: 2009
+  page: 22–38
+  publisher: Museum Ethnographers Group
+  source: JSTOR
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Is the Heart at Home? E. B. Tylor's Collections from Somerset
+  title-short: Is the Heart at Home?
+  type: article-journal
+  URL: https://www.jstor.org/stable/41417136
 ...
