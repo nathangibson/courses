@@ -2732,6 +2732,78 @@ references:
   URL: https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0026/html
   zotero_language: de
 
+- id: rothAboriginesTasmania1899
+  abstract: Aboriginal and Torres Strait Islander peoples are advised that this resource may contain images, transcripts or names of Aboriginal and Torres Strait Islander peoples now deceased. It may also contain historically and culturally sensitive words, terms, and descriptions.
+  attachments:
+    - title: Google Books Link
+      url: https://books.google.de/books?id=hSZEFXGIlv8C
+      path: ''
+      key: 88KXZW9T
+      type: webpage
+  author:
+    - family: Roth
+      given: Henry Ling
+    - family: Butler
+      given: Marion E.
+    - family: Garson
+      given: John George
+  chicago-bibliography: Roth, Henry Ling, Marion E. Butler, and John George Garson. "The Aborigines of Tasmania." . https://books.google.de/books?hl=en&lr=&id=hSZEFXGIlv8C
+  chicago-note-full: Henry Ling Roth, Marion E. Butler, John George Garson, "The Aborigines of Tasmania,", https://books.google.de/books?hl=en&lr=&id=hSZEFXGIlv8C
+  chicago-note-short: Roth, "The Aborigines of Tasmania,"
+  citation-key: rothAboriginesTasmania1899
+  issued:
+    - year: 1899
+  language: en
+  number-of-pages: '420'
+  publisher: F. King & Sons
+  source: Google Books
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: The Aborigines of Tasmania
+  type: book
+  URL: https://books.google.de/books?hl=en&lr=&id=hSZEFXGIlv8C
+  zotero_language: en
+
+- id: sackettBoucherPerthesDiscovery2014
+  abstract: Why did Boucher de Perthes’ discoveries of handaxes in the Somme River’s gravels need to be verified by English geologist Joseph Prestwich, and antiquarian John Evans, before members of the French Academy of Sciences changed their minds about evidence for the antiquity of humanity? The problem was not with the evidence itself, but with the way Boucher de Perthes interpreted and published it. Teetotal, but an over-imaginative Romantic, a provincial bureaucrat and an antiquarian scholar, an autodidact, and a generous provider of charity to local workers and early advocate for women’s education, Boucher de Perthes was not only eccentric and remarkable, but also his own worst enemy. He was easily dismissed by the scientific elite of Paris until more handaxes were found at other sites and in different countries, and were recognised as being similar to those found at Abbeville.
+  accessed:
+    - year: 2026
+      month: 10
+      day: 20
+  attachments:
+    - title: Full Text PDF
+      url: https://archaeologybulletin.org/articles/534/files/submission/proof/534-1-2344-3-10-20140122.pdf
+      path: /Users/nathan/app-files/Zotero/storage/LKYKK87T/Sackett - 2014 - Boucher de Perthes and the Discovery of Human Antiquity.pdf
+      key: LKYKK87T
+      type: pdf
+  author:
+    - family: Sackett
+      given: James
+  chicago-bibliography: Sackett, James. "Boucher de Perthes and the Discovery of Human Antiquity." Bulletin of the History of Archaeology 24, no. 0. https://doi.org/10.5334/bha.242
+  chicago-note-full: James Sackett, "Boucher de Perthes and the Discovery of Human Antiquity," Bulletin of the History of Archaeology 24, no. 0, https://doi.org/10.5334/bha.242
+  chicago-note-short: Sackett, "Boucher de Perthes and the..,"
+  citation-key: sackettBoucherPerthesDiscovery2014
+  container-title: Bulletin of the History of Archaeology
+  container-title-short: Bull. Hist. Archaeol.
+  DOI: 10.5334/bha.242
+  ISSN: 1062-4740
+  issue: '0'
+  issued:
+    - year: 2014
+      month: 1
+      day: 6
+  language: en
+  source: archaeologybulletin.org
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Boucher de Perthes and the Discovery of Human Antiquity
+  type: article-journal
+  URL: https://archaeologybulletin.org/articles/10.5334/bha.242
+  volume: '24'
+  zotero_language: en
+
 - id: schlieterWasIstReligion2018
   attachments:
     - title: Table of Contents PDF
@@ -2926,6 +2998,26 @@ references:
   title-short: Max Webers unwiderlegbare Fehlkonstruktionen
   type: book
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.content-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783593409764
+
+- id: strenskiDurkheimJewsFrance1997
+  author:
+    - family: Strenski
+      given: Ivan
+  chicago-bibliography: Strenski, Ivan. "Durkheim and the Jews of France." . http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D35124
+  chicago-note-full: Ivan Strenski, "Durkheim and the Jews of France,", http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D35124
+  chicago-note-short: Strenski, "Durkheim and the Jews of..,"
+  citation-key: strenskiDurkheimJewsFrance1997
+  collection-title: Chicago studies in the history of Judaism
+  ISBN: 978-0-226-77735-1
+  issued:
+    - year: 1997
+  number-of-pages: IX, 215 S.
+  publisher: Univ. of Chicago Press
+  publisher-place: Chicago [u.a.]
+  source: COinS
+  title: Durkheim and the Jews of France
+  type: book
+  URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D35124
 
 - id: strenskiThinkingReligionReader2006
   call-number: BL41 .T49 2006
