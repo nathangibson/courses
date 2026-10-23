@@ -114,8 +114,8 @@ references:
       type: file
   author:
     - literal: Council of Europe
-  chicago-bibliography: Council of Europe. "Autobiography of Intercultural Encounters." Autobiography of Intercultural Encounters. https://www.coe.int/en/web/autobiography-intercultural-encounters/autobiography-of-intercultural-encounters
-  chicago-note-full: Council of Europe, "Autobiography of Intercultural Encounters," Autobiography of Intercultural Encounters, https://www.coe.int/en/web/autobiography-intercultural-encounters/autobiography-of-intercultural-encounters
+  chicago-bibliography: Council of Europe. "Autobiography of Intercultural Encounters." Autobiography of Intercultural Encounters. https://rm.coe.int/autobiography-of-intercultural-encounters/16806bf02d
+  chicago-note-full: Council of Europe, "Autobiography of Intercultural Encounters," Autobiography of Intercultural Encounters, https://rm.coe.int/autobiography-of-intercultural-encounters/16806bf02d
   chicago-note-short: Europe, "Autobiography of Intercultural Encounters,"
   citation-key: AutobiographyInterculturalEncounters
   container-title: Autobiography of Intercultural Encounters
@@ -123,10 +123,12 @@ references:
     - year: -2027
   language: en-GB
   tags:
-    - _measurement-tools
+    - _further-reading
+    - _required
+    - 3-Inventory
   title: Autobiography of Intercultural Encounters
   type: webpage
-  URL: https://www.coe.int/en/web/autobiography-intercultural-encounters/autobiography-of-intercultural-encounters
+  URL: https://rm.coe.int/autobiography-of-intercultural-encounters/16806bf02d
   zotero_language: en-GB
 
 - id: bennettConstructivistApproachAssessing2020
@@ -170,7 +172,7 @@ references:
     - DMIS
     - ICC
     - _intercultural-competence
-    - _measurement-tools
+    - 3-Inventory
   title: A Constructivist Approach to Assessing Intercultural Communication Competence
   type: chapter
   URL: https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-handbook-of-intercultural-communication/constructivist-approach-to-assessing-intercultural-communication-competence/744380352CFC917F0F0FAAAA10ECD7C8
@@ -256,8 +258,9 @@ references:
   publisher: Leibniz Institute for Psychology (ZPID)
   source: DOI.org (Datacite)
   tags:
+    - _further-reading
     - '150'
-    - _measurement-tools
+    - 3-Inventory
   title: COS - Cultural Orientation Scale
   type: article
   URL: https://www.psycharchives.org/jspui/handle/20.500.12034/322.2
@@ -292,11 +295,12 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
+    - _further-reading
     - faith
     - belief
     - 4-Religion
-    - _measurement-tools
     - _religion
+    - 3-Inventory
   title: Supernatural Belief Scale (SBS) - German Version
   type: article-journal
   URL: http://zis.gesis.org/DoiId/zis252
@@ -326,10 +330,11 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
-    - _measurement-tools
+    - _further-reading
     - female labor
     - gender role
     - stereotype
+    - 3-Inventory
   title: Gender-role attitudes (ISSP 94)
   type: article-journal
   URL: http://zis.gesis.org/DoiId/zis223
@@ -570,6 +575,28 @@ references:
   type: book
   URL: https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9781501500060/html#contents
   zotero_language: en
+
+- id: CulturalCompetenceIntercultural
+  accessed:
+    - year: 2026
+      month: 10
+      day: 22
+  attachments:
+    - title: Cultural competence/Intercultural Sensitivity Scale - EduTech Wiki
+      url: https://edutechwiki.unige.ch/en/Cultural_competence/Intercultural_Sensitivity_Scale#cite_note-1
+      path: /Users/nathan/app-files/Zotero/storage/SFMCV2YB/Intercultural_Sensitivity_Scale.html
+      key: SFMCV2YB
+      type: file
+  chicago-bibliography: '"Cultural competence/Intercultural Sensitivity Scale - EduTech Wiki." . https://edutechwiki.unige.ch/en/Cultural_competence/Intercultural_Sensitivity_Scale#cite_note-1'
+  chicago-note-full: ', "Cultural competence/Intercultural Sensitivity Scale - EduTech Wiki,", https://edutechwiki.unige.ch/en/Cultural_competence/Intercultural_Sensitivity_Scale#cite_note-1'
+  chicago-note-short: ', "Cultural competence/Intercultural Sensitivity Scale -..,"'
+  citation-key: CulturalCompetenceIntercultural
+  tags:
+    - _required
+    - 3-Inventory
+  title: Cultural competence/Intercultural Sensitivity Scale - EduTech Wiki
+  type: webpage
+  URL: https://edutechwiki.unige.ch/en/Cultural_competence/Intercultural_Sensitivity_Scale#cite_note-1
 
 - id: delanoyWhatCulture2020
   abstract: Werner Delanoy explores different definitions of culture both in their historical context and with regard to future developments in intercultural communication. As an advocate of a dialogic approach, the author argues in favour of non-essentialist and power-critical perspectives in line with a (post-)humanistic and cosmopolitan agenda.
@@ -886,7 +913,8 @@ references:
   page: 165–176
   source: Zotero
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: Measuring Intercultural Sensitivity in Different Cultural Contexts
   type: article-journal
   URL: https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1019&context=com_facpubs
@@ -927,6 +955,7 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
+    - _further-reading
     - Acculturation
     - Challenged Sense of Belonging Scale
     - CSBS
@@ -935,7 +964,7 @@ references:
     - Refugees
     - Scale validation
     - Sense of belonging
-    - _measurement-tools
+    - 3-Inventory
   title: The Challenged Sense of Belonging Scale (CSBS)
   type: article-journal
   URL: https://zis.gesis.org/DoiId/zis306_exz
@@ -1221,8 +1250,9 @@ references:
   source: DOI.org (Datacite)
   tags:
     - Religion
+    - _further-reading
     - Einstellung
-    - _measurement-tools
+    - 3-Inventory
   title: Einstellungen zur Religion und ihren Institutionen
   type: article-journal
   URL: http://zis.gesis.org/DoiId/zis142
@@ -1349,7 +1379,7 @@ references:
   source: ScienceDirect
   tags:
     - _further-reading
-    - _measurement-tools
+    - 3-Inventory
   title: 'The Intercultural Conflict Style Inventory: A conceptual framework and measure of intercultural conflict resolution approaches'
   title-short: The Intercultural Conflict Style Inventory
   type: article-journal
@@ -1437,7 +1467,8 @@ references:
   citation-key: InterculturalLearningHub
   language: en-gb
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: Intercultural Learning Hub
   type: webpage
   URL: https://hubicl.org/toolbox/tools
@@ -1455,7 +1486,8 @@ references:
   citation-key: InterculturalLearningHuba
   language: en-gb
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: Intercultural Learning Hub
   type: webpage
   URL: https://hubicl.org/toolbox/tools/883/downloads
@@ -1570,7 +1602,8 @@ references:
   page: 233–246
   source: ScienceDirect
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: The behavioral assessment scale for intercultural communication effectiveness
   type: article-journal
   URL: https://www.sciencedirect.com/science/article/pii/014717678890017X
@@ -1946,12 +1979,13 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
+    - _further-reading
     - Deutschland
     - Migrant
     - Migrationshintergrund
     - Akkulturation
     - Herkunftsland
-    - _measurement-tools
+    - 3-Inventory
   title: Akkulturationsorientierung bei Migrantinnen und Migranten (AKOrM)
   type: article-journal
   URL: https://zis.gesis.org/DoiId/zis264
@@ -2374,7 +2408,8 @@ references:
   page: 333–347
   source: ScienceDirect
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: Exploring the cross-cultural equivalence of the behavioral assessment scale for intercultural communication
   type: article-journal
   URL: https://www.sciencedirect.com/science/article/pii/0147176789900163
@@ -2514,7 +2549,7 @@ references:
   tags:
     - _further-reading
     - _intercultural-competence
-    - _measurement-tools
+    - 3-Inventory
   title: 'Intercultural competence and assessment: perspectives from the INCA Project'
   title-short: 22. Intercultural competence and assessment
   type: chapter
@@ -2924,7 +2959,8 @@ references:
   chicago-note-short: ', "Testarchiv,"'
   citation-key: Testarchiv
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: Testarchiv
   type: webpage
   URL: https://www.testarchiv.eu/
@@ -2977,7 +3013,8 @@ references:
   page: 1099–1118
   source: DOI.org (Crossref)
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: 'Cultural intelligence: A theory-based, short form measure'
   title-short: Cultural intelligence
   type: article-journal
@@ -2997,6 +3034,11 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/NCLBWPVK/Thomas et al. - 2017 - Short Form Cultural Intelligence Scale (SFCQ).pdf
       key: NCLBWPVK
       type: pdf
+    - title: zis248
+      url: http://zis.gesis.org/DoiId/zis248
+      path: ''
+      key: K3ULXGTA
+      type: webpage
   author:
     - family: Thomas
       given: D. C.
@@ -3038,12 +3080,14 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
+    - _further-reading
+    - _required
+    - 3-Inventory
     - intercultural factors
     - social competence
-    - _measurement-tools
   title: Short Form Cultural Intelligence Scale (SFCQ)
   type: article-journal
-  URL: http://zis.gesis.org/DoiId/zis248
+  URL: https://next.hessenbox.de/index.php/f/810943841
   version: '1.0'
   zotero_language: en
 
@@ -3086,6 +3130,11 @@ references:
       month: 10
       day: 14
   attachments:
+    - title: Notes - Triandis - 2001 - Individualism and collectivism Past, present, and future
+      url: ''
+      path: /Users/nathan/app-files/Zotero/storage/S74VQ3HG/Triandis - 2001 - Individualism and collectivism Past, present, and future.pdf
+      key: S74VQ3HG
+      type: pdf
     - title: PDF
       url: ''
       path: /Users/nathan/app-files/Zotero/storage/8HHBE7RK/Triandis - 2001 - Individualism and collectivism Past, present, and future.pdf
@@ -3239,11 +3288,12 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
-    - _measurement-tools
+    - _further-reading
     - cross-culturality
     - culture
     - customs
     - interculturality
+    - 3-Inventory
   title: Cross-Cultural Loss Scale (CCLS)
   type: article-journal
   URL: https://zis.gesis.org/DoiId/zis262
@@ -3282,7 +3332,8 @@ references:
   page: 1–7
   source: DOI.org (Crossref)
   tags:
-    - _measurement-tools
+    - _further-reading
+    - 3-Inventory
   title: Validation of the short form of the intercultural sensitivity scale (ISS-15)
   type: article-journal
   URL: https://www-sciencedirect-com.proxy.ub.uni-frankfurt.de/science/article/pii/S0147176716301201?via%3Dihub

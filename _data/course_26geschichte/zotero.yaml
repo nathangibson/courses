@@ -3499,6 +3499,24 @@ references:
   URL: https://dl.ub.uni-freiburg.de/diglit/tylor1873-1/0001
   zotero_language: de
 
+- id: tyloredwardburnett1832-1917AnahuacMexicoMexicans1861
+  chicago-bibliography: '"Anahuac, or Mexico and the Mexicans, ancient and modern / by Edward B. Tylor."'
+  chicago-note-full: ', "Anahuac, or Mexico and the Mexicans, ancient and modern / by Edward B. Tylor,"'
+  chicago-note-short: ', "Anahuac, or Mexico and the..,"'
+  citation-key: tyloredwardburnett1832-1917AnahuacMexicoMexicans1861
+  contributor:
+    - literal: Tylor, Edward Burnett (1832-1917)
+  issued:
+    - year: 1861
+  note: 'OCLC: 763818407'
+  publisher: Longman, Green, Longman and Roberts (London)
+  source: Open WorldCat
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Anahuac, or Mexico and the Mexicans, ancient and modern / by Edward B. Tylor
+  type: book
+
 - id: tylorPrimitiveCulture2018
   author:
     - family: Tylor
@@ -3573,9 +3591,9 @@ references:
   publisher-place: London
   source: Internet Archive
   tags:
-    - Civilization
     - _further-reading
     - 2-Edward-Tylor
+    - Civilization
   title: 'Primitive culture: Researches into the development of mythology, philosophy, religion, art, and custom'
   title-short: Primitive culture
   type: book
