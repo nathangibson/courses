@@ -318,6 +318,29 @@ references:
   title-short: The magic city
   type: book
 
+- id: CollectionsOnline
+  accessed:
+    - year: 2026
+      month: 10
+      day: 22
+  attachments:
+    - title: Snapshot
+      url: https://www.prm.ox.ac.uk/collections-online
+      path: /Users/nathan/app-files/Zotero/storage/PJBWUZ7X/collections-online.html
+      key: PJBWUZ7X
+      type: file
+  chicago-bibliography: '"Collections online." . https://www.prm.ox.ac.uk/collections-online'
+  chicago-note-full: ', "Collections online,", https://www.prm.ox.ac.uk/collections-online'
+  chicago-note-short: ', "Collections online,"'
+  citation-key: CollectionsOnline
+  language: en
+  tags:
+    - 2-Edward-Tylor
+  title: Collections online
+  type: webpage
+  URL: https://www.prm.ox.ac.uk/collections-online
+  zotero_language: en
+
 - id: dianteillPierreBourdieuSociology2003
   abstract: Although some of Bourdieu’s most basic concepts have their roots in the sociology of religion, religion itself has, in appearance, only a marginalized status within his work. This article focuses on the genesis of religious field and how the theories of Durkheim, Mauss, and Weber fold into the notion of field defined by Bourdieu. Religious field must be understood within the symbolic economy as well; divisions of symbolic labor are therefore discussed in relation to segmented and non-segmented societies. Finally, Bourdieu’s analysis of institutions, in particular the Catholic Church, further help us understand the use and evolution of religious field in his work and shed light on the sociologist’s understanding of the movement from religious beliefs toward aesthetic ones.
   accessed:
