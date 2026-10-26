@@ -1,30 +1,36 @@
 {% assign image = include.image | default: page.image %}
 {% comment %}
-  aria/credit via the shared XMP image-credit system (jekyll-image-credits).
-  image_credit returns the credit hash from _data/image_credits.yaml keyed by
-  image basename. The treasury sentence mirrors the main site's format:
-  "Image: [description]. By [creator]. [identifier]. Source: [publisher], [link]. [rights]."
+  Image credit via the shared XMP image-credit system (jekyll-image-credits).
+  The credit sentence is rendered as a POPOVER (button with data-content),
+  matching the main site's image-caption include style — a small image icon
+  that shows the credit on click (native popover on this site, see
+  _includes/popover-init.html + .native-popover CSS).
 {% endcomment %}
 {% assign img_url = site.baseurl | append: "/assets/img/" | append: image %}
 {% assign credit = img_url | image_credit %}
 <div class="featured-image">
-    <figure>
+    <figure class="position-relative">
       <img src="{{ img_url }}" />
       {% if credit.description or credit.creator or credit.identifier or credit.publisher or credit.source_url or credit.rights %}
-      <figcaption class="image-credit">
-        {%- capture credit_sentence -%}
-          {%- if credit.description %}Image: {{ credit.description }}.{% endif %}
-          {%- if credit.creator %} By {{ credit.creator }}.{% endif %}
-          {%- if credit.identifier %} {{ credit.identifier }}.{% endif %}
-          {%- if credit.publisher or credit.source_url %} Source:
-            {%- if credit.publisher %} {{ credit.publisher }}{% endif %}
-            {%- if credit.publisher and credit.source_url %},{% endif %}
-            {%- if credit.source_url %} <a href="{{ credit.source_url }}" target="_blank" rel="noopener">{{ credit.source_url | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first }}</a>{% endif %}.
-          {%- endif %}
-          {%- if credit.rights %} {{ credit.rights }}.{% endif %}
-        {%- endcapture -%}
-        {{ credit_sentence | strip }}
-      </figcaption>
+      {%- capture credit_sentence -%}
+        {%- if credit.description %}Image: {{ credit.description }}.{% endif %}
+        {%- if credit.creator %} By {{ credit.creator }}.{% endif %}
+        {%- if credit.identifier %} {{ credit.identifier }}.{% endif %}
+        {%- if credit.publisher or credit.source_url %} Source:
+          {%- if credit.publisher %} {{ credit.publisher }}{% endif %}
+          {%- if credit.publisher and credit.source_url %},{% endif %}
+          {%- if credit.source_url %} <a href="{{ credit.source_url }}" target="_blank" rel="noopener">{{ credit.source_url | replace: 'https://', '' | replace: 'http://', '' | split: '/' | first }}</a>{% endif %}.
+        {%- endif %}
+        {%- if credit.rights %} {{ credit.rights }}.{% endif %}
+      {%- endcapture -%}
+      <div class="credit-button-wrap">
+        <button class="btn credit-popover-btn" data-toggle="popover"
+            data-trigger="click" data-placement="bottom" data-html="true"
+            data-content="{{ credit_sentence | strip | escape }}"
+            data-image-credit-src="{{ img_url }}" title="Image Credit">
+          <i class="fa-regular fa-image" aria-hidden="true"></i>
+        </button>
+      </div>
       {% endif %}
     </figure>
 </div>
