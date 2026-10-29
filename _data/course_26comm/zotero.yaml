@@ -1,5 +1,44 @@
 ---
 references:
+- id: abu-nimerConflictResolutionCulture2001
+  abstract: Recently, conflict resolution practitioners and scholars have begun exploring the application and compatibility of theory and practice to different religious and cultural contexts and conflicts. This article is aimed at, first, bridging conflict resolution and intercultural training concepts through the presentation of a training model in interreligious peacebuilding; second, examining the dynamics and participants' responses in an interreligious context to the intercultural sensitivity model, which is used in an intercultural communication training setting. The data and analysis are based on a series of workshops and interviews conducted between 1996 and 1999 with participants from diverse religious backgrounds. The narrative and stories illustrate the dynamics of the proposed training model and its impact on the participants. The analysis indicates that, with the exception of responses to the last two stages, participants in interreligious settings have similar types of responses to the Intercultural Sensitivity Model. Adaptation and integration responses not only did not exist, but were rejected by all participants on the grounds that moral, ethical, and spiritual religious dimensions would often prevent individuals from adopting integration or adaptation responses. Finally, the article proposes several questions and hypotheses to advance the research in this field.
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  attachments:
+    - title: JSTOR Full Text PDF
+      url: https://www.jstor.org/stable/pdfplus/10.2307/425559.pdf?acceptTC=true
+      path: /Users/nathan/app-files/Zotero/storage/HNBA3GDG/Abu-Nimer - 2001 - Conflict Resolution, Culture, and Religion Toward a Training Model of Interreligious Peacebuilding.pdf
+      key: HNBA3GDG
+      type: pdf
+  author:
+    - family: Abu-Nimer
+      given: Mohammed
+  chicago-bibliography: 'Abu-Nimer, Mohammed. "Conflict Resolution, Culture, and Religion: Toward a Training Model of Interreligious Peacebuilding." Journal of Peace Research 38, no. 6: 685–704. https://www.jstor.org/stable/425559'
+  chicago-note-full: 'Mohammed Abu-Nimer, "Conflict Resolution, Culture, and Religion: Toward a Training Model of Interreligious Peacebuilding," Journal of Peace Research 38, no. 6, 685–704, https://www.jstor.org/stable/425559'
+  chicago-note-short: Abu-Nimer, "Conflict Resolution, Culture, and Religion:..,"
+  citation-key: abu-nimerConflictResolutionCulture2001
+  container-title: Journal of Peace Research
+  container-title-short: J. Peace Res.
+  ISSN: 0022-3433
+  issue: '6'
+  issued:
+    - year: 2001
+  page: 685–704
+  publisher: Sage Publications, Ltd.
+  source: JSTOR
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _conflict
+    - _religion
+  title: 'Conflict Resolution, Culture, and Religion: Toward a Training Model of Interreligious Peacebuilding'
+  title-short: Conflict Resolution, Culture, and Religion
+  type: article-journal
+  URL: https://www.jstor.org/stable/425559
+  volume: '38'
+
 - id: ali-dibInterreligiousDialogueSyria2008
   abstract: In Syria, interfaith dialogue constitutes a public practice that speaks to ethical, social and political imaginaries. As an official practice, it helps to provide the regime with religious legitimacy, though unofficially it often functions as a euphemism for missionary efforts. On a more abstract level, a careful analysis of Syrian interfaith dialogue reveals that different ethical traditions inform the participants' vision of "good." The Muslim sheikhs in this case-study follow an Aristotelian model of ethics that presupposes pious individuals for the creation and preservation of a moral society. Accordingly, they aim at fostering inter-communal harmony by teaching people how to perform virtues, rather than teaching them about other religions. Conversely, the Christian priests share a model that combines post-Enlightenment rationalism with "Christian love," and thus they strive to advance tolerance by encouraging unconditional affection, intellectual and experiential awareness of others. Together, these discrepancies facilitate miscommunication among the participants of dialogue.
   accessed:
@@ -130,6 +169,43 @@ references:
   type: webpage
   URL: https://rm.coe.int/autobiography-of-intercultural-encounters/16806bf02d
   zotero_language: en-GB
+
+- id: basanezWorldThreeCultures2016
+  abstract: "In this book, Miguel Basáñez presents a provocative look at the impact of culture on global development. Drawing on data from governments, NGOs, the World Values Survey and more addressing over one hundred countries, he argues that values, as the \"building blocks\" of culture, are directly related to the speed with which social, cultural and economic development occurs. Basáñez utilizes quantitative survey data to delineate three cultural hyperclusters across the globe: cultures of honor, which prioritize political authority; cultures of achievement, which emphasize economic advancement; and cultures of joy, which focus on social interactions. According to Basáñez, these cultures evolved chronologically, mirroring the development of agrarian, industrial and service societies.He argues that a country's developmental path is profoundly influenced by its people's values and culture, as crystallized through its formal and informal governing institutions. Culture is passed down over generations through families, schools, the media, religious institutions, leadership, and the law. Although culture and values are in a permanent state of evolution, leaders and policymakers can also push cultural change in order to promote desirable goals such as economic growth, democratization, and equality. Over the course of the book, Basáñez introduces two new measures of development: the Objective Development Index (which blends rubrics such as health, education, income, gender equality, political rights and civil liberties, and economic inequality) and the Subjective Development Index (which uses responses to the World Values Survey to classify countries according to their values).\n               \n               \n                \n              ,  \n               In this book, Miguel Basáñez presents a provocative look at the impact of culture on global development. Drawing on data from governments, NGOs, the World Values Survey and more addressing over one hundred countries, he argues that values, as the \"building blocks\" of culture, are directly related to the speed with which social, cultural and economic development occurs. Basáñez utilizes quantitative survey data to delineate three cultural hyperclusters across the globe: cultures of honor, which prioritize political authority; cultures of achievement, which emphasize economic advancement; and cultures of joy, which focus on social interactions. According to Basáñez, these cultures evolved chronologically, mirroring the development of agrarian, industrial and service societies.He argues that a country's developmental path is profoundly influenced by its people's values and culture, as crystallized through its formal and informal governing institutions. Culture is passed down over generations through families, schools, the media, religious institutions, leadership, and the law. Although culture and values are in a permanent state of evolution, leaders and policymakers can also push cultural change in order to promote desirable goals such as economic growth, democratization, and equality. Over the course of the book, Basáñez introduces two new measures of development: the Objective Development Index (which blends rubrics such as health, education, income, gender equality, political rights and civil liberties, and economic inequality) and the Subjective Development Index (which uses responses to the World Values Survey to classify countries according to their values)."
+  attachments:
+    - title: Snapshot
+      url: https://global.oup.com/academic/product/a-world-of-three-cultures-9780190270377?cc=at&lang=en&
+      path: /Users/nathan/app-files/Zotero/storage/35MNHRBP/a-world-of-three-cultures-9780190270377.html
+      key: 35MNHRBP
+      type: file
+  author:
+    - family: Basáñez
+      given: Miguel E.
+    - family: Inglehart
+      given: Ronald F.
+    - family: Basáñez
+      given: Miguel E.
+    - family: Inglehart
+      given: Ronald F.
+  chicago-bibliography: 'Basáñez, Miguel E., Ronald F. Inglehart, Miguel E. Basáñez, and Ronald F. Inglehart. "A World of Three Cultures: Honor, Achievement and Joy."'
+  chicago-note-full: 'Miguel E. Basáñez, Ronald F. Inglehart, Miguel E. Basáñez, Ronald F. Inglehart, "A World of Three Cultures: Honor, Achievement and Joy,"'
+  chicago-note-short: Basáñez, "A World of Three Cultures:..,"
+  citation-key: basanezWorldThreeCultures2016
+  ISBN: 978-0-19-027037-7
+  issued:
+    - year: 2016
+      month: 1
+      day: 21
+  number-of-pages: '408'
+  publisher: Oxford University Press
+  publisher-place: Oxford, New York
+  source: Oxford University Press
+  tags:
+    - _further-reading
+    - 2-Styles
+  title: 'A World of Three Cultures: Honor, Achievement and Joy'
+  title-short: A World of Three Cultures
+  type: book
 
 - id: bennettConstructivistApproachAssessing2020
   abstract: Milton J. Bennett sets out by providing an overview of assessing intercultural communicative competence (ICC) through a constructivist lens. Bennett uses the Developmental Model of Intercultural Sensitivity (DMIS) as an example of how constructivist theory and methodology can be applied to assessing ICC.
@@ -272,6 +348,17 @@ references:
     - year: 2026
       month: 10
       day: 14
+  attachments:
+    - title: PDF
+      url: ''
+      path: /Users/nathan/app-files/Zotero/storage/RE6ZWLYX/Bluemke et al. - 2017 - Supernatural Belief Scale (SBS).pdf
+      key: RE6ZWLYX
+      type: pdf
+    - title: zis252
+      url: http://zis.gesis.org/DoiId/zis252
+      path: ''
+      key: SGS2FWKF
+      type: webpage
   author:
     - family: Bluemke
       given: M.
@@ -281,9 +368,9 @@ references:
       given: J.
     - family: Halberstadt
       given: J.
-  chicago-bibliography: Bluemke, M., B. Merkle, J. Jong, and J. Halberstadt. "Supernatural Belief Scale (SBS) - German Version." ZIS - The Collection Items and Scales for the Social Sciences. https://doi.org/10.6102/ZIS252
-  chicago-note-full: M. Bluemke, B. Merkle, J. Jong, J. Halberstadt, "Supernatural Belief Scale (SBS) - German Version," ZIS - The Collection Items and Scales for the Social Sciences, https://doi.org/10.6102/ZIS252
-  chicago-note-short: Bluemke, "Supernatural Belief Scale (SBS) -..,"
+  chicago-bibliography: Bluemke, M., B. Merkle, J. Jong, and J. Halberstadt. "Supernatural Belief Scale (SBS)." ZIS - The Collection Items and Scales for the Social Sciences. https://doi.org/10.6102/ZIS252
+  chicago-note-full: M. Bluemke, B. Merkle, J. Jong, J. Halberstadt, "Supernatural Belief Scale (SBS)," ZIS - The Collection Items and Scales for the Social Sciences, https://doi.org/10.6102/ZIS252
+  chicago-note-short: Bluemke, "Supernatural Belief Scale (SBS),"
   citation-key: bluemkeSupernaturalBeliefScale2017
   container-title: ZIS - The Collection Items and Scales for the Social Sciences
   container-title-short: ZIS - Collect. Items Scales Soc. Sci.
@@ -296,14 +383,14 @@ references:
   source: DOI.org (Datacite)
   tags:
     - _further-reading
-    - faith
-    - belief
-    - 4-Religion
     - _religion
     - 3-Inventory
-  title: Supernatural Belief Scale (SBS) - German Version
+    - 4-Religion
+    - belief
+    - faith
+  title: Supernatural Belief Scale (SBS)
   type: article-journal
-  URL: http://zis.gesis.org/DoiId/zis252
+  URL: https://next.hessenbox.de/index.php/f/824771562
   version: '1.0'
   zotero_language: en
 
@@ -598,6 +685,46 @@ references:
   type: webpage
   URL: https://edutechwiki.unige.ch/en/Cultural_competence/Intercultural_Sensitivity_Scale#cite_note-1
 
+- id: daltonFunctionalityReligionInternational2013
+  abstract: With the resurgence of religion in global politics, more attention has been given to how religion functions as an instrument of development. This paper argues that religion has a contribution to make to international development theory as well. The contention is examined against the evolution of the meaning of religion and of international development within the secular state, secularism and secularisation. The paper proposes that religion's role in meaning making and the new alternative forms of international development provide the basis for interaction in the construction of theories of development. Résumé Avec la résurgence de la religion dans la politique mondiale, on s'intéresse aujourd'hui à sa fonction en tant qu'instrument du développement. Cet article soutient que la religion a également une contribution à faire à la théorie du développement international. Il examine cette hypothèse à la lumière de l’évolution de la signification de la religion et du développement international avec la sécularisation, la laïcité et l’État laïque. Il conclut que c'est parce que la religion joue un rôle important dans la construction du sens qu'elle peut, en dialogue avec la recherche de nouvelles formes de développement international, faire un apport aux théories du développement.
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  author:
+    - family: Dalton
+      given: Anne Marie
+  chicago-bibliography: 'Dalton, Anne Marie. "Beyond functionality: religion and international development." Canadian Journal of Development Studies / Revue canadienne d''études du développement 34, no. 2: 158–174. https://doi.org/10.1080/02255189.2013.782270'
+  chicago-note-full: 'Anne Marie Dalton, "Beyond functionality: religion and international development," Canadian Journal of Development Studies / Revue canadienne d''études du développement 34, no. 2, 158–174, https://doi.org/10.1080/02255189.2013.782270'
+  chicago-note-short: 'Dalton, "Beyond functionality: religion and international..,"'
+  citation-key: daltonFunctionalityReligionInternational2013
+  container-title: Canadian Journal of Development Studies / Revue canadienne d'études du développement
+  container-title-short: Can. J. Dev. Stud. Rev. Can. Détudes Dév.
+  DOI: 10.1080/02255189.2013.782270
+  ISSN: 0225-5189
+  issue: '2'
+  issued:
+    - year: 2013
+      month: 6
+      day: 1
+  page: 158–174
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  tags:
+    - religion
+    - secularism
+    - _further-reading
+    - 4-Religion
+    - _religion
+    - alternative development
+    - meaning
+    - secularisation
+  title: 'Beyond functionality: religion and international development'
+  title-short: Beyond functionality
+  type: article-journal
+  URL: https://doi.org/10.1080/02255189.2013.782270
+  volume: '34'
+
 - id: delanoyWhatCulture2020
   abstract: Werner Delanoy explores different definitions of culture both in their historical context and with regard to future developments in intercultural communication. As an advocate of a dialogic approach, the author argues in favour of non-essentialist and power-critical perspectives in line with a (post-)humanistic and cosmopolitan agenda.
   accessed:
@@ -761,6 +888,48 @@ references:
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_5
   zotero_language: de
+
+- id: ekoRoleInterculturalCompetence2019
+  abstract: This paper examines the role of intercultural competence and local wisdom to build tolerance. Recent situation shows that the rights of religious and cultural minorities are on the decline. It focuses on the experience and practice of tolerance in kampong Buneng to prevent ethno-religious conflict. This study employs accommodation theory and qualitative approach to investigate a case study, which describes real phenomena. The findings show that convergence strategy is more dominant than divergence strategy and local wisdom found in Buneng is designed to maintain harmony between village members rather than voicing distinction amongst plural identities occupying the same public sphere.
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  author:
+    - family: Eko
+      given: Bherta Sri
+    - family: Putranto
+      given: Hendar
+  chicago-bibliography: 'Eko, Bherta Sri, and Hendar Putranto. "The Role of Intercultural Competence and Local Wisdom in Building Intercultural and Inter-religious Tolerance." Journal of Intercultural Communication Research 48, no. 4: 341–369. https://doi.org/10.1080/17475759.2019.1639535'
+  chicago-note-full: Bherta Sri Eko, Hendar Putranto, "The Role of Intercultural Competence and Local Wisdom in Building Intercultural and Inter-religious Tolerance," Journal of Intercultural Communication Research 48, no. 4, 341–369, https://doi.org/10.1080/17475759.2019.1639535
+  chicago-note-short: Eko, "The Role of Intercultural Competence..,"
+  citation-key: ekoRoleInterculturalCompetence2019
+  container-title: Journal of Intercultural Communication Research
+  container-title-short: J. Intercult. Commun. Res.
+  DOI: 10.1080/17475759.2019.1639535
+  ISSN: 1747-5759
+  issue: '4'
+  issued:
+    - year: 2019
+      month: 7
+      day: 4
+  page: 341–369
+  publisher: Routledge
+  source: Taylor and Francis+NEJM
+  tags:
+    - _further-reading
+    - Intercultural communication
+    - tolerance
+    - 4-Religion
+    - _religion
+    - communication accommodation theory (CAT)
+    - intercultural competence
+    - local wisdom
+    - Rejeban tradition
+  title: The Role of Intercultural Competence and Local Wisdom in Building Intercultural and Inter-religious Tolerance
+  type: article-journal
+  URL: https://doi.org/10.1080/17475759.2019.1639535
+  volume: '48'
 
 - id: emmerichZusammenhaltKrisenzeitenJuedischmuslimische2026
   abstract: In zwölf Freundschaftsporträts dokumentiert die Studie Beispiele gelebten Zusammenhalts zwischen Jüdinnen, Juden und Muslim:innen in Frankfurt am Main und der Rhein-Main-Region. Die Porträts erzählen von Nachbar:innen im Frankfurter Bahnhofsviertel, von Eltern auf dem Fußballplatz, von Wissenschaftler:innen, Künstler:innen, Politiker:innen und Aktivist:innen. Gemeinsam ist ihnen die Erfahrung, dass Vertrauen dort wächst, wo Menschen sich nicht zuerst als Vertreter ihrer Religion oder Herkunft begegnen, sondern als Kolleg:innen, Vereinsmitglieder oder Nachbarinnen und Nachbarn. So können persönliche Beziehungen gesellschaftliche Polarisierung abfedern.
@@ -1078,6 +1247,41 @@ references:
   title: The handbook of intergroup communication
   type: book
 
+- id: goldewijkReligionInternationalRelations2023
+  abstract: Religion is high on the agenda of international politics today. Though there has been a retreat from religion in Europe, the international debate on the meaning and relevance of religion has intensified after the Iranian revolution and has gained new strength with the recent terror attacks, the wars in Iraq and Afghanistan, the proliferation of intrastate conflict, and the process of European integration. The issues of secularism and its relationship to democracy, globalization and foreign policy are explored in this book. It is most relevant for politicians, policymakers, academic researchers, non-governmental organisations, peace and development practitioners, as well as the media. The book deals with the practical and policy-related consequences of the debate for development organisations and their views on poverty, religion and conflict. The Society for International Development (SID) has brought together eminent international writers and leading authorities in the field of religion, coming from different backgrounds and regions. Among the contributors are Peter Berger, Leonardo Boff, Abdullahi An-Na’im, Riffat Hassan, Thomas Pogge, Scott M. Thomas and Jonathan Fox.
+  attachments:
+    - title: Google Books Link
+      url: https://books.google.de/books?id=PM_7EAAAQBAJ
+      path: ''
+      key: CXH63345
+      type: webpage
+  author:
+    - family: Goldewijk
+      given: Berma Klein
+  chicago-bibliography: Goldewijk, Berma Klein. "Religion, International Relations and Development Cooperation."
+  chicago-note-full: Berma Klein Goldewijk, "Religion, International Relations and Development Cooperation,"
+  chicago-note-short: Goldewijk, "Religion, International Relations and Development..,"
+  citation-key: goldewijkReligionInternationalRelations2023
+  ISBN: 978-90-8686-599-4
+  issued:
+    - year: 2023
+      month: 8
+      day: 28
+  language: en
+  number-of-pages: '355'
+  publisher: BRILL
+  source: Google Books
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+    - Business & Economics / Development / Economic Development
+    - Political Science / NGOs (Non-Governmental Organizations)
+    - Social Science / Developing & Emerging Countries
+  title: Religion, International Relations and Development Cooperation
+  type: book
+  zotero_language: en
+
 - id: grungInterreligiousDialogueSqueeze2017b
   attachments:
     - title: Grung_2017_Interreligious Dialogue in the Squeeze between Diplomacy and Contextual.pdf
@@ -1341,6 +1545,61 @@ references:
   URL: http://www.degruyter.com/document/doi/10.1515/9783110198584.2.127/html
   zotero_language: en
 
+- id: haidtAffectCultureMorality1993
+  abstract: Explored whether disgusting or disrespectful actions are judged to be moral violations, even when these actions are harmless. Stories about victimless yet offensive actions (such as cleaning one's toilet with a flag) were presented to Brazilian and US adults and children of high and low SES (N = 360). Results show that college students at elite universities judged these stories to be matters of social convention or of personal preference. Most other Ss, especially in Brazil, took a moralizing stance toward these actions. For these latter Ss, moral judgments were better predicted by affective reactions than by appraisals of harmfulness. Results support the claims of cultural psychology (R. A. Shweder, 1991) and suggest that cultural norms and culturally shaped emotions have a substantial impact on the domain of morality and the process of moral judgment. Suggestions are made for building cross-culturally valid models of moral judgment. (PsycInfo Database Record (c) 2025 APA, all rights reserved)
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  archive_location: 1994-33075-001
+  attachments:
+    - title: Full text PDF
+      url: https://login.proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fcontent.ebscohost.com%2Fcds%2Fretrieve%3Fcontent%3DAQICAHj0k_4E0hTGH8RJwT4gCJyBsGNe_WN95AvKlDbXJGqwxwEHGtp00zh-htK8c7lMjuViAAAA3jCB2wYJKoZIhvcNAQcGoIHNMIHKAgEAMIHEBgkqhkiG9w0BBwEwHgYJYIZIAWUDBAEuMBEEDJTX_Ikp4GvI-SYsJwIBEICBlne991fqbRIca1nciREQlhtE1IbfHo55bQoDeVJ6mhU_LT7Pyd0g2PiKF3HJCzpeQ7LuEFe4B8ACtVdYZbKH6NbH6DrxGlw5FQ28KzRe5wr2TQVhmFtrPwaPOcAWzGbIBUx0RuldvG5H0mBVVxHVGwyS1_-SAC0j1VBLmK4136Hf6r-3YKom3gCl3XZslIedLeDEOjlMzQ%3D%3D
+      path: /Users/nathan/app-files/Zotero/storage/LRXZNWKH/Haidt et al. - 1993 - Affect, culture, and morality, or is it wrong to eat your dog.pdf
+      key: LRXZNWKH
+      type: pdf
+  author:
+    - family: Haidt
+      given: Jonathan
+    - family: Koller
+      given: Silvia Helena
+    - family: Dias
+      given: Maria G.
+  chicago-bibliography: 'Haidt, Jonathan, Silvia Helena Koller, and Maria G. Dias. "Affect, culture, and morality, or is it wrong to eat your dog?." Journal of Personality and Social Psychology 65, no. 4: 613–628. https://doi.org/10.1037/0022-3514.65.4.613'
+  chicago-note-full: Jonathan Haidt, Silvia Helena Koller, Maria G. Dias, "Affect, culture, and morality, or is it wrong to eat your dog?," Journal of Personality and Social Psychology 65, no. 4, 613–628, https://doi.org/10.1037/0022-3514.65.4.613
+  chicago-note-short: Haidt, "Affect, culture, and morality, or..,"
+  citation-key: haidtAffectCultureMorality1993
+  container-title: Journal of Personality and Social Psychology
+  container-title-short: J. Pers. Soc. Psychol.
+  DOI: 10.1037/0022-3514.65.4.613
+  ISSN: 1939-1315
+  issue: '4'
+  issued:
+    - year: 1993
+      month: 10
+      day: 1
+  language: en
+  page: 613–628
+  publisher: American Psychological Association
+  source: EBSCOhost
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+    - Adulthood (18 yrs & older)
+    - Age Differences
+    - Childhood (birth-12 yrs)
+    - Cross Cultural Differences
+    - Judgment
+    - Morality
+    - School Age (6-12 yrs)
+    - Socioeconomic Status
+  title: Affect, culture, and morality, or is it wrong to eat your dog?
+  type: article-journal
+  URL: https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/viewer/pdf/53b22zbph5
+  volume: '65'
+  zotero_language: eng
+
 - id: hammerInterculturalConflictStyle2005
   abstract: 'Grounded in the pragmatics of human communication perspective, the current study examined how disagreements and emotion function across cultural context in resolving conflict. Specifically, the research effort developed the Intercultural Conflict Style (ICS) inventory, a 36-item measure of intercultural conflict resolution style based on two core dimensions: Direct vs. indirect approaches to dealing with disagreements and emotionally expressive vs. emotionally restrained patterns for dealing with the affective dimension of conflict interaction. Confirmatory factor analysis (CFA) found the proposed two-factor model was a good fit to the data. Analysis of the CFA findings identified a final set of 18 direct/indirect items and 18 emotional expressiveness/restraint items. The direct/indirect scale obtained a coefficient alpha of .73 and the emotional expressiveness/restraint scale achieved .85 reliability. Validity testing of the scales found no significant effects by gender, education or previous intercultural living experience. A theoretical framework for understanding differences in conflict resolution styles grounded in the development of this inventory, a practical, four-quadrant intercultural conflict resolution style model is proposed based on high/low levels of directness and high/low levels of emotional expressiveness: (1) discussion style (direct & emotionally restrained), (2) engagement style (direct & emotionally expressive), (3) accommodation style (indirect & emotionally restrained) and (4) dynamic style (indirect and emotionally expressive).'
   accessed:
@@ -1420,6 +1679,39 @@ references:
   URL: https://doi-org.proxy.ub.uni-frankfurt.de/10.4337/9781035321605
   zotero_language: eng
 
+- id: hatzopoulosReligionInternationalRelations2003
+  attachments:
+    - title: books
+      url: https://books.google.de/books?hl=de&lr=&id=cQrGAAAAQBAJ
+      path: ''
+      key: CDK2QIQX
+      type: webpage
+  chicago-bibliography: '"Religion in international relations: The return from exile." . https://ubffm.hds.hebis.de/Record/HEB112182747'
+  chicago-note-full: ', "Religion in international relations: The return from exile,", https://ubffm.hds.hebis.de/Record/HEB112182747'
+  chicago-note-short: ', "Religion in international relations: The..,"'
+  citation-key: hatzopoulosReligionInternationalRelations2003
+  edition: 1. ed.
+  editor:
+    - family: Petito
+      given: Fabio
+    - family: Hatzopoulos
+      given: Pavlos
+  ISBN: 978-1-4039-6206-5
+  issued:
+    - year: 2003
+  number-of-pages: X, 286 Seiten
+  publisher: Palgrave Macmillan
+  publisher-place: New York, NY
+  source: COinS
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: 'Religion in international relations: The return from exile'
+  title-short: Religion in international relations
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB112182747
+
 - id: hollidayInterculturalCommunicationAdvanced2021
   abstract: "Intercultural Communication provides a critical introduction to the dynamic arena of communication across different cultural and social strata. Throughout this book, topics are revisited, extended, interwoven, and deconstructed, with the reader’s understanding strengthened by tasks and follow-up questions.\nThe fourth edition of this popular textbook has been updated to feature:\n■ new readings by Kwame Antony Appiah, Yoshitaka Miike, Edward Ademolu and Siobhan Warrington, Helena Liu, and Michael Zirulnik and Mark Orbe, which reflect the most recent developments in the field;\n■ refreshed and expanded examples and tasks including new material on an Asiacentric approach to intercultural communication, selfies as a global discourse, the impact on intercultural communication of English as a lingua franca in multinational organisations, and representations of Africa in charity media campaigns;\n■ extended discussions of topics including intercultural training, voluntourism, challenging essentialism in business contexts, and intersectional approaches to identity;\n■ revised further reading suggestions.\nWritten by experienced teachers and researchers in the field, this fourth edition of Intercultural Communication is an essential textbook for advanced students studying this topic."
   author:
@@ -1447,6 +1739,136 @@ references:
     - _reference
   title: 'Intercultural Communication: An Advanced Resource Book for Students'
   title-short: Intercultural Communication
+  type: book
+
+- id: inglehartCulturalEvolutionPeoples2018
+  author:
+    - family: Inglehart
+      given: Ronald
+  call-number: HM831 .I574 2018
+  chicago-bibliography: 'Inglehart, Ronald. "Cultural evolution: people''s motivations are changing, and reshaping the world."'
+  chicago-note-full: 'Ronald Inglehart, "Cultural evolution: people''s motivations are changing, and reshaping the world,"'
+  chicago-note-short: 'Inglehart, "Cultural evolution: people''s motivations are..,"'
+  citation-key: inglehartCulturalEvolutionPeoples2018
+  collection-title: American political thought
+  ISBN: 978-1-108-48931-7
+  issued:
+    - year: 2018
+  number-of-pages: '273'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge, United Kingdom ; New York, NY, USA
+  source: Library of Congress ISBN
+  tags:
+    - Social aspects
+    - _further-reading
+    - Social change
+    - 4-Religion
+    - _religion
+    - Populism
+    - Social values
+  title: 'Cultural evolution: people''s motivations are changing, and reshaping the world'
+  title-short: Cultural evolution
+  type: book
+
+- id: inglehartHumanValuesBeliefs1998
+  abstract: 'This book publishes for the first time the findings of the World Values Survey - conducted in over 40 countries during 1990-93. The countries surveyed range from poor to rich, and include countries in Europe, North America, Africa, Asia, and Latin America as well as countries from the former Soviet Union and China. The questions cover issues from politics, economics, religion, family life, and gender roles, and distinguishes responses by age, gender, economic standing, and education. Human Values and Beliefs: A Cross Cultural Sourcebook provides a wealth of data that will be of interest to social scientists, journalists, and policy-makers interested in economic, social, and political development. It will also assist people in international sales and investment to understand the countries in which they are involved.'
+  attachments:
+    - title: Google Books Link
+      url: https://books.google.de/books?id=9kg_DwAAQBAJ
+      path: ''
+      key: AW9U9NZZ
+      type: webpage
+  author:
+    - family: Inglehart
+      given: Ronald
+    - family: Basáñez
+      given: Miguel
+    - family: Moreno
+      given: Alejandro Menéndez
+  chicago-bibliography: 'Inglehart, Ronald, Miguel Basáñez, and Alejandro Menéndez Moreno. "Human Values and Beliefs: A Cross-cultural Sourcebook : Political, Religious, Sexual, and Economic Norms in 43 Societies ; Findings from the 1990-1993 World Value Survey." . https://ubffm.hds.hebis.de/Record/HEB091313945'
+  chicago-note-full: 'Ronald Inglehart, Miguel Basáñez, Alejandro Menéndez Moreno, "Human Values and Beliefs: A Cross-cultural Sourcebook : Political, Religious, Sexual, and Economic Norms in 43 Societies ; Findings from the 1990-1993 World Value Survey,", https://ubffm.hds.hebis.de/Record/HEB091313945'
+  chicago-note-short: 'Inglehart, "Human Values and Beliefs: A..,"'
+  citation-key: inglehartHumanValuesBeliefs1998
+  ISBN: 978-0-472-10833-6
+  issued:
+    - year: 1998
+  language: en
+  number-of-pages: '557'
+  publisher: University of Michigan Press
+  publisher-place: Ann Arbor
+  source: Google Books
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+    - SOCIAL SCIENCE / General
+  title: 'Human Values and Beliefs: A Cross-cultural Sourcebook : Political, Religious, Sexual, and Economic Norms in 43 Societies ; Findings from the 1990-1993 World Value Survey'
+  title-short: Human Values and Beliefs
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB091313945
+  zotero_language: en
+
+- id: inglehartModernizationCulturalChange2005
+  abstract: 'This book demonstrates that people''s basic values and beliefs are changing, in ways that affect their political, sexual, economic, and religious behaviour. These changes are roughly predictable: to a large extent, they can be interpreted on the basis of a revised version of modernisation theory presented here. Drawing on a massive body of evidence from societies containing 85 percent of the world''s population, the authors demonstrate that modernisation is a process of human development, in which economic development gives rise to cultural changes that make individual autonomy, gender equality, and democracy increasingly likely. The authors present a model of social change that predicts how the value systems play a crucial role in the emergence and flourishing of democratic institutions - and that modernisation brings coherent cultural changes that are conducive to democratisation.'
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  author:
+    - family: Inglehart
+      given: Ronald
+    - family: Welzel
+      given: Christian
+  chicago-bibliography: 'Inglehart, Ronald, and Christian Welzel. "Modernization, Cultural Change, and Democracy: The Human Development Sequence." . https://doi.org/10.1017/CBO9780511790881'
+  chicago-note-full: 'Ronald Inglehart, Christian Welzel, "Modernization, Cultural Change, and Democracy: The Human Development Sequence,", https://doi.org/10.1017/CBO9780511790881'
+  chicago-note-short: Inglehart, "Modernization, Cultural Change, and Democracy:..,"
+  citation-key: inglehartModernizationCulturalChange2005
+  DOI: 10.1017/CBO9780511790881
+  ISBN: 978-0-521-84695-0
+  issued:
+    - year: 2005
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  tags:
+    - _further-reading
+    - _religion
+    - 4-Religion
+  title: 'Modernization, Cultural Change, and Democracy: The Human Development Sequence'
+  title-short: Modernization, Cultural Change, and Democracy
+  type: book
+  URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1017%2FCBO9780511790881
+
+- id: inglehartReligionsSuddenDecline2021
+  abstract: "Mass attachment to religion is rapidly declining in most of the world; Why, and What comes next?The world is becoming less religious. Since 2007, there has been a pervasive decline in religious belief and most of the world's people now say that God is less important in their lives than they said He was in the quarter century before 2007. The American public showed the most dramatic shift of all. The United States, which for many years stood as a highly religious outlier among the world's high-income countries, now ranks as the 12th least religious country for which data are available. Many factors contributed to this dramatic worldwide shift, but as Inglehart shows, certain ones stand out. For centuries, virtually all major religions encouraged women to stay home and produce as many children as possible; and they sternly discouraged divorce, abortion, homosexuality, contraception, and any other form of sexual behavior not linked with reproduction. These norms were necessary for societies to survive when facing high infant mortality and low life expectancy: societies that didn't instill them tended to die out. Recent technological advances have greatly increased life expectancy and cut infant mortality to a tiny fraction of its historic levels, making these norms no longer necessary for societal survival. These norms require repressing strong natural urges, but, since they present traditional norms as absolute values, most religions strongly resist change. The resulting tension, together with the fact that rising existential security has made people less dependent on religion, opened the way for an exodus from religion. Utilizing a massive global data base, Inglehart analyzes the conditions under which religiosity collapses, and explores its implications for the future. \n              ,  \n               Mass attachment to religion is rapidly declining in most of the world; Why, and What comes next?The world is becoming less religious. Since 2007, there has been a pervasive decline in religious belief and most of the world's people now say that God is less important in their lives than they said He was in the quarter century before 2007. The American public showed the most dramatic shift of all. The United States, which for many years stood as a highly religious outlier among the world's high-income countries, now ranks as the 12th least religious country for which data are available. Many factors contributed to this dramatic worldwide shift, but as Inglehart shows, certain ones stand out. For centuries, virtually all major religions encouraged women to stay home and produce as many children as possible; and they sternly discouraged divorce, abortion, homosexuality, contraception, and any other form of sexual behavior not linked with reproduction. These norms were necessary for societies to survive when facing high infant mortality and low life expectancy: societies that didn't instill them tended to die out. Recent technological advances have greatly increased life expectancy and cut infant mortality to a tiny fraction of its historic levels, making these norms no longer necessary for societal survival. These norms require repressing strong natural urges, but, since they present traditional norms as absolute values, most religions strongly resist change. The resulting tension, together with the fact that rising existential security has made people less dependent on religion, opened the way for an exodus from religion. Utilizing a massive global data base, Inglehart analyzes the conditions under which religiosity collapses, and explores its implications for the future."
+  attachments:
+    - title: Snapshot
+      url: https://global.oup.com/academic/product/religions-sudden-decline-9780197547052?cc=us&lang=en&
+      path: /Users/nathan/app-files/Zotero/storage/ZFZFRNKV/religions-sudden-decline-9780197547052.html
+      key: ZFZFRNKV
+      type: file
+  author:
+    - family: Inglehart
+      given: Ronald F.
+  chicago-bibliography: 'Inglehart, Ronald F. "Religion''s Sudden Decline: What''s Causing it, and What Comes Next?."'
+  chicago-note-full: 'Ronald F. Inglehart, "Religion''s Sudden Decline: What''s Causing it, and What Comes Next?,"'
+  chicago-note-short: 'Inglehart, "Religion''s Sudden Decline: What''s Causing..,"'
+  citation-key: inglehartReligionsSuddenDecline2021
+  ISBN: 978-0-19-754705-2
+  issued:
+    - year: 2021
+      month: 1
+      day: 2
+  number-of-pages: '208'
+  publisher: Oxford University Press
+  publisher-place: Oxford, New York
+  source: Oxford University Press
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: 'Religion''s Sudden Decline: What''s Causing it, and What Comes Next?'
+  title-short: Religion's Sudden Decline
   type: book
 
 - id: InterculturalLearningHub
@@ -1523,6 +1945,31 @@ references:
   title: The Routledge Handbook of Language and Intercultural Communication
   type: book
   URL: https://www-taylorfrancis-com.proxy.ub.uni-frankfurt.de/books/edit/10.4324/9781003036210/routledge-handbook-language-intercultural-communication-jane-jackson
+
+- id: killenMoralityEverydayLife1995
+  author:
+    - family: Killen
+      given: Melanie (Hrsg )
+  chicago-bibliography: 'Killen, Melanie (Hrsg ). "Morality in everyday life: Developmental perspectives." . https://ubffm.hds.hebis.de/Record/HEB048915661'
+  chicago-note-full: 'Melanie (Hrsg ) Killen, "Morality in everyday life: Developmental perspectives,", https://ubffm.hds.hebis.de/Record/HEB048915661'
+  chicago-note-short: 'Killen, "Morality in everyday life: Developmental..,"'
+  citation-key: killenMoralityEverydayLife1995
+  collection-title: Cambridge studies in social and emotional development
+  ISBN: 978-0-521-45478-0
+  issued:
+    - year: 1995
+  number-of-pages: XIV, 423 S.
+  publisher: Cambridge Univ. Press
+  publisher-place: Cambridge [u.a.]
+  source: COinS
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: 'Morality in everyday life: Developmental perspectives'
+  title-short: Morality in everyday life
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB048915661
 
 - id: knappAspekteInterkulturellerKommunikationsfahigkeit1997
   attachments:
@@ -1944,14 +2391,14 @@ references:
   publisher-place: Cambridge
   source: Cambridge University Press
   tags:
-    - literature
     - _further-reading
-    - German
-    - memory
-    - 4-Religion
-    - intercultural communication
-    - narrative
     - _religion
+    - 4-Religion
+    - German
+    - intercultural communication
+    - literature
+    - memory
+    - narrative
   title: Religion and Intercultural Communication
   type: chapter
   URL: https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-handbook-of-intercultural-communication/religion-and-intercultural-communication/F2CBBA2164235C2B4008C6CEDB8E5E2B
@@ -2219,6 +2666,12 @@ references:
       month: 10
       day: 14
   archive_location: '129712'
+  attachments:
+    - title: PDF
+      url: ''
+      path: /Users/nathan/app-files/Zotero/storage/VINK7KQE/Miller - 2001 - Culture and moral development.pdf
+      key: VINK7KQE
+      type: pdf
   author:
     - family: Miller
       given: Joan G.
@@ -2242,15 +2695,47 @@ references:
   source: EBSCOhost
   tags:
     - _further-reading
-    - Ethnopsychology
+    - _religion
     - 4-Religion
+    - Ethnopsychology
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
-    - _religion
   title: Culture and moral development
   type: chapter
   URL: https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/ebook-viewer/pdf/2mfxsu4xjv/section/lp_151#
   zotero_language: eng
+
+- id: millerDevelopmentContextEveryday1995
+  author:
+    - family: Miller
+      given: J. G.
+    - family: Bersoff
+      given: D. M.
+  chicago-bibliography: 'Miller, J. G., and D. M. Bersoff. "Development in the context of everyday family relationships: Culture, interpersonal morality, and adaptation." Morality in everyday life: Developmental perspectives: 259–282. https://ubffm.hds.hebis.de/Record/HEB048915661'
+  chicago-note-full: 'J. G. Miller, D. M. Bersoff, "Development in the context of everyday family relationships: Culture, interpersonal morality, and adaptation," Morality in everyday life: Developmental perspectives, 259–282, https://ubffm.hds.hebis.de/Record/HEB048915661'
+  chicago-note-short: Miller, "Development in the context of..,"
+  citation-key: millerDevelopmentContextEveryday1995
+  collection-title: Cambridge studies in social and emotional development
+  container-title: 'Morality in everyday life: Developmental perspectives'
+  editor:
+    - family: Killen
+      given: Melanie
+    - family: Hart
+      given: Daniel
+  ISBN: 978-0-521-45478-0
+  issued:
+    - year: 1995
+  page: 259–282
+  publisher: Cambridge Univ. Press
+  publisher-place: Cambridge [u.a.]
+  source: COinS
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: 'Development in the context of everyday family relationships: Culture, interpersonal morality, and adaptation'
+  type: chapter
+  URL: https://ubffm.hds.hebis.de/Record/HEB048915661
 
 - id: muwahidahInterfaithDialogueGrassroots2008
   abstract: Interfaith dialogue is commonly used in building peace and understanding among religious groups. Such a project, however, is only significant if it is not only executed by religious leaders and scholars, but also involves lay people at the grassroots level. In this article, I present findings of my fieldwork in a small village in East Java, Indonesia where land authority problems became a common ground for conducting interfaith cooperation. I observed interfaith empowerment efforts led by a group of Catholic activists and students who arrived in 1997, which successfully supported the villagers in claiming their land. According to Knitter (1995), grassroots interfaith cooperation will necessarily be followed by interfaith dialogue. My general finding is that in communities that have a lack of knowledge of their own particular religions, subsequent dialogue may take other forms which are different from that of Knitter's description.
@@ -2466,6 +2951,43 @@ references:
   URL: https://doi.org/10.1080/09637494.2016.1242886
   volume: '44'
 
+- id: parkergumucioInterculturalityConflictsReligion2008
+  abstract: "Interculturality reveals, in its tensions and relationship with religion, many aspects that need to be theorized. On the one hand, the studies on international relations analyse interreligious conflicts in the context of power conflicts and regional or international geopolitical imbalances. On the other hand, studies of interculturalism are centred on phenomena such as migrations, education, health and interethnic contexts. The author develops the hypothesis that current interreligious conflicts are, almost without exception, intercultural conflicts, and they must be approached as such. The analysis of the relationships between religion and culture reveals that religions can only exist and express themselves through local cultures. All definitions of religions have cultural connotations. Two cases of religion, conflicts and interculturality in South America provide a starting-point for a more theoretical reflection. In a global world in which cultural factors are increasingly important, the symbolic-religious component is an enormous factor in the struggle for power and in its intercultural syncretisms and conflicts.\n          , \n            L'interculturalité révèle, par ses tensions et ses relations avec la religion, plusieurs aspects qui méritent d'être théorisés. D'une part, les études portant sur les relations internationales analysent les conflits interreligieux dans les contextes de conflit pour le pouvoir et de déséquilibres géopolitiques régionaux ou internationaux. D'autre part, les études ayant pour objet l'interculturalisme se centrent sur des phénomènes tels que les migrations, l'éducation, la santé et les contextes interethniques. L'auteur développe l'hypothèse que les conflits interreligieux sont, presque tous sans exception, des conflits interculturels, et qu'ils doivent être abordés comme tels. L'analyse des relations entre la religion et la culture laisse apparaître que les religions peuvent seulement exister et s'exprimer au travers des cultures locales. Toutes les définitions de la religion ont des connotations culturelles. Deux études de cas à propos de la religion, des conflits et de l'interculturalisme en Amérique latine constituent le point de départ d'une réflexion plus théorique. Dans un environnement mondialisé, au sein duquel les facteurs culturels sont de plus en plus importants, la composante symbolico-religieuse est un facteur énorme dans la lutte pour le pouvoir et dans ses conflits et syncrétismes interculturels."
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  author:
+    - family: Parker Gumucio
+      given: Cristián
+  chicago-bibliography: 'Parker Gumucio, Cristián. "Interculturality, Conflicts and Religion: Theoretical Perspectives." Social Compass 55, no. 3: 316–329. https://doi.org/10.1177/0037768608093694'
+  chicago-note-full: 'Cristián Parker Gumucio, "Interculturality, Conflicts and Religion: Theoretical Perspectives," Social Compass 55, no. 3, 316–329, https://doi.org/10.1177/0037768608093694'
+  chicago-note-short: 'Parker Gumucio, "Interculturality, Conflicts and Religion: Theoretical..,"'
+  citation-key: parkergumucioInterculturalityConflictsReligion2008
+  container-title: Social Compass
+  container-title-short: Soc. Compass
+  DOI: 10.1177/0037768608093694
+  ISSN: 0037-7686, 1461-7404
+  issue: '3'
+  issued:
+    - year: 2008
+      month: 9
+  language: en
+  license: https://journals.sagepub.com/page/policies/text-and-data-mining-license
+  page: 316–329
+  source: DOI.org (Crossref)
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _conflict
+    - _religion
+  title: 'Interculturality, Conflicts and Religion: Theoretical Perspectives'
+  title-short: Interculturality, Conflicts and Religion
+  type: article-journal
+  URL: https://journals.sagepub.com/doi/10.1177/0037768608093694
+  volume: '55'
+  zotero_language: en
+
 - id: popp-baierReligion2007
   abstract: Interkulturelle Beziehungen und Begegnungen, Vorstellungen vom ›Fremden‹ und ›Eigenen‹ sowie damit verbundene Verständigungsverhältnisse sind seit jeher Bestandteile menschlicher Gruppen und Kulturen. Austausch- und Kommunikationsbeziehungen stellen den »Normalfall kultureller Entwicklung« dar (Daniel 2004, 239). Tausch-, Handels- und Heiratsbeziehungen, religiöse Verbindungen und andere, teils auch weniger freundliche Interaktionen und Bewegungen über lokale und ethnische Grenzen hinweg, führten, wie Fredrik Barth bereits in den 60er Jahren des 20. Jahrhunderts darlegte, nicht zur Auflösung kultureller Differenzen, sondern brachten oftmals gar eine Festigung ethnischer und kultureller Identitäten und Grenzziehungen mit sich (Barth 1969, 13). Wie kommt es also, dass heute häufig angenommen bzw. befürchtet wird, die Welt werde durch Globalisierung kulturell vereinheitlicht, oder aber sie teile sich in wenige große, einander feindlich gegenüber stehende Zivilisationen auf?
   accessed:
@@ -2588,6 +3110,36 @@ references:
   URL: http://stefanie-rathje.de/wp-content/uploads/2014/08/Rathje_Interkulturelle-Kompetenz_2006.pdf
   volume: '11'
   zotero_language: de
+
+- id: ReligionForceGood
+  abstract: Abstract Questions about the role of religion in international development highlight the ongoing tension between traditional and late modern societies, and the predicaments of international collab...
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  attachments:
+    - title: Snapshot
+      url: https://www.tandfonline.com/doi/abs/10.1080/02255189.2013.787052
+      path: /Users/nathan/app-files/Zotero/storage/537J8WYR/02255189.2013.html
+      key: 537J8WYR
+      type: file
+  chicago-bibliography: '"Is religion a force for good? Reformulating the discourse on religion and international development." Canadian Journal of Development Studies/Revue canadienne d''études du développement. https://www.tandfonline.com/doi/abs/10.1080/02255189.2013.787052'
+  chicago-note-full: ', "Is religion a force for good? Reformulating the discourse on religion and international development," Canadian Journal of Development Studies/Revue canadienne d''études du développement, https://www.tandfonline.com/doi/abs/10.1080/02255189.2013.787052'
+  chicago-note-short: ', "Is religion a force for..,"'
+  citation-key: ReligionForceGood
+  container-title: Canadian Journal of Development Studies/Revue canadienne d'études du développement
+  container-title-short: Can. J. Dev. Stud. Can. Détudes Dév.
+  language: en
+  source: www.tandfonline.com
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: Is religion a force for good? Reformulating the discourse on religion and international development
+  title-short: Is religion a force for good?
+  type: article-journal
+  URL: https://www.tandfonline.com/doi/abs/10.1080/02255189.2013.787052
+  zotero_language: en
 
 - id: ringsCambridgeHandbookIntercultural2020
   abstract: A highly interdisciplinary overview of the wide spectrum of current international research and professional practice in intercultural communication, this is a key reference book for students, lecturers and professionals alike. Key examples of contrastive, interactive, imagological and interlingual approaches are discussed, as well as the impact of cultural, economic and socio-political power hierarchies in cultural encounters, essential for contemporary research in critical intercultural communication and postcolonial studies. The Handbook also explores the spectrum of professional applications of that research, from intercultural teaching and training to the management of culturally mixed groups, facilitating use by professionals in related fields. Theories are introduced systematically using ordinary language explanations and examples, providing an engaging approach to readers new to the field. Students and researchers in a wide variety of disciplines, from cultural studies to linguistics, will appreciate this clear yet in-depth approach to an ever-evolving contemporary field.
@@ -3428,6 +3980,78 @@ references:
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_5
   zotero_language: de
+
+- id: welzelValueChangePersistence2005
+  abstract: Modernization theorists from Karl Marx to Daniel Bell have argued that socioeconomic development brings pervasive cultural changes. But cultural theorists from Max Weber to Samuel Huntington have claimed that cultural values have an enduring and autonomous influence on society. Paradoxically as it may seem, both schools are right. This chapter presents empirical evidence of massive cultural change and the persistence of distinctive cultural traditions.We analyze evidence of cultural change from the Values Surveys, the largest investigation ever made of attitudes, values, and beliefs around the world. These surveys have carried out four waves of representative national surveys, in 1981–3, 1989–91, 1995–97, and 1999–2001. They cover eighty-one societies on all six inhabited continents, containing more than 85 percent of the world's population.Our thesis holds that socioeconomic development is linked with a broad syndrome of distinctive value orientations. Does such a syndrome exist? The Values Surveys contain hundreds of items, and not all of them tap important aspects of cross-cultural variation. In order to test the thesis that socioeconomic development brings systematic changes in basic values, we first need to identify a limited number of key dimensions that tap important values and then determine whether they are linked with socioeconomic development. Our theoretical framework implies that we should find two such dimensions, one linked with industrialization and the other with the rise of postindustrial society.In previous research, Inglehart (1997) analyzed aggregated national-level data from the forty-three societies included in the 1989–91 Values Survey, finding large and coherent cross-cultural differences.
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  attachments:
+    - title: Full Text PDF
+      url: https://www.cambridge.org/core/services/aop-cambridge-core/content/view/38CE84B8D8C32E588D31A30EE7A5649F/9780511790881c2_p48-76_CBO.pdf/value-change-and-the-persistence-of-cultural-traditions.pdf
+      path: /Users/nathan/app-files/Zotero/storage/468TS5AW/Welzel and Inglehart - 2005 - Value Change and the Persistence of Cultural Traditions.pdf
+      key: 468TS5AW
+      type: pdf
+  author:
+    - family: Welzel
+      given: Christian
+    - family: Inglehart
+      given: Ronald
+  chicago-bibliography: 'Welzel, Christian, and Ronald Inglehart. "Value Change and the Persistence of Cultural Traditions." Modernization, Cultural Change, and Democracy: The Human Development Sequence: 48–76. https://doi.org/10.1017/CBO9780511790881.005'
+  chicago-note-full: 'Christian Welzel, Ronald Inglehart, "Value Change and the Persistence of Cultural Traditions," Modernization, Cultural Change, and Democracy: The Human Development Sequence, 48–76, https://doi.org/10.1017/CBO9780511790881.005'
+  chicago-note-short: Welzel, "Value Change and the Persistence..,"
+  citation-key: welzelValueChangePersistence2005
+  container-title: 'Modernization, Cultural Change, and Democracy: The Human Development Sequence'
+  DOI: 10.1017/CBO9780511790881.005
+  ISBN: 978-0-521-84695-0
+  issued:
+    - year: 2005
+  page: 48–76
+  publisher: Cambridge University Press
+  publisher-place: Cambridge
+  source: Cambridge University Press
+  tags:
+    - _required
+    - 4-Religion
+    - _religion
+  title: Value Change and the Persistence of Cultural Traditions
+  type: chapter
+  URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1017%2FCBO9780511790881.005
+
+- id: WVSDatabase
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  chicago-bibliography: '"WVS Database." . https://www.worldvaluessurvey.org/WVSContents.jsp'
+  chicago-note-full: ', "WVS Database,", https://www.worldvaluessurvey.org/WVSContents.jsp'
+  chicago-note-short: ', "WVS Database,"'
+  citation-key: WVSDatabase
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: WVS Database
+  type: webpage
+  URL: https://www.worldvaluessurvey.org/WVSContents.jsp
+
+- id: WVSDatabasea
+  accessed:
+    - year: 2026
+      month: 10
+      day: 28
+  chicago-bibliography: '"WVS Database." . https://www.worldvaluessurvey.org/WVSContents.jsp'
+  chicago-note-full: ', "WVS Database,", https://www.worldvaluessurvey.org/WVSContents.jsp'
+  chicago-note-short: ', "WVS Database,"'
+  citation-key: WVSDatabasea
+  tags:
+    - _further-reading
+    - 4-Religion
+    - _religion
+  title: WVS Database
+  type: webpage
+  URL: https://www.worldvaluessurvey.org/WVSContents.jsp
 
 - id: zegarac3CognitivePragmatic2007
   accessed:
