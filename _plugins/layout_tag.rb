@@ -50,19 +50,12 @@ module Jekyll
       converter = site.find_converter_instance(::Jekyll::Converters::Markdown)
       html = converter.convert(body)
 
-      out = case @variant
-            when /\Aphoto-full\z/
-              wrap_photo_full(html)
-            else
-              wrap_split(html, @variant)
-            end
-
-      # The {% col %} sentinel can split kramdown HTML in the middle of a
-      # <p>/<div>, leaving orphaned closing tags that revealify then escapes
-      # into the slide as literal text (e.g. &lt;/p&gt;).  Strip orphaned
-      # closers at column boundaries so nothing is left to escape.
-      out.gsub(%r{&lt;/(p|div)&gt;\s*(?=(&lt;|$))}i, '')
-         .gsub(%r{^\s*(&lt;/(p|div)&gt;)+\s*}i, '')
+      case @variant
+      when /\Aphoto-full\z/
+        wrap_photo_full(html)
+      else
+        wrap_split(html, @variant)
+      end
     end
 
     private
@@ -72,33 +65,41 @@ module Jekyll
     end
 
     def wrap_split(html, variant)
-      # Split the inner content at the <!--COL:image--> sentinel emitted by
-      # the {% col image %} marker tag.
-      text_parts = []
-      image_parts = []
+      # DOM-based column split: parse the converted HTML as a fragment and
+      # assign each TOP-LEVEL node to the text or image column based on the
+      # <!--COL:…--> comment nodes emitted by the {% col %} marker tag.
+      # Because nodes are assigned whole (never split mid-element), no orphaned
+      # tags are produced and nothing needs escaping.
+      require 'nokogiri'
+      frag = Nokogiri::HTML.fragment(html)
+
+      text_nodes = []
+      image_nodes = []
       current = :text
-      html.each_line do |line|
-        if line =~ /<!--COL:image-->/
+      frag.children.each do |node|
+        if node.comment? && node.text =~ /COL:\s*image/
           current = :image
-          # keep any content sharing the line
-          line = line.sub(/.*<!--COL:image-->/, '')
-        elsif line =~ /<!--COL:text-->/
+          next
+        elsif node.comment? && node.text =~ /COL:\s*text/
           current = :text
-          line = line.sub(/.*<!--COL:text-->/, '')
+          next
         end
-        (current == :image ? image_parts : text_parts) << line
+        (current == :image ? image_nodes : text_nodes) << node
       end
 
       classes = ['layout-split']
       classes.concat(variant.split(/\s+/).reject { |v| v == 'split' || v.empty? })
 
+      text_html = text_nodes.map(&:to_html).join("\n")
+      image_html = image_nodes.map(&:to_html).join("\n")
+
       <<~HTML
         <div class="#{classes.join(' ')}">
           <div class="text">
-        #{text_parts.join}
+        #{text_html}
           </div>
           <div class="image">
-        #{image_parts.join}
+        #{image_html}
           </div>
         </div>
       HTML
