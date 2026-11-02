@@ -50,12 +50,19 @@ module Jekyll
       converter = site.find_converter_instance(::Jekyll::Converters::Markdown)
       html = converter.convert(body)
 
-      case @variant
-      when /\Aphoto-full\z/
-        wrap_photo_full(html)
-      else
-        wrap_split(html, @variant)
-      end
+      out = case @variant
+            when /\Aphoto-full\z/
+              wrap_photo_full(html)
+            else
+              wrap_split(html, @variant)
+            end
+
+      # The {% col %} sentinel can split kramdown HTML in the middle of a
+      # <p>/<div>, leaving orphaned closing tags that revealify then escapes
+      # into the slide as literal text (e.g. &lt;/p&gt;).  Strip orphaned
+      # closers at column boundaries so nothing is left to escape.
+      out.gsub(%r{&lt;/(p|div)&gt;\s*(?=(&lt;|$))}i, '')
+         .gsub(%r{^\s*(&lt;/(p|div)&gt;)+\s*}i, '')
     end
 
     private
