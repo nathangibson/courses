@@ -9,6 +9,12 @@ category: slides
 
 The `layout` tag — no HTML containers needed.
 
+## Full-width photo
+
+{% layout photo-full %}
+![dome-of-the-rock](../assets/img/dome-of-the-rock.jpg)
+{% endlayout %}
+
 ## Split: text left, image right
 
 {% layout split %}
@@ -39,8 +45,6 @@ Breite Textspalte (zwei Drittel) — für textlastige Folien.
 ![mosque](../assets/img/mosque.jpg)
 {% endlayout %}
 
-## Full-width photo
+## Ende
 
-{% layout photo-full %}
-![dome-of-the-rock](../assets/img/dome-of-the-rock.jpg)
-{% endlayout %}
+Jede Folie: erst die `##` Überschrift, dann der Layout-Block.
