@@ -178,6 +178,13 @@ button[data-toggle="popover"]:hover {
     background: #fff;
     color: #000;
 }
+/* On slides, reveal.js scales the whole canvas down, so a 0.4rem inset reads
+   smaller on screen than on regular pages. Use a larger inset so the button
+   sits clearly inside the image corner. */
+.reveal .img-credit-wrap .credit-popover-btn {
+    right: 1rem;
+    bottom: 1rem;
+}
 
 /********************************************************************
  * SPLIT / MEDIA LAYOUTS (feature: slide-layout-css)
