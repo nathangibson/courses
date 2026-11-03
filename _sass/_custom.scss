@@ -152,6 +152,26 @@ button[data-toggle="popover"]:hover {
     background: #fff;
     color: #000;
 }
+/* auto-added credit button (image_credit_popover_hook): inline badge after
+   the image — works in <p>, .image-container, and reveal sections. */
+img + .credit-popover-btn,
+.image-container .credit-popover-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 50%;
+    width: 1.8rem;
+    height: 1.8rem;
+    color: #555;
+    margin-left: 0.3rem;
+    vertical-align: middle;
+}
+img + .credit-popover-btn:hover,
+.image-container .credit-popover-btn:hover {
+    background: #fff;
+    color: #000;
+}
 
 /********************************************************************
  * SPLIT / MEDIA LAYOUTS (feature: slide-layout-css)
