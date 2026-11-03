@@ -28,7 +28,10 @@ module Jekyll
       key = File.basename(src, '.*')
       credit = credits[key]
       next full if credit.nil? || credit.empty?
-      # Skip if this img is already followed by a credit button.
+      # Skip images that already have a credit button (e.g. featured images
+      # rendered by featured-image.html emit data-image-credit-src="<src>").
+      next full if doc.output.include?("data-image-credit-src=\"#{src}\"")
+      # Skip if this img tag itself is already a popover trigger.
       next full if full =~ /data-toggle="popover"/ || pre =~ /data-toggle="popover"/
 
       sentence = build_sentence(credit)
@@ -40,7 +43,9 @@ module Jekyll
             %( data-image-credit-src="#{src}" title="Image Credit">) +
             %(<i class="fa-regular fa-image" aria-hidden="true"></i></button>)
 
-      "#{full}#{btn}"
+      # Wrap img + button in a relative container so the button overlays the
+      # image's bottom-right corner.
+      %(<span class="img-credit-wrap">#{full}#{btn}</span>)
     end
   end
 
