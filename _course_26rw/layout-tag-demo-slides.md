@@ -32,7 +32,7 @@ Hier steht der Text auf der linken Spalte.
 {% layout split image-left %}
 {% col image %}
 ![stars](../assets/img/stars.jpg)
-
+{% col text %}
 Text auf der rechten Spalte — das Bild wurde mit `image-left` nach links
 verschoben.
 {% endlayout %}

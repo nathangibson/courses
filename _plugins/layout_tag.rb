@@ -65,11 +65,11 @@ module Jekyll
     end
 
     def wrap_split(html, variant)
-      # DOM-based column split: parse the converted HTML as a fragment and
-      # assign each TOP-LEVEL node to the text or image column based on the
-      # <!--COL:…--> comment nodes emitted by the {% col %} marker tag.
-      # Because nodes are assigned whole (never split mid-element), no orphaned
-      # tags are produced and nothing needs escaping.
+      # DOM-based column split with content auto-assignment: parse the
+      # converted HTML as a fragment and assign each TOP-LEVEL node to a
+      # column. Nodes whose content is an image (an <img>, or a <p>/<div>
+      # containing only an <img>) go to the image column; everything else to
+      # the text column. No markers needed — author just writes markdown.
       require 'nokogiri'
       frag = Nokogiri::HTML.fragment(html)
 
@@ -77,6 +77,7 @@ module Jekyll
       image_nodes = []
       current = :text
       frag.children.each do |node|
+        # explicit marker still wins if present
         if node.comment? && node.text =~ /COL:\s*image/
           current = :image
           next
@@ -84,7 +85,26 @@ module Jekyll
           current = :text
           next
         end
-        (current == :image ? image_nodes : text_nodes) << node
+        # kramdown often wraps the marker + image in ONE <p> (comment inside
+        # the paragraph) — split that <p> at the comment.
+        if node.element? && %w(p div).include?(node.name) &&
+           node.at_xpath('.//comment()[contains(., "COL:image")]')
+          before = []
+          after = []
+          bucket = before
+          node.children.each do |child|
+            if child.comment? && child.text =~ /COL:\s*image/
+              bucket = after
+              next
+            end
+            bucket << child
+          end
+          text_nodes.concat(before)
+          image_nodes.concat(after)
+          next
+        end
+        col = image_only?(node) ? :image : current
+        (col == :image ? image_nodes : text_nodes) << node
       end
 
       classes = ['layout-split']
@@ -103,6 +123,16 @@ module Jekyll
           </div>
         </div>
       HTML
+    end
+
+    # True if the node's content is just an image: an <img>, or a <p>/<div>
+    # whose only meaningful child is an <img>.
+    def image_only?(node)
+      return false unless node.element?
+      return true if node.name == 'img'
+      return false unless %w(p div).include?(node.name)
+      kids = node.children.reject { |c| c.text? && c.text.strip.empty? }
+      kids.size == 1 && kids.first.name == 'img'
     end
   end
 end
