@@ -50,10 +50,13 @@
         // data-auto-animate + matching elements (see docs/how-to-auto-animate).
         autoAnimate: true,
         plugins: [RevealMarkdown, RevealHighlight, RevealNotes, RevealMenu],
+        // Feature (bg-cover): full-screen background, cropped to cover, no
+        // stretching/tiling. 'cover' scales the image proportionally to fill
+        // the slide; the old fixed 2100x900 size + parallax offsets stretched
+        // and tiled images with unnatural proportions.
         parallaxBackgroundImage: "{{ site.baseurl }}/{{ page.parallaxBackgroundImage }}",
-        parallaxBackgroundSize: "2100px 900px",
-        parallaxBackgroundHorizontal: 200,
-        parallaxBackgroundVertical: 50,
+        parallaxBackgroundSize: "cover",
+        parallaxBackgroundPosition: "center",
         menu: {
           // Specifies which side of the presentation the menu will
           // be shown. Use 'left' or 'right'.

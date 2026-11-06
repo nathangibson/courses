@@ -25,6 +25,70 @@ references:
   URL: http://archive.org/details/maxweber-dieentzauberungderwelt
   zotero_language: ger
 
+- id: barrowsWorldsParliamentReligions1893
+  abstract: '2 v. :'
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  call-number: AKN-8445
+  chicago-bibliography: '"The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893." . http://archive.org/details/worldsparliament02barruoft'
+  chicago-note-full: ', "The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893,", http://archive.org/details/worldsparliament02barruoft'
+  chicago-note-short: ', "The World''s Parliament of Religions:..,"'
+  citation-key: barrowsWorldsParliamentReligions1893
+  editor:
+    - family: Barrows
+      given: John Henry
+  issued:
+    - year: 1893
+  language: en
+  number-of-pages: '812'
+  publisher: Parliament Pub. Co
+  publisher-place: Chicago
+  source: Internet Archive
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+    - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+  title: 'The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893'
+  title-short: The World's Parliament of Religions
+  type: book
+  URL: http://archive.org/details/worldsparliament02barruoft
+  zotero_language: eng
+
+- id: barrowsWorldsParliamentReligions1893a
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  author:
+    - family: Max Müller
+      given: Friedrich
+  call-number: AKN-8445
+  chicago-bibliography: 'Max Müller, Friedrich. "Greek philosophy and the Christian religion." The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893: 935–936. https://archive.org/details/worldsparliament02barruoft/page/n137'
+  chicago-note-full: 'Friedrich Max Müller, "Greek philosophy and the Christian religion," The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893, 935–936, https://archive.org/details/worldsparliament02barruoft/page/n137'
+  chicago-note-short: Max Müller, "Greek philosophy and the Christian..,"
+  citation-key: barrowsWorldsParliamentReligions1893a
+  container-title: 'The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893'
+  editor:
+    - family: Barrows
+      given: John Henry
+  issued:
+    - year: 1893
+  language: en
+  page: 935–936
+  publisher: Parliament Pub. Co
+  publisher-place: Chicago
+  source: Internet Archive
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+    - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+  title: Greek philosophy and the Christian religion
+  type: chapter
+  URL: https://archive.org/details/worldsparliament02barruoft/page/n137
+  zotero_language: eng
+
 - id: bernerMirceaEliade190719861997
   accessed:
     - year: 2024
@@ -1523,6 +1587,38 @@ references:
   title-short: Victor Witter Turner
   type: book
 
+- id: houghtonNeelysHistoryParliament1894c1893
+  abstract: 1001 p., [29] leaves of plates :; Includes index; Includes papers presented to the World's Parliament of Religions, Chicago, 1893
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  author:
+    - family: Houghton
+      given: Walter R. (Walter Raleigh)
+  call-number: ANK-5086
+  chicago-bibliography: 'Houghton, Walter R. (Walter Raleigh). "Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports." . http://archive.org/details/neelyshistory00unknuoft'
+  chicago-note-full: 'Walter R. (Walter Raleigh) Houghton, "Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports,", http://archive.org/details/neelyshistory00unknuoft'
+  chicago-note-short: Houghton, "Neely's history of the Parliament..,"
+  citation-key: houghtonNeelysHistoryParliament1894c1893
+  contributor:
+    - literal: Emmanuel - University of Toronto
+  issued:
+    - literal: 1894, c1893
+  language: en
+  number-of-pages: '1072'
+  publisher: 'Chicago : F.T. Neely'
+  source: Internet Archive
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+    - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+  title: 'Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports'
+  title-short: Neely's history of the Parliament of Religions and religious congresses of the World's Columbian Exposition
+  type: book
+  URL: http://archive.org/details/neelyshistory00unknuoft
+  zotero_language: eng
+
 - id: johnsonMemoryMetaphorAby
   abstract: The work of German cultural theorist and art historian AbyWarburg (1866-1929) has had a lasting effect on how we think aboutimages. This book is the first in En...
   accessed:
@@ -2293,6 +2389,37 @@ references:
   title: Kap. 1-4
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
+  zotero_language: de
+
+- id: pechelDeutscheRundschau1894
+  attachments:
+    - title: Google Books Link
+      url: https://www.google.de/books?id=u29EAQAAMAAJ
+      path: ''
+      key: Z447L9FU
+      type: webpage
+  author:
+    - family: Max Müller
+      given: Friedrich
+  chicago-bibliography: 'Max Müller, Friedrich. "Das Religions-Parlament in Chicago." Deutsche Rundschau 82: 409–425. https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover'
+  chicago-note-full: Friedrich Max Müller, "Das Religions-Parlament in Chicago," Deutsche Rundschau 82, 409–425, https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover
+  chicago-note-short: Max Müller, "Das Religions-Parlament in Chicago,"
+  citation-key: pechelDeutscheRundschau1894
+  container-title: Deutsche Rundschau
+  issued:
+    - year: 1895
+  language: de
+  page: 409–425
+  publisher: Gebrüder Paetel
+  publisher-place: Berlin
+  source: Google Books
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+  title: Das Religions-Parlament in Chicago
+  type: article-magazine
+  URL: https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover
+  volume: '82'
   zotero_language: de
 
 - id: petchNotesQueriesPitt2007
@@ -4188,4 +4315,17 @@ references:
   title-short: Is the Heart at Home?
   type: article-journal
   URL: https://www.jstor.org/stable/41417136
+
+- id: WorldParliamentReligions
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  chicago-bibliography: '"World Parliament of Religions, 1893 (Boston Collaborative Encyclopedia of Western Theology)." . https://people.bu.edu/wwildman/bce/worldparliamentofreligions1893.htm'
+  chicago-note-full: ', "World Parliament of Religions, 1893 (Boston Collaborative Encyclopedia of Western Theology),", https://people.bu.edu/wwildman/bce/worldparliamentofreligions1893.htm'
+  chicago-note-short: ', "World Parliament of Religions, 1893..,"'
+  citation-key: WorldParliamentReligions
+  title: World Parliament of Religions, 1893 (Boston Collaborative Encyclopedia of Western Theology)
+  type: webpage
+  URL: https://people.bu.edu/wwildman/bce/worldparliamentofreligions1893.htm
 ...
