@@ -15,21 +15,24 @@
 
   <ul class="related-posts">
     {% if slide_posts.size > 0 %}
-    <h2><i class="fa-solid fa-person-chalkboard"></i> Slides</h2>
+    {% include heading.html key="slides" fallback="Slides" %}
+    <h2><i class="fa-solid fa-person-chalkboard"></i> {{ heading_text }}</h2>
     {% endif %}
     {% for item in slide_posts %}
     {% include related-post-preview.html %}
     {% endfor %}
 
     {% if tutorial_posts.size > 0 %}
-    <h2><i class="fa-solid fa-laptop-code"></i> Tutorials</h2>
+    {% include heading.html key="tutorials" fallback="Tutorials" %}
+    <h2><i class="fa-solid fa-laptop-code"></i> {{ heading_text }}</h2>
     {% endif %}
     {% for item in tutorial_posts %}
     {% include related-post-preview.html %}
     {% endfor %}
 
     {% if other_posts.size > 0 %}
-    <h2><i class="fa-solid fa-arrows-to-circle"></i> Related</h2>
+    {% include heading.html key="related" fallback="Related" %}
+    <h2><i class="fa-solid fa-arrows-to-circle"></i> {{ heading_text }}</h2>
     {% endif %}
     {% for item in other_posts %}
     {% include related-post-preview.html %}

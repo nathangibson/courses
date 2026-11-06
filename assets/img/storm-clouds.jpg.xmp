@@ -1,19 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.0.0">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:source="https://www.flickr.com/photos/jukk_a/15007956292/in/photolist-oScGx7-cJm7mb-8XM1cn-CKxjCq-5eM3NG-6zZCaa-bpSt8r-6NykjK-584xPf-ivdsGE-H1HLy9-6NCXfQ-6ARTt6-eiXGcx-eULQA4-cjmsV3-eLowA2-4HCEv8-54VhF6-cEKAU-7PNyLM-9U9EX5-a475aC-57v2W8-or49f1-48VkM-9Amqu7-4UH6BP-57v2VK-nKzFvP-8pHzEh-kgqr8-7w1nnH-3bHAH-7zNtdb-8aVd3Q-JABMTh-hzqMS-3ckQoG-9RHN3x-6NLZeX-9Lnv3N-53edxe-a53iKH-chcJ6Q-9UkeHY-HEbddX-24jwiV6-a4Yf43-t2xGe/">
-   <dc:description>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">"Storm clouds"</rdf:li>
-    </rdf:Alt>
-   </dc:description>
-   <dc:rights>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">CC BY 2.0.</rdf:li>
-    </rdf:Alt>
-   </dc:rights>
+    xmlns:dc="http://purl.org.proxy.ub.uni-frankfurt.de/dc/elements/1.1/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xap="http://ns.adobe.com/xap/1.0/"
+    xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:darktable="http://darktable.sf.net/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
+   dc:source="https://www.flickr.com/photos/jukk_a/15007956292/in/photolist-oScGx7-cJm7mb-8XM1cn-CKxjCq-5eM3NG-6zZCaa-bpSt8r-6NykjK-584xPf-ivdsGE-H1HLy9-6NCXfQ-6ARTt6-eiXGcx-eULQA4-cjmsV3-eLowA2-4HCEv8-54VhF6-cEKAU-7PNyLM-9U9EX5-a475aC-57v2W8-or49f1-48VkM-9Amqu7-4UH6BP-57v2VK-nKzFvP-8pHzEh-kgqr8-7w1nnH-3bHAH-7zNtdb-8aVd3Q-JABMTh-hzqMS-3ckQoG-9RHN3x-6NLZeX-9Lnv3N-53edxe-a53iKH-chcJ6Q-9UkeHY-HEbddX-24jwiV6-a4Yf43-t2xGe/"
+   dc:description="&quot;Storm clouds&quot;"
+   dc:rights="CC BY 2.0."
+   exif:DateTimeOriginal=""
+   xap:Rating="1"
+   xapMM:DerivedFrom="storm-clouds.jpg"
+   darktable:import_timestamp="63927633747864800"
+   darktable:change_timestamp="-1"
+   darktable:export_timestamp="-1"
+   darktable:print_timestamp="-1"
+   darktable:xmp_version="5"
+   darktable:raw_params="0"
+   darktable:auto_presets_applied="0"
+   darktable:history_end="0"
+   darktable:iop_order_version="1">
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>darktable</rdf:li>
+     <rdf:li>format</rdf:li>
+     <rdf:li>jpg</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <darktable:masks_history>
+    <rdf:Seq/>
+   </darktable:masks_history>
+   <darktable:history>
+    <rdf:Seq/>
+   </darktable:history>
+   <lr:hierarchicalSubject>
+    <rdf:Bag>
+     <rdf:li>darktable|format|jpg</rdf:li>
+    </rdf:Bag>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

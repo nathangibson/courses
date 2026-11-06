@@ -1,0 +1,71 @@
+# Global session-heading wordings for the session detail page.
+#
+# Each course declares `language` (en|de) and `type` (lecture|seminar) in its own
+# _data/course_<slug>/settings.yml. The layout resolves every session-detail
+# heading here. This is NOT a general translation module — it only covers the
+# section headings on the session detail page, one wording per course.
+#
+# Two accepted shapes per heading:
+#   1. Type-independent (simplest) — a plain string per language:
+#        learning_objective:
+#          de: "Lernziel"
+#          en: "Learning objective"
+#   2. Type-dependent — nested per language then type (lecture | seminar):
+#        readings:
+#          en:
+#            lecture: "Suggested readings"
+#            seminar: "Required readings"
+#          de:
+#            lecture: "Empfohlene Literatur"
+#            seminar: "Pflichtlektüre"
+#
+# Resolution for a course with (language L, type T):
+#   1. headings[key][L][T]
+#   2. headings[key][L]["seminar"]              (default type)
+#   3. headings[key][L]                          (plain string)
+#   4. English: steps 1–3 with L = "en"
+#   5. the hardcoded English default passed in the template
+#
+# Add a new language or type here whenever a course needs it. A course whose
+# language/type has no entry automatically falls back to English — so the
+# English entries below double as the safe defaults.
+
+# 1. Learning objective / Lernziel
+learning_objective:
+  de: "Lernziel"
+  en: "Learning objective"
+
+# 2. Suggested/Required readings — the one heading that can vary by type
+#    (a lecture *suggests* readings; a seminar *requires* them).
+readings:
+  de:
+    lecture: "Empfohlene Literatur"
+    seminar: "Pflichtlektüre"
+  en:
+    lecture: "Suggested readings"
+    seminar: "Required readings"
+
+# 3. Zotero link label at the bottom of the readings block
+further_reading:
+  de: "Weiterführende Literatur (optional)"
+  en: "Further Reading (optional)"
+
+# 4. Glossary Terms / Glossarbegriffe
+glossary_terms:
+  de: "Glossarbegriffe"
+  en: "Glossary Terms"
+
+# 5. Slides / Folien
+slides:
+  de: "Folien"
+  en: "Slides"
+
+# 6. Tutorials
+tutorials:
+  de: "Tutorials"
+  en: "Tutorials"
+
+# 7. Related / Weiterführendes
+related:
+  de: "Weiterführendes"
+  en: "Related"

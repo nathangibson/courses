@@ -1,24 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 5.0.0">
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="XMP Core 4.4.0-Exiv2">
  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
   <rdf:Description rdf:about=""
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   dc:source="https://pixabay.com/users/msandersmusic-1972097/">
-   <dc:creator>
+    xmlns:dc="http://purl.org.proxy.ub.uni-frankfurt.de/dc/elements/1.1/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:darktable="http://darktable.sf.net/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
+   dc:source="https://pixabay.com/users/msandersmusic-1972097/"
+   dc:creator="Marybeth"
+   dc:publisher="Pixabay"
+   dc:rights="Pixabay Content License"
+   exif:DateTimeOriginal="2024:03:18 13:34:23.000"
+   xmp:Rating="1"
+   xmpMM:DerivedFrom="stained-glass-spiral.jpg"
+   darktable:import_timestamp="63927633746575960"
+   darktable:change_timestamp="-1"
+   darktable:export_timestamp="-1"
+   darktable:print_timestamp="-1"
+   darktable:xmp_version="5"
+   darktable:raw_params="0"
+   darktable:auto_presets_applied="0"
+   darktable:history_end="0"
+   darktable:iop_order_version="1">
+   <dc:subject>
     <rdf:Bag>
-     <rdf:li>Marybeth</rdf:li>
+     <rdf:li>darktable</rdf:li>
+     <rdf:li>format</rdf:li>
+     <rdf:li>jpg</rdf:li>
     </rdf:Bag>
-   </dc:creator>
-   <dc:publisher>
+   </dc:subject>
+   <darktable:masks_history>
+    <rdf:Seq/>
+   </darktable:masks_history>
+   <darktable:history>
+    <rdf:Seq/>
+   </darktable:history>
+   <lr:hierarchicalSubject>
     <rdf:Bag>
-     <rdf:li>Pixabay</rdf:li>
+     <rdf:li>darktable|format|jpg</rdf:li>
     </rdf:Bag>
-   </dc:publisher>
-   <dc:rights>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">Pixabay Content License</rdf:li>
-    </rdf:Alt>
-   </dc:rights>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

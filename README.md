@@ -37,8 +37,50 @@ assets/img/           centralized image pool (Git LFS)
 rbenv install 3.3.1        # once
 rbenv global 3.3.1
 bundle install             # once
-bundle exec jekyll serve --baseurl /courses   # http://localhost:4000/courses/...
+bin/serve                  # site tests (lint + build census), then jekyll serve
 ```
+
+`bin/serve` runs the LINT layer (seconds) and the BUILD census first, so
+content errors surface immediately instead of as blank pages or silent 404s.
+Plain `bundle exec jekyll serve --baseurl /courses` also still works.
+
+## Testing & CI
+
+The suite has three gates behind one entry point, `rake ci`:
+
+| Gate | What it catches | Speed |
+|---|---|---|
+| `rake lint` | YAML control chars (Zotero exports), front-matter parse errors, **unregistered collections** (silent 404s), **permalink conflicts** (mapped back to source files — Jekyll names none), session-doc sanity, unsmudged LFS pointers | seconds |
+| `rake build` | jekyll build + post-build census: every registered collection emitted HTML, every slide deck rendered reveal `<section>`s, session titles composed, LFS smudge | ~1 min |
+| `rake proof` | html-proofer on `_site` (offline): internal links → 404, missing images, empty srcs — **`file:line` per failure** | ~1 min |
+
+Every finding prints:
+
+```
+ERROR [check-id] <source file>:<line> — <problem> | fix: <one-liner> | sanitizer: <tool action>
+```
+
+Severity model: **ERROR** blocks CI; **WARN** passes with fix guidance;
+**WAIVED** = explicitly suppressed with a reason in `config/test_waivers.yml`
+(still visible in output). Machine-readable findings: `tmp/test-*.json`.
+
+CI layout (three workflows):
+- **`ci.yml`** — runs the full suite on every PR into `main` (checks out the
+  *merge commit*, so it tests what actually lands) and on feature-branch
+  pushes; uploads `test-results` and built-site artifacts.
+- **`preview.yml`** — a push to a `preview/<name>` branch (or a PR from one)
+  deploys to the separate **`nathangibson/courses-preview`** repo, served at
+  `https://npgibson.com/courses-preview/<name>` (custom domain inherited).
+  One directory per branch; the live site is never touched.
+- **`pages.yml`** — deploys the live site, `push: main` only, with the same
+  suite layered in.
+
+To get the preview deploys working (once): create `nathangibson/courses-preview`
+(public, Pages source "Deploy from a branch" → `main` / root), add a
+fine-grained PAT with **Contents: Read and write** on `courses-preview` only
+as the repo secret `PREVIEW_DEPLOY_TOKEN`, and set branch protection on
+`main` (require PR + required status check **`ci`**; enable auto-merge,
+squash default).
 
 ## Build / deploy
 

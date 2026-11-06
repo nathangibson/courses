@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# bin/serve — fast site tests, then serve EXACTLY as before.
+#
+# Runs the LINT layer (seconds: YAML control chars, front matter, unregistered
+# collections, permalink conflicts, session docs, LFS pointers) and the BUILD
+# census before starting the server, so content errors surface immediately
+# instead of as a blank page or a silent 404 in the browser.
+#
+# Usage:  bin/serve [--skip-tests]
+set -e
+cd "$(dirname "$0")/.."
+export PATH="$HOME/.rbenv/shims:$PATH"
+
+if [ "${1:-}" != "--skip-tests" ]; then
+  echo "── site tests: lint ───────────────────────────────"
+  bundle exec rake lint
+  echo "── site tests: build + output census ─────────────"
+  bundle exec rake build
+fi
+
+echo "── serving at http://127.0.0.1:4000/courses ──────"
+git submodule update --init --recursive 2>/dev/null || true
+JEKYLL_ENV=production bundle exec jekyll serve --baseurl /courses --watch --host 127.0.0.1 --port 4000
