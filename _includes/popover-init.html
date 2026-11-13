@@ -1,0 +1,63 @@
+<script>
+/* Native popover for image credits — no Bootstrap/jQuery required.
+   Works with the same data-toggle="popover" / data-content attributes that
+   the shared image-caption include emits (so the vendor submodule stays
+   identical across the main and courses sites). */
+(function () {
+  function init() {
+    var triggers = document.querySelectorAll('[data-toggle="popover"]');
+    if (!triggers.length) return;
+
+    // one floating popover element, reused
+    var pop = document.createElement('div');
+    pop.className = 'native-popover';
+    pop.setAttribute('role', 'tooltip');
+    document.body.appendChild(pop);
+    var openFor = null;
+
+    function show(el) {
+      pop.innerHTML = el.getAttribute('data-content') || '';
+      pop.style.display = 'block';
+      var r = el.getBoundingClientRect();
+      pop.style.visibility = 'hidden';
+      // position after measuring
+      var pw = pop.offsetWidth, ph = pop.offsetHeight;
+      var top = r.top - ph - 8;
+      if (top < 8) top = r.bottom + 8;          // flip below if clipped
+      var left = Math.min(Math.max(8, r.right - pw), window.innerWidth - pw - 8);
+      pop.style.top = (top + window.scrollY) + 'px';
+      pop.style.left = left + 'px';
+      pop.style.visibility = 'visible';
+      openFor = el;
+    }
+
+    function hide() {
+      pop.style.display = 'none';
+      openFor = null;
+    }
+
+    triggers.forEach(function (el) {
+      el.addEventListener('click', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        if (openFor === el) { hide(); } else { show(el); }
+      });
+    });
+
+    document.addEventListener('click', function (e) {
+      if (openFor && !e.target.closest('[data-toggle="popover"]') && !e.target.closest('.native-popover')) {
+        hide();
+      }
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') hide();
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>

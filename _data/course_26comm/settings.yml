@@ -15,7 +15,7 @@ type: "seminar"           # lecture | seminar  (drives type-specific headings, e
 # Semester listing for the courses index (feature/course-index)
 semester: winter          # winter | summer
 year: 2026                # start year of the academic year (e.g. 2026 => WS 2026/27)
-hero: "interreligious-conversation.png"        # hero image for the courses index (from assets/img)
+hero: "interreligious-conversation.jpg"        # hero image for the courses index (from assets/img)
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: ""
@@ -57,7 +57,7 @@ related_posts: 'Related'
 
 post_date_prefix: 'Written on'
 
-cover_image: interreligious-conversation.png
+cover_image: interreligious-conversation.jpg
 
 reveal-slides:
   background-opacity: 0.3

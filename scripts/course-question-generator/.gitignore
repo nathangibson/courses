@@ -1,0 +1,4 @@
+# Generated payload output — never commit (the Tuesday job regenerates on demand).
+data/
+__pycache__/
+*.pyc

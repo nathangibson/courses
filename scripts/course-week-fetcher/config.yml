@@ -1,0 +1,66 @@
+# Course Week Fetcher — configuration
+#
+# Reads the consolidated courses website (a local Jekyll repo) and produces a
+# normalized JSON list of the user's upcoming classes for the next N days.
+#
+# Source of truth = the local Jekyll repo (works offline, reflects latest,
+# needs NO credentials — the site is the user's own public static site).
+# Each course is a Jekyll collection under <source>/_course_<slug>/ with
+# session docs named YYYY-MM-DD-<n>.md and slide decks YYYY-MM-DD-<n>-slides.md.
+
+source: /Users/nathan/git/Github/nathangibson/courses
+base_url: https://npgibson.com/courses   # deployed URL for slides_url
+
+# Window: how many days ahead (from "today") to include classes for.
+# The task schedules this Tuesday 07:00 for the "next 7 days".
+window_days: 7
+
+# Output directory for the normalized JSON. Relative to source.
+output_dir: scripts/course-week-fetcher/data
+
+# ---------------------------------------------------------------------------
+# Semester guard.
+# A run is only processed while today falls inside at least one active
+# semester window. Outside all windows the job exits cleanly with an empty
+# class list and a status='out_of_semester' note (nothing scheduled/stored).
+#
+# Boundaries are inclusive [start, end]. The dates below reflect the current
+# winter semester 2026/27 as encoded by the course content (first session
+# 2026-10-12, last 2027-02-08 for course_26rw). Adjust when a new semester
+# begins. Alternatively leave `semesters` empty and rely purely on the
+# per-course settings.yml (semester/year) + the "no classes in window"
+# fallback guard.
+# ---------------------------------------------------------------------------
+semesters:
+  - id: ws2026-27
+    season: winter
+    start: "2026-10-12"
+    end: "2027-02-08"
+  - id: so2027
+    season: summer
+    start: "2027-04-12"
+    end: "2027-07-16"
+
+# Per-course class start time (HH:MM, 24h local). Course front matter does NOT
+# store a wall-clock time (sessions are dated by filename only); each course
+# usually has one fixed weekly slot. Set per slug; omit or null => time null.
+# Note: `all` applies when a course slug is not listed.
+course_times:
+  "26rw": "10:00"
+  "26geschichte": "12:00"
+  "26comm": "14:00"
+
+# Retry policy (used if the source repo is temporarily unreachable/corrupt).
+# The local-repo read is near-instant; retries mainly guard a moved repo or a
+# transient read error. If fetch fails after all retries the run FAILS loudly.
+retry:
+  max_attempts: 3
+  backoff_seconds: 5
+
+# Logging.
+log_file: scripts/course-week-fetcher/logs/fetch.log
+
+# Courses to include. Empty/null => auto-discover every `_course_<slug>` dir in
+# source (capped by `course_cap` int below for safety).
+include_courses: null
+course_cap: 20
