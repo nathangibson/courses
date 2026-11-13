@@ -1,0 +1,30 @@
+# Course Slide Analyzer — configuration
+#
+# Consumes the normalized class JSON emitted by the course-week fetcher (the
+# sibling directory ../course-week-fetcher) and scores each class's slides
+# across six pedagogical areas (Flow, Examples, Images, Mental hooks,
+# Thought-provoking, Language).
+#
+# Source of truth = the same local Jekyll repo the fetcher reads. The slides
+# and notes paths inside each class record point into that repo, so this
+# analyzer needs no credentials and no network.
+
+# Fetcher JSON to consume (absolute, or relative to this config's dir).
+# The default resolve orders the analyzer to the fetcher's own output.
+input_json: ../course-week-fetcher/data/latest.json
+
+# Where the analyzer writes data/analysis.json (relative to this dir).
+output_dir: data
+
+# An area is flagged "underdeveloped" when its 0-100 score is below this.
+underdeveloped_threshold: 60
+
+# The six scored areas (order is the canonical ranking order only; ranking is
+# always computed by ascending score).
+areas:
+  - flow
+  - examples
+  - images
+  - mental_hooks
+  - thought_provoking
+  - language

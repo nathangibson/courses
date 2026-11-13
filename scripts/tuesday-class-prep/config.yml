@@ -1,0 +1,78 @@
+# Tuesday Class-Prep Pipeline — single integration config
+#
+# This is the ONE config file for the integrated Tuesday workflow
+# (kanban t_fcd06286). It owns the four operational knobs the task requires:
+#   * semester dates
+#   * courses-website access (the user's consolidated Jekyll repo — a public
+#     static site, so reading it needs NO credentials; documented here)
+#   * alert channel (Buzz home channel + relay + sender identity)
+#   * question limits (max per class, area threshold)
+#
+# The four stage components (course-week-fetcher, course-slide-analyzer,
+# course-question-generator, tuesday_alert) each keep their own directory-local
+# config.yml for their internal defaults; THIS config is the integration-level
+# source of truth that pipeline.py reads to drive those stages. Keep the
+# semester window and question-limit here in sync with the stage configs when
+# you change either.
+
+# ---------------------------------------------------------------------------
+# 1. Semester dates  (inclusive [start, end])
+#    Outside every window the pipeline treats the run as out-of-semester:
+#    it logs a graceful note and sends nothing (no alert, no failure ping).
+# ---------------------------------------------------------------------------
+semesters:
+  - id: ws2026-27
+    season: winter
+    start: "2026-10-12"
+    end: "2027-02-08"
+  - id: so2027
+    season: summer
+    start: "2027-04-12"
+    end: "2027-07-16"
+
+# ---------------------------------------------------------------------------
+# 2. Courses-website access  (the "website credentials")
+#    The courses website is the user's own public static site; its source of
+#    truth is this LOCAL git repo. Reading it needs NO password/cookie/session
+#    — zero credentials by design. If it ever moved behind auth, this is where
+#    a credential would be added.
+# ---------------------------------------------------------------------------
+courses:
+  source: /Users/nathan/git/Github/nathangibson/courses
+  base_url: https://npgibson.com/courses
+  window_days: 7
+
+# ---------------------------------------------------------------------------
+# 3. Question limits
+# ---------------------------------------------------------------------------
+questions:
+  max_per_class: 3                  # hard ceiling (alert channel rejects 4+)
+  underdeveloped_threshold: 60      # area scores below this = "underdeveloped"
+
+# ---------------------------------------------------------------------------
+# 4. Alert channel  (Buzz — the delivery mechanism from t_4d31b4d9)
+# ---------------------------------------------------------------------------
+alert:
+  home_channel: a65abc35-1e47-4a5b-940f-e32aee196ad6   # 'general' — Nathan + agents
+  relay: http://192.168.178.121:3000
+  identity: AGENT                                     # sender key from .nostr-keys
+  alert_state_dir: /Users/nathan/git/git-local/buzz/deploy/tuesday_alert/state
+  send_retries: 3
+  send_retry_delay: 4
+
+# ---------------------------------------------------------------------------
+# Stage locations (invoked in order, each run in its own dir so their own
+# relative config paths resolve).
+# ---------------------------------------------------------------------------
+python: /Users/nathan/.hermes/hermes-agent/venv/bin/python3
+stages:
+  fetcher:   /Users/nathan/git/Github/nathangibson/courses/scripts/course-week-fetcher
+  analyzer:  /Users/nathan/git/Github/nathangibson/courses/scripts/course-slide-analyzer
+  generator: /Users/nathan/git/Github/nathangibson/courses/scripts/course-question-generator
+  alert:     /Users/nathan/git/git-local/buzz/deploy/tuesday_alert
+
+# ---------------------------------------------------------------------------
+# Idempotency / logging / failure ledger (this dir)
+# ---------------------------------------------------------------------------
+state_dir: state
+log_file: logs/pipeline.log

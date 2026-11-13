@@ -4092,6 +4092,73 @@ references:
   type: chapter
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1017%2FCBO9780511790881.005
 
+- id: williamsMeasuringSexStereotypes1990
+  attachments:
+    - title: text/html Attachment
+      url: https://ubffm.hds.hebis.de/Record/HEB018905439
+      path: /Users/nathan/app-files/Zotero/storage/32362F5T/HEB018905439.html
+      key: 32362F5T
+      type: file
+  author:
+    - family: Williams
+      given: John E. (Verfasser)
+    - family: Best
+      given: Deborah L. (Verfasser)
+  chicago-bibliography: 'Williams, John E. (Verfasser), and Deborah L. (Verfasser) Best. "Measuring sex stereotypes : a multination study." 6. https://ubffm.hds.hebis.de/Record/HEB018905439'
+  chicago-note-full: 'John E. (Verfasser) Williams, Deborah L. (Verfasser) Best, "Measuring sex stereotypes : a multination study," 6, https://ubffm.hds.hebis.de/Record/HEB018905439'
+  chicago-note-short: 'Williams, "Measuring sex stereotypes : a..,"'
+  citation-key: williamsMeasuringSexStereotypes1990
+  collection-title: Cross cultural research and methodology series
+  edition: Rev. edition, 1. print.
+  ISBN: 978-0-8039-3815-1
+  issued:
+    - year: 1990
+  number-of-pages: 380 Seiten
+  publisher: Sage Publ.
+  publisher-place: Newbury Park
+  source: COinS
+  tags:
+    - _further-reading
+    - 5-Gender
+  title: 'Measuring sex stereotypes : a multination study'
+  title-short: Measuring sex stereotypes
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB018905439
+  volume: '6'
+
+- id: williamsSexPsycheGender1990
+  attachments:
+    - title: text/html Attachment
+      url: https://ubffm.hds.hebis.de/Record/HEB014226111
+      path: /Users/nathan/app-files/Zotero/storage/Y5FCJDHE/HEB014226111.html
+      key: Y5FCJDHE
+      type: file
+  author:
+    - family: Williams
+      given: John E.
+    - family: Best
+      given: Deborah L.
+  chicago-bibliography: 'Williams, John E., and Deborah L. Best. "Sex and psyche : gender and self viewed cross-culturally." 13. https://ubffm.hds.hebis.de/Record/HEB014226111'
+  chicago-note-full: 'John E. Williams, Deborah L. Best, "Sex and psyche : gender and self viewed cross-culturally," 13, https://ubffm.hds.hebis.de/Record/HEB014226111'
+  chicago-note-short: 'Williams, "Sex and psyche : gender..,"'
+  citation-key: williamsSexPsycheGender1990
+  collection-title: Cross-cultural research and methodology series
+  ISBN: 978-0-8039-3769-7
+  issued:
+    - year: 1990
+  number-of-pages: 212 S
+  publisher: Sage
+  publisher-place: Newbury Park [u.a.]
+  source: COinS
+  tags:
+    - _further-reading
+    - 5-Gender
+  title: 'Sex and psyche : gender and self viewed cross-culturally'
+  title-short: Sex and psyche
+  type: book
+  URL: https://ubffm.hds.hebis.de/Record/HEB014226111
+  volume: '13'
+
 - id: WVSDatabase
   accessed:
     - year: 2026
