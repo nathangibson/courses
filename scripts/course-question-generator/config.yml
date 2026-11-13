@@ -1,0 +1,14 @@
+# Question generator — configuration
+#
+# Consumes the slide-content analyzer's output (data/analysis.json, sibling
+# directory ../course-slide-analyzer) and emits the top-3 area questions as an
+# alert-channel payload for the Tuesday class-prep workflow (t_ed34a09a).
+
+# Analyzer JSON to consume (absolute, or relative to this config's dir).
+input_json: ../course-slide-analyzer/data/analysis.json
+
+# Where the generator writes data/questions.json (relative to this dir).
+output_dir: data
+
+# Maximum questions per class (the alert channel hard-rejects 4+).
+max_questions_per_class: 3
