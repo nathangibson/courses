@@ -1,7 +1,8 @@
 ---
 05_big-five:
-  description: Big Five personality traits diagram, English version of the peats.de graphic
-  creator: Anna Tunikova (original for peats.de and Wikipedia); EssensStrassen (vectorization)
+  description: Big Five personality traits diagram, English version of the peats.de
+    graphic
+  creator: Anna Tunikova (original for peats.de and Wikipedia), EssensStrassen (vectorization)
   source_url: https://commons.wikimedia.org/wiki/File:Wiki-grafik_peats-de_big_five_ENG.svg
   rights: CC BY 4.0
 06_Vishnu_BhagavadGita-upscaled:
