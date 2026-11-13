@@ -1,0 +1,60 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: "millennial-3"
+
+# Course identity (shown in the header/menu bar and footer)
+title: Einführung in die KI und Religion
+description: "Einführung in die KI und Religion (course website, winter semester 2026/27)"
+
+# Session-heading language + type. These select the wording of the session
+# detail-page headings via the global config at _data/headings.yml.
+language: de            # en | de  (the language of the course's session pages)
+type: lecture           # lecture | seminar  (drives type-specific headings, e.g. readings)
+
+# Semester listing for the courses index (feature/course-index)
+semester: winter          # winter | summer
+year: 2026                # start year of the academic year (e.g. 2026 => WS 2026/27)
+hero: candle.jpg        # hero image for the courses index (from assets/img)
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ""
+
+# To change the external link values for the below, do so in the pages directory, where their redirects live.
+
+menu:
+  - { name: "Files", url: "files" }
+  - { name: "Zotero", url: "zotero" }
+  - { name: "Etherpad", url: "pad" }
+  - { name: "Polls", url: "poll" }
+  - { name: "OLAT", url: "olat" }
+#  - { name: "Chat", url: "chat" }
+#  - { name: "Podcast", url: "podcast" }
+#  - { name: "Rückblick", url: "review" }
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+# - {fa-class: 'brands', icon: 'twitter', link:    'https://twitter.com/paululele'}
+# - {fa-class: 'solid', icon: 'envelope', link:   'mailto:hello@paulle.ca'}
+# - {icon: 'rss-square', link: 'feed.xml'}
+
+base-urls:
+  pad: 'https://etherpad.studiumdigitale.uni-frankfurt.de/p/26ki'
+  polls: 'https://ars.particify.de/p/TODO/series'  # TODO set the Particify series ID
+  zotero: 'https://www.zotero.org/groups/TODO/26ki'  # TODO set the Zotero group ID
+
+# Customize site text
+pagination:
+  next_page: "Newer"
+  previous_page: "Older"
+
+sharing_button_prompt: "Feel free to share!"
+
+related_posts: 'Related'
+
+post_date_prefix: 'Written on'
+
+cover_image: candle.jpg
+
+reveal-slides:
+  background-opacity: 0.3

@@ -639,7 +639,8 @@ def build_argparser() -> argparse.ArgumentParser:
     p.add_argument("--holidays", help="holidays, free-form: '2026-12-18..2027-01-11, 24.03.2027' etc.")
     p.add_argument("--first-deck-date", help="date for the FIRST slide deck if different from the session date")
     p.add_argument("--commit", action="store_true", help="git-commit the generated course (default: leave uncommitted)")
-    p.add_argument("--repo", default=DEFAULT_REPO, help=f"courses repo root (default: {DEFAULT_REPO})")
+    p.add_argument("--repo", default=None,
+                   help="courses repo root (default: the git repo containing the current directory, falling back to %s)" % DEFAULT_REPO)
     p.add_argument("--spec", help="YAML spec file with any of the above keys (see new_course_spec.example.yaml)")
     p.add_argument("--force", action="store_true", help="overwrite an existing course directory")
     p.add_argument("--yes", action="store_true", help="never prompt; fail if required answers are missing (CI/agent mode)")
@@ -780,7 +781,19 @@ def main(argv: Optional[List[str]] = None) -> int:
         spec.year = spec.parsed_start().year
     spec.validate()
 
-    repo = Path(args.repo).expanduser().resolve()
+    if args.repo:
+        repo = Path(args.repo).expanduser().resolve()
+    else:
+        # default: the git repo containing the current directory (so running
+        # from a worktree writes into that worktree, not the main repo),
+        # falling back to the historical hardcoded path.
+        try:
+            top = subprocess.run(
+                ["git", "rev-parse", "--show-toplevel"], cwd=".",
+                capture_output=True, text=True, check=True).stdout.strip()
+            repo = Path(top).resolve()
+        except (subprocess.CalledProcessError, FileNotFoundError):
+            repo = Path(DEFAULT_REPO).expanduser().resolve()
     if not (repo / "_config.yml").exists():
         raise SystemExit(f"'{repo}' does not look like the courses repo (no _config.yml).")
 
