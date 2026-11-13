@@ -85,22 +85,23 @@ module Jekyll
           current = :text
           next
         end
-        # kramdown often wraps the marker + image in ONE <p> (comment inside
-        # the paragraph) — split that <p> at the comment.
+        # kramdown often wraps markers + content in ONE <p> — split that <p>
+        # at ANY COL comment, switching columns as the markers say. The
+        # starting bucket is the outer current state.
         if node.element? && %w(p div).include?(node.name) &&
-           node.at_xpath('.//comment()[contains(., "COL:image")]')
-          before = []
-          after = []
-          bucket = before
+           !node.xpath('.//comment()[contains(., "COL:")]').empty?
+          inner = current
           node.children.each do |child|
             if child.comment? && child.text =~ /COL:\s*image/
-              bucket = after
+              inner = :image
+              next
+            elsif child.comment? && child.text =~ /COL:\s*text/
+              inner = :text
               next
             end
-            bucket << child
+            (inner == :image ? image_nodes : text_nodes) << child
           end
-          text_nodes.concat(before)
-          image_nodes.concat(after)
+          current = inner
           next
         end
         col = image_only?(node) ? :image : current
