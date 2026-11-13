@@ -1,6 +1,16 @@
 ---
+05_big-five:
+  description: Big Five personality traits diagram, English version of the peats.de graphic
+  creator: Anna Tunikova (original for peats.de and Wikipedia); EssensStrassen (vectorization)
+  source_url: https://commons.wikimedia.org/wiki/File:Wiki-grafik_peats-de_big_five_ENG.svg
+  rights: CC BY 4.0
 06_Vishnu_BhagavadGita-upscaled:
   description: 'Image source unknown. Upscaled with DiffusionBee 2.5.1 (Model: Real-ESRGAN).'
+06_medikament:
+  description: Bottle of Assorted Pills (Wikimedia Commons)
+  creator: ParentingPatch
+  source_url: https://commons.wikimedia.org/wiki/File:Bottle_of_Assorted_Pills.JPG
+  rights: CC BY-SA 3.0
 BNF-arabe-14-f002v-003r:
   description: Arabic Pentateuch, copied in 1353 C.E. Bibliothèque nationale de France,
     Département des manuscrits, Arabe 12, fol. 2v–3r. Source gallica.bnf.fr / BnF.
@@ -1289,3 +1299,33 @@ bar-kokhba-weight-50per:
   rights: Creative Commons http://creativecommons.org/licenses/by-nc-sa/3.0/nz/deed.en_US
 bourdieu-swartz-2010:
   description: Screenshot
+balcony-city-spain:
+  description: Alicante, Spain
+  creator: Olga Ozik (https://pixabay.com/users/olgaozik-11540328/)
+  source_url: https://pixabay.com/photos/spain-alicante-sea-girl-city-4016717/
+  rights: Pixabay License (https://pixabay.com/service/license-summary/)
+dubai-waterfront:
+  description: Dubai waterfront promenade
+  creator: Olga Ozik (https://pixabay.com/users/olgaozik-11540328/)
+  source_url: https://pixabay.com/photos/downtown-dubai-uae-tourism-city-4045036/
+  rights: Pixabay License (https://pixabay.com/service/license-summary/)
+teacher-students-indonesia:
+  description: Teacher and students, Indonesia
+  creator: SyauqiFillah (https://pixabay.com/users/syauqifillah-19524098/)
+  source_url: https://pixabay.com/photos/studying-teacher-students-sunset-5831644/
+  rights: Pixabay License (https://pixabay.com/service/license-summary/)
+kids-in-pipe:
+  description: Alicante, Spain
+  creator: Olga Ozik (https://pixabay.com/users/olgaozik-11540328/)
+  source_url: https://pixabay.com/photos/spain-alicante-sea-girl-city-4016717/
+  rights: Pixabay License (https://pixabay.com/service/license-summary/)
+aie-intercultural-competence:
+  description: A model of intercultural competence
+  creator: Council of Europe
+  source_url: 'Autobiography of Intercultural Encounters: Notes for facilitators,
+    5 (https://rm.coe.int/notes-for-facilitators-autobiography-of-intercultural-encounters/168089eb83)'
+intercultural-sensitivity-factor-analysis:
+  description: Confirmatory factor analysis of the Intercultural Sensitivity Scale
+  source_url: 'Fritz, Wolfgang, Antje Möllenberg, and Guo-Ming Chen. “Measuring Intercultural
+    Sensitivity in Different Cultural Contexts.” Intercultural Communication Studies
+    11, no. 2 (2002): 169 (Figure 1). https://digitalcommons.uri.edu/cgi/viewcontent.cgi?article=1019&context=com_facpubs..'

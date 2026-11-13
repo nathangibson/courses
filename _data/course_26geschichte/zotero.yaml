@@ -25,6 +25,70 @@ references:
   URL: http://archive.org/details/maxweber-dieentzauberungderwelt
   zotero_language: ger
 
+- id: barrowsWorldsParliamentReligions1893
+  abstract: '2 v. :'
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  call-number: AKN-8445
+  chicago-bibliography: '"The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893." . http://archive.org/details/worldsparliament02barruoft'
+  chicago-note-full: ', "The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893,", http://archive.org/details/worldsparliament02barruoft'
+  chicago-note-short: ', "The World''s Parliament of Religions:..,"'
+  citation-key: barrowsWorldsParliamentReligions1893
+  editor:
+    - family: Barrows
+      given: John Henry
+  issued:
+    - year: 1893
+  language: en
+  number-of-pages: '812'
+  publisher: Parliament Pub. Co
+  publisher-place: Chicago
+  source: Internet Archive
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+    - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+  title: 'The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893'
+  title-short: The World's Parliament of Religions
+  type: book
+  URL: http://archive.org/details/worldsparliament02barruoft
+  zotero_language: eng
+
+- id: barrowsWorldsParliamentReligions1893a
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  author:
+    - family: Max Müller
+      given: Friedrich
+  call-number: AKN-8445
+  chicago-bibliography: 'Max Müller, Friedrich. "Greek philosophy and the Christian religion." The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893: 935–936. https://archive.org/details/worldsparliament02barruoft/page/n137'
+  chicago-note-full: 'Friedrich Max Müller, "Greek philosophy and the Christian religion," The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893, 935–936, https://archive.org/details/worldsparliament02barruoft/page/n137'
+  chicago-note-short: Max Müller, "Greek philosophy and the Christian..,"
+  citation-key: barrowsWorldsParliamentReligions1893a
+  container-title: 'The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893'
+  editor:
+    - family: Barrows
+      given: John Henry
+  issued:
+    - year: 1893
+  language: en
+  page: 935–936
+  publisher: Parliament Pub. Co
+  publisher-place: Chicago
+  source: Internet Archive
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+    - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+  title: Greek philosophy and the Christian religion
+  type: chapter
+  URL: https://archive.org/details/worldsparliament02barruoft/page/n137
+  zotero_language: eng
+
 - id: bernerMirceaEliade190719861997
   accessed:
     - year: 2024
@@ -317,6 +381,29 @@ references:
   title: 'The magic city : a massive portfolio of original photographic views of the Great World''s Fair, and its treasures of art, including a vivid representation of the famous Midway Plaisance : a photographic and historical representation of the "Magic City" by-the-lake, with its vast treasures of the world''s art, reproduced in splendid realism, as it was seen by millions of visitors, in a series of 300 magnificent photographic views'
   title-short: The magic city
   type: book
+
+- id: CollectionsOnline
+  accessed:
+    - year: 2026
+      month: 10
+      day: 22
+  attachments:
+    - title: Snapshot
+      url: https://www.prm.ox.ac.uk/collections-online
+      path: /Users/nathan/app-files/Zotero/storage/PJBWUZ7X/collections-online.html
+      key: PJBWUZ7X
+      type: file
+  chicago-bibliography: '"Collections online." . https://www.prm.ox.ac.uk/collections-online'
+  chicago-note-full: ', "Collections online,", https://www.prm.ox.ac.uk/collections-online'
+  chicago-note-short: ', "Collections online,"'
+  citation-key: CollectionsOnline
+  language: en
+  tags:
+    - 2-Edward-Tylor
+  title: Collections online
+  type: webpage
+  URL: https://www.prm.ox.ac.uk/collections-online
+  zotero_language: en
 
 - id: dianteillPierreBourdieuSociology2003
   abstract: Although some of Bourdieu’s most basic concepts have their roots in the sociology of religion, religion itself has, in appearance, only a marginalized status within his work. This article focuses on the genesis of religious field and how the theories of Durkheim, Mauss, and Weber fold into the notion of field defined by Bourdieu. Religious field must be understood within the symbolic economy as well; divisions of symbolic labor are therefore discussed in relation to segmented and non-segmented societies. Finally, Bourdieu’s analysis of institutions, in particular the Catholic Church, further help us understand the use and evolution of religious field in his work and shed light on the sociologist’s understanding of the movement from religious beliefs toward aesthetic ones.
@@ -1500,6 +1587,38 @@ references:
   title-short: Victor Witter Turner
   type: book
 
+- id: houghtonNeelysHistoryParliament1894c1893
+  abstract: 1001 p., [29] leaves of plates :; Includes index; Includes papers presented to the World's Parliament of Religions, Chicago, 1893
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  author:
+    - family: Houghton
+      given: Walter R. (Walter Raleigh)
+  call-number: ANK-5086
+  chicago-bibliography: 'Houghton, Walter R. (Walter Raleigh). "Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports." . http://archive.org/details/neelyshistory00unknuoft'
+  chicago-note-full: 'Walter R. (Walter Raleigh) Houghton, "Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports,", http://archive.org/details/neelyshistory00unknuoft'
+  chicago-note-short: Houghton, "Neely's history of the Parliament..,"
+  citation-key: houghtonNeelysHistoryParliament1894c1893
+  contributor:
+    - literal: Emmanuel - University of Toronto
+  issued:
+    - literal: 1894, c1893
+  language: en
+  number-of-pages: '1072'
+  publisher: 'Chicago : F.T. Neely'
+  source: Internet Archive
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+    - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+  title: 'Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports'
+  title-short: Neely's history of the Parliament of Religions and religious congresses of the World's Columbian Exposition
+  type: book
+  URL: http://archive.org/details/neelyshistory00unknuoft
+  zotero_language: eng
+
 - id: johnsonMemoryMetaphorAby
   abstract: The work of German cultural theorist and art historian AbyWarburg (1866-1929) has had a lasting effect on how we think aboutimages. This book is the first in En...
   accessed:
@@ -2272,6 +2391,80 @@ references:
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
   zotero_language: de
 
+- id: pechelDeutscheRundschau1894
+  attachments:
+    - title: Google Books Link
+      url: https://www.google.de/books?id=u29EAQAAMAAJ
+      path: ''
+      key: Z447L9FU
+      type: webpage
+  author:
+    - family: Max Müller
+      given: Friedrich
+  chicago-bibliography: 'Max Müller, Friedrich. "Das Religions-Parlament in Chicago." Deutsche Rundschau 82: 409–425. https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover'
+  chicago-note-full: Friedrich Max Müller, "Das Religions-Parlament in Chicago," Deutsche Rundschau 82, 409–425, https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover
+  chicago-note-short: Max Müller, "Das Religions-Parlament in Chicago,"
+  citation-key: pechelDeutscheRundschau1894
+  container-title: Deutsche Rundschau
+  issued:
+    - year: 1895
+  language: de
+  page: 409–425
+  publisher: Gebrüder Paetel
+  publisher-place: Berlin
+  source: Google Books
+  tags:
+    - _further-reading
+    - 5-Weltreligionen
+  title: Das Religions-Parlament in Chicago
+  type: article-magazine
+  URL: https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover
+  volume: '82'
+  zotero_language: de
+
+- id: petchNotesQueriesPitt2007
+  abstract: This article examines the contribution that a major ethnographic museum, the Pitt Rivers Museum at the University of Oxford, has made to the development of anthropology in the United Kingdom, through the prism of a seminal publication, Notes and Queries on Anthropology, which was published in several editions between 1874 and 1951. While Notes and Queries has been of considerable interest to historians of anthropology, its connections to museum anthropology and to material culture studies have, to a large degree, gone unexamined hitherto.
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  attachments:
+    - title: Full Text PDF
+      url: https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1525/mua.2007.30.1.21
+      path: /Users/nathan/app-files/Zotero/storage/D9AZMM9D/Petch - 2007 - Notes and Queries and the Pitt Rivers Museum.pdf
+      key: D9AZMM9D
+      type: pdf
+    - title: Snapshot
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1525/mua.2007.30.1.21
+      path: /Users/nathan/app-files/Zotero/storage/LUFP5CTK/mua.2007.30.1.html
+      key: LUFP5CTK
+      type: file
+  author:
+    - family: Petch
+      given: Alison
+  chicago-bibliography: 'Petch, Alison. "Notes and Queries and the Pitt Rivers Museum." Museum Anthropology 30, no. 1: 21–39. https://doi.org/10.1525/mua.2007.30.1.21'
+  chicago-note-full: Alison Petch, "Notes and Queries and the Pitt Rivers Museum," Museum Anthropology 30, no. 1, 21–39, https://doi.org/10.1525/mua.2007.30.1.21
+  chicago-note-short: Petch, "Notes and Queries and the..,"
+  citation-key: petchNotesQueriesPitt2007
+  container-title: Museum Anthropology
+  container-title-short: Mus. Anthropol.
+  DOI: 10.1525/mua.2007.30.1.21
+  ISSN: 1548-1379
+  issue: '1'
+  issued:
+    - year: 2007
+  language: en
+  page: 21–39
+  source: Wiley Online Library
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Notes and Queries and the Pitt Rivers Museum
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1525/mua.2007.30.1.21
+  volume: '30'
+  zotero_language: en
+
 - id: PhotographsWorldsFair1894
   abstract: '351 leaves : 29 x 33 cm; "Sold by subscription only."'
   accessed:
@@ -2689,6 +2882,78 @@ references:
   URL: https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0026/html
   zotero_language: de
 
+- id: rothAboriginesTasmania1899
+  abstract: Aboriginal and Torres Strait Islander peoples are advised that this resource may contain images, transcripts or names of Aboriginal and Torres Strait Islander peoples now deceased. It may also contain historically and culturally sensitive words, terms, and descriptions.
+  attachments:
+    - title: Google Books Link
+      url: https://books.google.de/books?id=hSZEFXGIlv8C
+      path: ''
+      key: 88KXZW9T
+      type: webpage
+  author:
+    - family: Roth
+      given: Henry Ling
+    - family: Butler
+      given: Marion E.
+    - family: Garson
+      given: John George
+  chicago-bibliography: Roth, Henry Ling, Marion E. Butler, and John George Garson. "The Aborigines of Tasmania." . https://books.google.de/books?hl=en&lr=&id=hSZEFXGIlv8C
+  chicago-note-full: Henry Ling Roth, Marion E. Butler, John George Garson, "The Aborigines of Tasmania,", https://books.google.de/books?hl=en&lr=&id=hSZEFXGIlv8C
+  chicago-note-short: Roth, "The Aborigines of Tasmania,"
+  citation-key: rothAboriginesTasmania1899
+  issued:
+    - year: 1899
+  language: en
+  number-of-pages: '420'
+  publisher: F. King & Sons
+  source: Google Books
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: The Aborigines of Tasmania
+  type: book
+  URL: https://books.google.de/books?hl=en&lr=&id=hSZEFXGIlv8C
+  zotero_language: en
+
+- id: sackettBoucherPerthesDiscovery2014
+  abstract: Why did Boucher de Perthes’ discoveries of handaxes in the Somme River’s gravels need to be verified by English geologist Joseph Prestwich, and antiquarian John Evans, before members of the French Academy of Sciences changed their minds about evidence for the antiquity of humanity? The problem was not with the evidence itself, but with the way Boucher de Perthes interpreted and published it. Teetotal, but an over-imaginative Romantic, a provincial bureaucrat and an antiquarian scholar, an autodidact, and a generous provider of charity to local workers and early advocate for women’s education, Boucher de Perthes was not only eccentric and remarkable, but also his own worst enemy. He was easily dismissed by the scientific elite of Paris until more handaxes were found at other sites and in different countries, and were recognised as being similar to those found at Abbeville.
+  accessed:
+    - year: 2026
+      month: 10
+      day: 20
+  attachments:
+    - title: Full Text PDF
+      url: https://archaeologybulletin.org/articles/534/files/submission/proof/534-1-2344-3-10-20140122.pdf
+      path: /Users/nathan/app-files/Zotero/storage/LKYKK87T/Sackett - 2014 - Boucher de Perthes and the Discovery of Human Antiquity.pdf
+      key: LKYKK87T
+      type: pdf
+  author:
+    - family: Sackett
+      given: James
+  chicago-bibliography: Sackett, James. "Boucher de Perthes and the Discovery of Human Antiquity." Bulletin of the History of Archaeology 24, no. 0. https://doi.org/10.5334/bha.242
+  chicago-note-full: James Sackett, "Boucher de Perthes and the Discovery of Human Antiquity," Bulletin of the History of Archaeology 24, no. 0, https://doi.org/10.5334/bha.242
+  chicago-note-short: Sackett, "Boucher de Perthes and the..,"
+  citation-key: sackettBoucherPerthesDiscovery2014
+  container-title: Bulletin of the History of Archaeology
+  container-title-short: Bull. Hist. Archaeol.
+  DOI: 10.5334/bha.242
+  ISSN: 1062-4740
+  issue: '0'
+  issued:
+    - year: 2014
+      month: 1
+      day: 6
+  language: en
+  source: archaeologybulletin.org
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Boucher de Perthes and the Discovery of Human Antiquity
+  type: article-journal
+  URL: https://archaeologybulletin.org/articles/10.5334/bha.242
+  volume: '24'
+  zotero_language: en
+
 - id: schlieterWasIstReligion2018
   attachments:
     - title: Table of Contents PDF
@@ -2791,9 +3056,12 @@ references:
       path: /Users/nathan/app-files/Zotero/storage/NV3D7NFC/2015 - The Shock of the “Savage” Edward Burnett Tylor, E.pdf
       key: NV3D7NFC
       type: pdf
-  chicago-bibliography: '"The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits." Understanding Theories of Religion: An Introduction: 45–54. https://doi.org/10.1002/9781394261017.ch5'
-  chicago-note-full: ', "The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits," Understanding Theories of Religion: An Introduction, 45–54, https://doi.org/10.1002/9781394261017.ch5'
-  chicago-note-short: ', "The Shock of the “Savage”:..,"'
+  author:
+    - family: Strenski
+      given: Ivan
+  chicago-bibliography: 'Strenski, Ivan. "The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits." Understanding Theories of Religion: An Introduction: 45–54. https://doi.org/10.1002/9781394261017.ch5'
+  chicago-note-full: 'Ivan Strenski, "The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits," Understanding Theories of Religion: An Introduction, 45–54, https://doi.org/10.1002/9781394261017.ch5'
+  chicago-note-short: Strenski, "The Shock of the “Savage”:..,"
   citation-key: ShockSavageEdward2015
   container-title: 'Understanding Theories of Religion: An Introduction'
   DOI: 10.1002/9781394261017.ch5
@@ -2818,7 +3086,7 @@ references:
     - spiritualism
   title: 'The Shock of the “Savage”: Edward Burnett Tylor, Evolution, and Spirits'
   type: chapter
-  URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D7103685
+  URL: https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/book/10.1002/9781394261017
   zotero_language: en
 
 - id: smithWhenBoughBreaks1973
@@ -2881,6 +3149,26 @@ references:
   type: book
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fwww.content-select.com%2Findex.php%3Fid%3Dbib_view%26ean%3D9783593409764
 
+- id: strenskiDurkheimJewsFrance1997
+  author:
+    - family: Strenski
+      given: Ivan
+  chicago-bibliography: Strenski, Ivan. "Durkheim and the Jews of France." . http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D35124
+  chicago-note-full: Ivan Strenski, "Durkheim and the Jews of France,", http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D35124
+  chicago-note-short: Strenski, "Durkheim and the Jews of..,"
+  citation-key: strenskiDurkheimJewsFrance1997
+  collection-title: Chicago studies in the history of Judaism
+  ISBN: 978-0-226-77735-1
+  issued:
+    - year: 1997
+  number-of-pages: IX, 215 S.
+  publisher: Univ. of Chicago Press
+  publisher-place: Chicago [u.a.]
+  source: COinS
+  title: Durkheim and the Jews of France
+  type: book
+  URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Fsearch.ebscohost.com%2Flogin.aspx%3Fdirect%3Dtrue%26scope%3Dsite%26db%3Dnlebk%26db%3Dnlabk%26AN%3D35124
+
 - id: strenskiThinkingReligionReader2006
   call-number: BL41 .T49 2006
   chicago-bibliography: '"Thinking about religion: a reader."'
@@ -2929,7 +3217,7 @@ references:
   title: 'Understanding Theories of Religion: An Introduction'
   title-short: Understanding Theories of Religion
   type: book
-  URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D7103685
+  URL: https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/book/10.1002/9781394261017
   zotero_language: en
 
 - id: swartzBourdieuReligionImposing2010
@@ -2977,6 +3265,55 @@ references:
   type: article-journal
   URL: https://academic-oup-com.proxy.ub.uni-frankfurt.de/socrel/article/71/1/133/1623933
   volume: '71'
+  zotero_language: en
+
+- id: taylorFirstStoneLast2016
+  abstract: 'Between 1890 and 1905, Edward Burnett Tylor and Henry Ling Roth extended and formalised two ideas that were intricately connected and deeply influential to the development of nineteenth century anthropology: that the Tasmanian Aboriginal people represented the earliest phase of cultural evolution and that they were extinct. This paper offers a detailed archival exploration of the correspondence between 1891–1905 that informed those ideas. It finds that Tylor and Roth not only received abstracted facts and artefacts from their colonial contacts; they were directed and inspired by an emergent Australian scholarship that sought to propose and urge new disciplinary directions. This paper reveals not only the importance of Tasmanian Aboriginal people to the history of science, but the role that scientific ideas have shaped Australian social memory and national identity.'
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  attachments:
+    - title: Full Text PDF
+      url: https://onlinelibrary-wiley-com.proxy.ub.uni-frankfurt.de/doi/pdfdirect/10.1002/ocea.5145
+      path: /Users/nathan/app-files/Zotero/storage/JB4LLZBF/Taylor - 2016 - The First Stone and the Last Tasmanian The Colonial Correspondence of Edward Burnett Tylor and Henr.pdf
+      key: JB4LLZBF
+      type: pdf
+    - title: Snapshot
+      url: https://onlinelibrary.wiley.com/doi/abs/10.1002/ocea.5145
+      path: /Users/nathan/app-files/Zotero/storage/SQABZQQ4/ocea.html
+      key: SQABZQQ4
+      type: file
+  author:
+    - family: Taylor
+      given: Rebe
+  chicago-bibliography: 'Taylor, Rebe. "The First Stone and the Last Tasmanian: The Colonial Correspondence of Edward Burnett Tylor and Henry Ling Roth." Oceania 86, no. 3: 320–343. https://doi.org/10.1002/ocea.5145'
+  chicago-note-full: 'Rebe Taylor, "The First Stone and the Last Tasmanian: The Colonial Correspondence of Edward Burnett Tylor and Henry Ling Roth," Oceania 86, no. 3, 320–343, https://doi.org/10.1002/ocea.5145'
+  chicago-note-short: Taylor, "The First Stone and the..,"
+  citation-key: taylorFirstStoneLast2016
+  container-title: Oceania
+  DOI: 10.1002/ocea.5145
+  ISSN: 1834-4461
+  issue: '3'
+  issued:
+    - year: 2016
+  language: en
+  license: © 2016 Oceania Publications
+  page: 320–343
+  source: Wiley Online Library
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+    - Aborigines
+    - Australia
+    - Ling Roth
+    - Tasmania
+    - Tylor
+  title: 'The First Stone and the Last Tasmanian: The Colonial Correspondence of Edward Burnett Tylor and Henry Ling Roth'
+  title-short: The First Stone and the Last Tasmanian
+  type: article-journal
+  URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/ocea.5145
+  volume: '86'
   zotero_language: en
 
 - id: thuswaldnerDerridaUndDanach2008
@@ -3312,6 +3649,24 @@ references:
   URL: https://dl.ub.uni-freiburg.de/diglit/tylor1873-1/0001
   zotero_language: de
 
+- id: tyloredwardburnett1832-1917AnahuacMexicoMexicans1861
+  chicago-bibliography: '"Anahuac, or Mexico and the Mexicans, ancient and modern / by Edward B. Tylor."'
+  chicago-note-full: ', "Anahuac, or Mexico and the Mexicans, ancient and modern / by Edward B. Tylor,"'
+  chicago-note-short: ', "Anahuac, or Mexico and the..,"'
+  citation-key: tyloredwardburnett1832-1917AnahuacMexicoMexicans1861
+  contributor:
+    - literal: Tylor, Edward Burnett (1832-1917)
+  issued:
+    - year: 1861
+  note: 'OCLC: 763818407'
+  publisher: Longman, Green, Longman and Roberts (London)
+  source: Open WorldCat
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Anahuac, or Mexico and the Mexicans, ancient and modern / by Edward B. Tylor
+  type: book
+
 - id: tylorPrimitiveCulture2018
   author:
     - family: Tylor
@@ -3377,8 +3732,6 @@ references:
   chicago-note-full: 'Edward Burnett Tylor, "Primitive culture: Researches into the development of mythology, philosophy, religion, art, and custom,", http://archive.org/details/primitiveculture00tylo'
   chicago-note-short: 'Tylor, "Primitive culture: Researches into the..,"'
   citation-key: tylorPrimitiveCultureResearches1871
-  contributor:
-    - literal: Harold B. Lee Library
   issued:
     - year: 1871
   language: en
@@ -3388,9 +3741,9 @@ references:
   publisher-place: London
   source: Internet Archive
   tags:
-    - Civilization
     - _further-reading
     - 2-Edward-Tylor
+    - Civilization
   title: 'Primitive culture: Researches into the development of mythology, philosophy, religion, art, and custom'
   title-short: Primitive culture
   type: book
@@ -3438,6 +3791,22 @@ references:
   type: book
   URL: http://archive.org/details/researchesintoea65tylo
   zotero_language: eng
+
+- id: TylorsOnionCurious
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  chicago-bibliography: '"Tylor''s Onion: a curious case of bewitched onions from Somerset." . https://england.prm.ox.ac.uk/englishness-tylors-onion.html'
+  chicago-note-full: ', "Tylor''s Onion: a curious case of bewitched onions from Somerset,", https://england.prm.ox.ac.uk/englishness-tylors-onion.html'
+  chicago-note-short: ', "Tylor''s Onion: a curious case..,"'
+  citation-key: TylorsOnionCurious
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: 'Tylor''s Onion: a curious case of bewitched onions from Somerset'
+  type: webpage
+  URL: https://england.prm.ox.ac.uk/englishness-tylors-onion.html
 
 - id: VideoAudioClifford
   accessed:
@@ -3911,4 +4280,52 @@ references:
   type: document
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/11_12_Handout_MaxWeber.docx
   zotero_language: de
+
+- id: wingfieldHeartHomeTylors2009
+  accessed:
+    - year: 2026
+      month: 9
+      day: 29
+  attachments:
+    - title: JSTOR Full Text PDF
+      url: https://www-jstor-org.proxy.ub.uni-frankfurt.de/stable/pdfplus/10.2307/41417136.pdf?acceptTC=true
+      path: /Users/nathan/app-files/Zotero/storage/CCMGC9FC/Wingfield - 2009 - Is the Heart at Home E. B. Tylor's Collections from Somerset.pdf
+      key: CCMGC9FC
+      type: pdf
+  author:
+    - family: Wingfield
+      given: Chris
+  chicago-bibliography: 'Wingfield, Chris. "Is the Heart at Home? E. B. Tylor''s Collections from Somerset." Journal of Museum Ethnography, no. 22: 22–38. https://www.jstor.org/stable/41417136'
+  chicago-note-full: Chris Wingfield, "Is the Heart at Home? E. B. Tylor's Collections from Somerset," Journal of Museum Ethnography, no. 22, 22–38, https://www.jstor.org/stable/41417136
+  chicago-note-short: Wingfield, "Is the Heart at Home?..,"
+  citation-key: wingfieldHeartHomeTylors2009
+  container-title: Journal of Museum Ethnography
+  container-title-short: J. Mus. Ethnogr.
+  ISSN: 0954-7169
+  issue: '22'
+  issued:
+    - year: 2009
+  page: 22–38
+  publisher: Museum Ethnographers Group
+  source: JSTOR
+  tags:
+    - _further-reading
+    - 2-Edward-Tylor
+  title: Is the Heart at Home? E. B. Tylor's Collections from Somerset
+  title-short: Is the Heart at Home?
+  type: article-journal
+  URL: https://www.jstor.org/stable/41417136
+
+- id: WorldParliamentReligions
+  accessed:
+    - year: 2026
+      month: 10
+      day: 30
+  chicago-bibliography: '"World Parliament of Religions, 1893 (Boston Collaborative Encyclopedia of Western Theology)." . https://people.bu.edu/wwildman/bce/worldparliamentofreligions1893.htm'
+  chicago-note-full: ', "World Parliament of Religions, 1893 (Boston Collaborative Encyclopedia of Western Theology),", https://people.bu.edu/wwildman/bce/worldparliamentofreligions1893.htm'
+  chicago-note-short: ', "World Parliament of Religions, 1893..,"'
+  citation-key: WorldParliamentReligions
+  title: World Parliament of Religions, 1893 (Boston Collaborative Encyclopedia of Western Theology)
+  type: webpage
+  URL: https://people.bu.edu/wwildman/bce/worldparliamentofreligions1893.htm
 ...

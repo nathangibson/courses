@@ -5079,14 +5079,14 @@ references:
   publisher-place: Berlin
   source: www.degruyter.com
   tags:
+    - Religion
     - _required
-    - 9-Objekte
+    - Religious Studies
     - Aesthetics of Religion
     - Cultural Studies
     - History of Religion
-    - Religion
-    - Religious Studies
     - Study of Religion
+    - 9-Objekte
   title: Materiale Religion
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29000335372/CourseNode/93668888136198/09_Prohl_materialeReligion.pdf
@@ -5456,8 +5456,9 @@ references:
   publisher-place: Tübingen
   source: Open WorldCat
   tags:
+    - Iran
     - _further-reading
-    - 13-Extremismus
+    - USA
     - Chiites Iran
     - Fondamentalisme
     - Fundamentalism
@@ -5468,7 +5469,6 @@ references:
     - Geschichte 1961-1979
     - Intégrisme islamique
     - Intégrisme islamique Iran
-    - Iran
     - Islamic fundamentalism
     - Islamic fundamentalism Iran
     - Protestantisme
@@ -5477,7 +5477,7 @@ references:
     - Shiites
     - Shiites Iran
     - Sjiʻisme
-    - USA
+    - 13-Extremismus
   title: 'Fundamentalismus als patriarchalische Protestbewegung: amerikanische Protestanten (1910-28) und iranische Schiiten (1961-79) im Vergleich'
   title-short: Fundamentalismus als patriarchalische Protestbewegung
   type: book
@@ -6722,11 +6722,11 @@ references:
   publisher-place: Oxford
   source: Google Books
   tags:
-    - _further-reading
-    - 10-Orte
+    - Religion / History
     - History / Historical Geography
     - History / Middle East / Israel & Palestine
-    - Religion / History
+    - _further-reading
+    - 10-Orte
   title: 11. Pilgrimage
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29000335372/CourseNode/93668888136198/10_Walker+and+Hoyland+-+2018+-+11.+Pilgrimage.pdf

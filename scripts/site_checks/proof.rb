@@ -76,21 +76,26 @@ module SiteChecks
         # Map the OUTPUT html back to the SOURCE file (site 26rw/1.html → _course_26rw/2026-*-1.md).
         src = source_for_output(out_file, root)
 
+        # Report paths RELATIVE to the repo root so waivers (regexes in
+        # config/test_waivers.yml) match identically on macOS and in CI
+        # (where the repo lives at /home/runner/work/courses/courses).
+        rel = ->(p) { p && p.start_with?(root) ? p.delete_prefix("#{root}/") : p }
+
         kind = classify_kind(msg)
         next if kind == :skip
 
         if kind == :error
           errs += 1
           rep.emit severity: 'ERROR', check_id: 'proof',
-                   file: src || out_file, line: line,
-                   message: "#{msg} (output: #{out_file})",
+                   file: rel.call(src || out_file), line: line,
+                   message: "#{msg} (output: #{rel.call(out_file)})",
                    fix: fix_for(msg),
                    sanitizer: 'rewrite the link/src to the correct path'
         else
           warns += 1
           rep.emit severity: 'WARN', check_id: 'proof',
-                   file: src || out_file, line: line,
-                   message: "#{msg} (output: #{out_file})",
+                   file: rel.call(src || out_file), line: line,
+                   message: "#{msg} (output: #{rel.call(out_file)})",
                    fix: fix_for(msg)
         end
       end

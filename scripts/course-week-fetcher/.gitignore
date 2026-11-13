@@ -1,0 +1,8 @@
+# Course Week Fetcher — ignored working files
+# The generated JSON (class schedules) and logs are run outputs, not source.
+# They are never committed (acceptance: no secrets / no derived data in git).
+data/
+logs/
+*.log
+__pycache__/
+*.pyc

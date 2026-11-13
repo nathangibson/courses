@@ -142,3 +142,13 @@ Layouts compose with other reveal.js markup — fragment lists, backgrounds, etc
 
 </div>
 
+## Image credit popover on a slide
+
+{::nomarkdown}
+{% include image-caption.html url="/courses/assets/img/candle.jpg" alt="Kerze" %}
+{:/nomarkdown}
+
+Klick auf das Bild-Icon unten rechts — der Credit erscheint als Popover
+(Description, Source, Rights), ohne Bootstrap.
+
+
