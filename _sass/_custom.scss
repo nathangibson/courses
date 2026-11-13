@@ -93,6 +93,100 @@ automatically flex and fill row. */
 }
 
 /********************************************************************
+ * NATIVE POPOVER (feature: credit-popover)
+ *
+ * Image-credit popover without Bootstrap/jQuery. The trigger button and
+ * data-content attributes come from the shared image-caption include
+ * (vendor/jekyll-image-credits); this styles the floating popover element
+ * created by _includes/popover-init.html.
+ ********************************************************************/
+
+.native-popover {
+    display: none;
+    position: absolute;
+    z-index: 1000;
+    max-width: 420px;
+    padding: 0.75rem 1rem;
+    background: #fff;
+    color: #222;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.18);
+    font-size: 0.85rem;
+    line-height: 1.45;
+}
+/* the trigger button emitted by image-caption.html */
+button[data-toggle="popover"] {
+    cursor: pointer;
+    background: none;
+    border: none;
+    color: #999;
+    padding: 0.25rem;
+    font-size: 1rem;
+}
+button[data-toggle="popover"]:hover {
+    color: #222;
+}
+/* credit button overlaid on the featured image, bottom-right */
+.featured-image figure {
+    position: relative;      /* anchor for the absolute credit button */
+    margin: 0;
+}
+.credit-button-wrap {
+    position: absolute;
+    right: 0.5rem;
+    bottom: 0.5rem;
+    z-index: 10;
+}
+.credit-popover-btn {
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+}
+.credit-popover-btn:hover {
+    background: #fff;
+    color: #000;
+}
+/* auto-added credit button (image_credit_popover_hook): the hook wraps the
+   img + button in a relative container so the button overlays the image's
+   bottom-right corner — works in <p>, .image-container, and reveal sections. */
+.img-credit-wrap {
+    position: relative;
+    display: inline-block;
+    line-height: 0;              /* no stray space under the image */
+}
+.img-credit-wrap .credit-popover-btn {
+    position: absolute;
+    right: 0.4rem;
+    bottom: 0.4rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 50%;
+    width: 1.8rem;
+    height: 1.8rem;
+    color: #555;
+    z-index: 10;
+}
+.img-credit-wrap .credit-popover-btn:hover {
+    background: #fff;
+    color: #000;
+}
+/* On slides, reveal.js scales the whole canvas down, so small insets read
+   smaller on screen than on regular pages. Use a generous inset so the
+   button sits clearly inside the image, away from the corner. */
+.reveal .img-credit-wrap .credit-popover-btn {
+    right: 2rem;
+    bottom: 2rem;
+}
+
+/********************************************************************
  * SPLIT / MEDIA LAYOUTS (feature: slide-layout-css)
  *
  * Easy layout classes for a single reveal.js slide: split the slide
