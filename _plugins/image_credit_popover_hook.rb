@@ -55,6 +55,10 @@ module Jekyll
     parts = []
     parts << "Image: #{credit['description']}." if credit['description'].to_s != ''
     parts << "By #{credit['creator']}." if credit['creator'].to_s != ''
+    # Dates are optional (full date, year only, free text) — format_date
+    # returns '' when there is nothing usable, so the fragment is skipped.
+    date = Jekyll::ImageCreditFormat.date(credit['date'])
+    parts << "Date: #{date}." if date != ''
     parts << "#{credit['identifier']}." if credit['identifier'].to_s != ''
     if credit['publisher'].to_s != '' || credit['source_url'].to_s != ''
       src = ' Source:'

@@ -8,13 +8,15 @@
 {% endcomment %}
 {% assign img_url = site.baseurl | append: "/assets/img/" | append: image %}
 {% assign credit = img_url | image_credit %}
+{% assign credit_date_text = credit.date | credit_date %}
 <div class="featured-image">
     <figure class="position-relative">
       <img src="{{ img_url }}" />
-      {% if credit.description or credit.creator or credit.identifier or credit.publisher or credit.source_url or credit.rights %}
+      {% if credit.description or credit.creator or credit.identifier or credit.publisher or credit.source_url or credit.rights or credit_date_text != '' %}
       {%- capture credit_sentence -%}
         {%- if credit.description %}Image: {{ credit.description }}.{% endif %}
         {%- if credit.creator %} By {{ credit.creator }}.{% endif %}
+        {%- if credit_date_text != '' %} Date: {{ credit_date_text }}.{% endif %}
         {%- if credit.identifier %} {{ credit.identifier }}.{% endif %}
         {%- if credit.publisher or credit.source_url %} Source:
           {%- if credit.publisher %} {{ credit.publisher }}{% endif %}
