@@ -1342,3 +1342,33 @@ community-meeting:
   date: '2012-12-31T15:20:00'
   source_url: https://commons.wikimedia.org/wiki/File:Community_reconciliation_meeting_(8331341626).png
   rights: Public domain (work of USAID, PD-USGov)
+cultural-intelligence:
+  description: 'Figure from Thomas, Liao, Aycan et al., “Cultural Intelligence: A
+    Theory-Based, Short Form Measure”, Journal of International Business Studies 46,
+    no. 9 (2015): 1099–1118'
+  creator: David C. Thomas, Yuan Liao, Zeynep Aycan, et al.
+  date: '2015'
+  source_url: https://www.jstor.org/stable/1eebd6e8-2dce-33e8-8de2-b7f083fd51d2?seq=1
+  rights: "© 2015 Academy of International Business (Springer). Reproduced for classroom
+    use."
+entwicklungszusammenarbeit-logo:
+  description: Banner with the logo of German-Turkish development cooperation, photographed
+    in an educational institution in Bursa (Wikimedia Commons)
+  creator: Philrock (Wikimedia Commons)
+  date: '2023-09-15'
+  source_url: https://commons.wikimedia.org/wiki/File:Logo_der_deutsch_t%C3%BCrkischen_Entwicklungszusammenarbeit.jpg
+  rights: CC BY-SA 4.0
+recap:
+  description: 'Recap symbol: circular arrow pointing left with motion lines in a
+    rectangular frame (HD@DH.nrw, Wikimedia Commons)'
+  creator: HD@DH.nrw | Michelle Dahlmanns (Wikimedia Commons)
+  date: '2023-10-16'
+  source_url: https://commons.wikimedia.org/wiki/File:HD@DH.nrw_Wiederholung_2.svg
+  rights: CC BY-SA 4.0
+triandis-2001:
+  description: 'Figure from Triandis, “Individualism-Collectivism and Personality”,
+    Journal of Personality 69, no. 6 (2001): 907–924'
+  creator: Harry C. Triandis
+  date: 2001-12
+  source_url: https://doi.org/10.1111/1467-6494.696169
+  rights: "© 2001 Wiley Periodicals, Inc. Reproduced for classroom use."
