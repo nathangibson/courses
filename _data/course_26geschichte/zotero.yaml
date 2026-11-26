@@ -18,8 +18,8 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 11-Max-Weber
     - Max Weber
+    - 9-Max-Weber
   title: Max Weber - Die Entzauberung der Welt
   type: motion_picture
   URL: http://archive.org/details/maxweber-dieentzauberungderwelt
@@ -48,8 +48,8 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 5-Weltreligionen
     - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+    - 3-Friedrich-Max-Mueller
   title: 'The World''s Parliament of Religions: An illustrated and popular story of the world''s first parliament of religions, held in Chicago in connection with the Columbian Exposition of 1893'
   title-short: The World's Parliament of Religions
   type: book
@@ -82,8 +82,8 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 5-Weltreligionen
     - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+    - 3-Friedrich-Max-Mueller
   title: Greek philosophy and the Christian religion
   type: chapter
   URL: https://archive.org/details/worldsparliament02barruoft/page/n137
@@ -178,7 +178,7 @@ references:
   publisher-place: Konstanz
   tags:
     - _suggested
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: Die Funktionsweise des religiösen Feldes; Politische Macht und religiöse Macht
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/13-Bourdieu_Das+religio%CC%88se+Feld.pdf
@@ -215,7 +215,7 @@ references:
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
   tags:
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: Genèse et structure du champ religieux
   type: article-journal
   URL: https://www.persee.fr/doc/rfsoc_0035-2969_1971_num_12_3_1994
@@ -246,13 +246,13 @@ references:
   source: wrlc-gu.primo.exlibrisgroup.com
   tags:
     - Sociology
-    - 12-Pierre-Bourdieu
     - Periodicals
     - Périodiques
     - Sociaal-wetenschappelijk onderzoek
     - Sociologie$$QSociologie
     - Sociology$$QSociology
     - Vergelijkend onderzoek
+    - 10-Pierre-Bourdieu
   title: Genesis and Structure of the Religious Field
   translator:
     - family: Burnside
@@ -288,7 +288,7 @@ references:
   publisher-place: Konstanz
   tags:
     - _further-reading
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: 'Das religiöse Feld: Texte zur Ökonomie des Heilsgeschehens'
   title-short: Das religiöse Feld
   type: book
@@ -311,7 +311,7 @@ references:
   publisher-place: Berlin
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: 'Aby Warburg, der Indianer : Berliner Erkundungen einer liberalen Ethnologie'
   title-short: Aby Warburg, der Indianer
   type: book
@@ -349,7 +349,7 @@ references:
   language: de
   tags:
     - _further-reading
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: Pierre Bourdieu - Denker der feinen Unterschiede
   type: broadcast
   URL: https://www.br.de/mediathek/podcast/radiowissen/pierre-bourdieu-denker-der-feinen-unterschiede/1810844
@@ -377,7 +377,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: 'The magic city : a massive portfolio of original photographic views of the Great World''s Fair, and its treasures of art, including a vivid representation of the famous Midway Plaisance : a photographic and historical representation of the "Magic City" by-the-lake, with its vast treasures of the world''s art, reproduced in splendid realism, as it was seen by millions of visitors, in a series of 300 magnificent photographic views'
   title-short: The magic city
   type: book
@@ -481,8 +481,8 @@ references:
   source: ProQuest Ebook Central
   tags:
     - _suggested
-    - 8-Mary-Douglas
     - Taboo
+    - 7-Mary-Douglas
   title: 3. The Abominations of Leviticus
   type: chapter
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https://ebookcentral.proquest.com/lib/senc/reader.action?docID=1223047&ppg=50
@@ -511,7 +511,7 @@ references:
   publisher-place: Berlin
   tags:
     - _suggested
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: 3. Die Greuel des dritten Buchs Mose
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/08-Douglas-Reinheit+und+Gefa%CC%88hrdung.pdf
@@ -533,7 +533,7 @@ references:
   publisher-place: Oxford
   tags:
     - _further-reading
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: Leviticus as Literature
   type: book
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D728746
@@ -580,8 +580,8 @@ references:
   source: ProQuest Ebook Central
   tags:
     - _further-reading
-    - 8-Mary-Douglas
     - Taboo
+    - 7-Mary-Douglas
   title: 'Purity and Danger: An Analysis of Concepts of Pollution and Taboo'
   title-short: Purity and Danger
   type: book
@@ -609,7 +609,7 @@ references:
   publisher-place: Berlin
   tags:
     - _further-reading
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: Reinheit und Gefährdung. Eine Studie zu Vorstellungen von Verunreinigung und Tabu
   title-short: Reinheit und Gefährdung
   type: book
@@ -631,7 +631,7 @@ references:
   publisher-place: London
   tags:
     - _further-reading
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: Risk and Blame
   type: book
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D1222798
@@ -661,12 +661,12 @@ references:
   source: Library of Congress ISBN
   tags:
     - _further-reading
-    - 8-Mary-Douglas
     - Taboo
     - Douglas, Mary
     - Fear of contamination
     - Purity and danger
     - Purity, Ritual
+    - 7-Mary-Douglas
   title: 'Purity and danger now: new perspectives'
   title-short: Purity and danger now
   type: book
@@ -703,7 +703,7 @@ references:
   publisher-place: Frankfurt am Main
   tags:
     - _suggested
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Einleitung
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/07-Eliade_+Einleitung_Das+Heilige+und+das+Profane.pdf
@@ -735,7 +735,7 @@ references:
   publisher-place: Frankfurt am Main
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Das Heilige und das Profane. Vom Wesen des Religiösen
   title-short: Das Heilige und das Profane
   type: book
@@ -772,7 +772,7 @@ references:
   tags:
     - Religion
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: 'Mircea Eliade: Turning the ''Worm of Doubt'''
   type: chapter
   zotero_language: en
@@ -798,7 +798,7 @@ references:
   publisher-place: New York
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: 'The sacred and the profane: The nature of religion'
   title-short: The sacred and the profane
   translator:
@@ -823,7 +823,7 @@ references:
   publisher-place: London
   tags:
     - _further-reading
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: 'Mary Douglas : An Intellectual Biography'
   title-short: Mary Douglas
   type: book
@@ -851,7 +851,7 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 3-James-Frazer
+    - 4-James-Frazer
   title: 'Aftermath: A supplement to the Golden Bough'
   type: book
   URL: http://archive.org/details/aftermathasupple025677mbp
@@ -881,7 +881,7 @@ references:
   publisher-place: Frankfurt/Main
   tags:
     - _further-reading
-    - 3-James-Frazer
+    - 4-James-Frazer
   title: Der goldene Zweig. Eine Studie über Magie und Religion
   title-short: Der goldene Zweig
   type: book
@@ -902,7 +902,7 @@ references:
   source: www-tandfonline-com.proxy.ub.uni-frankfurt.de
   tags:
     - _further-reading
-    - 3-James-Frazer
+    - 4-James-Frazer
   title: The Frazerian roots of contemporary theories of religion and violence
   type: article-journal
   URL: https://www.tandfonline.com/doi/abs/10.1016/j.religion.2007.01.006
@@ -933,7 +933,7 @@ references:
   publisher-place: Frankfurt/Main
   tags:
     - _suggested
-    - 3-James-Frazer
+    - 4-James-Frazer
   title: IV. Zauberei und Religion
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/03-Frazer-Magie_Religion.pdf
@@ -1004,7 +1004,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: Purity and the Forming of Religious Traditions in the Ancient Mediterranean World and Ancient Judaism
   type: book
   URL: https://brill.com/view/title/21888
@@ -1071,11 +1071,11 @@ references:
     - _further-reading
     - Culture
     - Kultur
-    - 10-Clifford-Geertz
     - Ethnologie
     - Indonesien
     - Kulturanthropologie
     - Kulturelles System
+    - 11-Clifford-Geertz
   title: '»Deep Play«: Bemerkungen zum balinesischen Hahnenkampf'
   translator:
     - family: Luchesi
@@ -1111,11 +1111,11 @@ references:
     - _further-reading
     - Culture
     - Kultur
-    - 10-Clifford-Geertz
     - Ethnologie
     - Indonesien
     - Kulturanthropologie
     - Kulturelles System
+    - 11-Clifford-Geertz
   title: Dichte Beschreibung. Beiträge zum Verstehen kultureller Systeme
   title-short: Dichte Beschreibung
   translator:
@@ -1159,11 +1159,11 @@ references:
     - Culture
     - _suggested
     - Kultur
-    - 10-Clifford-Geertz
     - Ethnologie
     - Indonesien
     - Kulturanthropologie
     - Kulturelles System
+    - 11-Clifford-Geertz
   title: Dichte Beschreibung. Bemerkungen zu einer deutenden Theorie von Kultur
   translator:
     - family: Luchesi
@@ -1209,7 +1209,6 @@ references:
   tags:
     - _further-reading
     - Culture
-    - 10-Clifford-Geertz
     - Anthropology
     - Anthropology, Cultural
     - Antropologia Cult Social
@@ -1221,6 +1220,7 @@ references:
     - Mudanca Social
     - Religiao (Antropologia/Sociologia)
     - social anthropology
+    - 11-Clifford-Geertz
   title: 'The interpretation of cultures: selected essays'
   title-short: The interpretation of cultures
   type: book
@@ -1264,7 +1264,6 @@ references:
   tags:
     - Culture
     - _suggested
-    - 10-Clifford-Geertz
     - Anthropology
     - Anthropology, Cultural
     - Antropologia Cult Social
@@ -1276,6 +1275,7 @@ references:
     - Mudanca Social
     - Religiao (Antropologia/Sociologia)
     - social anthropology
+    - 11-Clifford-Geertz
   title: 'Thick description: Toward an interpretive theory of culture'
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/10-Geertz+-+1973+-+Thick+description+Toward+an+interpretive+theory+o.pdf
@@ -1298,7 +1298,7 @@ references:
   citation-key: GuideMirceaEliade
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Guide to the Mircea Eliade Papers 1926-1998
   type: webpage
   URL: https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.ELIADEM
@@ -1336,7 +1336,7 @@ references:
   source: SAGE Journals
   tags:
     - _further-reading
-    - 9-Victor-und-Edith-Turner
+    - 8-Victor-und-Edith-Turner
   title: 'Communitas revisited: Victor Turner and the transformation of a concept'
   title-short: Communitas revisited
   type: article-journal
@@ -1381,7 +1381,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _suggested
-    - 13-Jacques-Derrida
+    - Derrida
   title: Intervention — Interpretation Zu Jacques Derridas Dekonstruktion
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/content/pdf/10.1007/978-3-531-91822-8_3
@@ -1408,7 +1408,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: 'Broken Tablets : Levinas, Derrida, and the Literary Afterlife of Religion'
   title-short: Broken Tablets
   type: book
@@ -1446,7 +1446,7 @@ references:
   tags:
     - Religions
     - _further-reading
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: 'The World''s congress of religions: The addresses and papers delivered before the Parliament, and an abstract of the congresses held in the Art Institute, Chicago, Aug. 25 to Oct. 15, 1893, under the auspices of the World''s Columbian Exposition'
   title-short: The World's congress of religions
   type: book
@@ -1471,7 +1471,7 @@ references:
   source: Zotero
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: Max Weber - "Die protestantische Ethik und der Geist des Kapitalismus"
   type: article-journal
   zotero_language: de
@@ -1504,7 +1504,7 @@ references:
   publisher: Deutschlandfunk
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Der Einstein der Religionsgeschichte
   type: broadcast
   URL: https://www.deutschlandfunk.de/der-einstein-der-religionsgeschichte-100.html
@@ -1527,7 +1527,7 @@ references:
   language: en-US
   tags:
     - _further-reading
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: The Strangest Gathering of Men
   type: broadcast
   URL: https://podcasts.apple.com/us/podcast/history-this-week/id1493453604
@@ -1553,7 +1553,7 @@ references:
   source: YouTube
   tags:
     - _suggested
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: Pierre Bourdieu  - Die feinen Unterschiede
   type: motion_picture
   URL: https://www.youtube.com/watch?v=gQSYewA03BU
@@ -1582,7 +1582,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 9-Victor-und-Edith-Turner
+    - 8-Victor-und-Edith-Turner
   title: 'Victor Witter Turner : Eine Biografie'
   title-short: Victor Witter Turner
   type: book
@@ -1611,8 +1611,8 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 5-Weltreligionen
     - 'World''s Parliament of Religions (1893 : Chicago, Ill.)'
+    - 3-Friedrich-Max-Mueller
   title: 'Neely''s history of the Parliament of Religions and religious congresses of the World''s Columbian Exposition : compiled from original manuscripts and stenographic reports'
   title-short: Neely's history of the Parliament of Religions and religious congresses of the World's Columbian Exposition
   type: book
@@ -1678,7 +1678,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: The hermeneutics of faith and the hermeneutics of suspicion
   type: article-journal
   URL: http://www.jbe-platform.com/content/journals/10.1075/ni.14.1.01jos
@@ -1710,7 +1710,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: 'Max Weber : Eine Einführung in Leben, Werk und Wirkung'
   title-short: Max Weber
   type: book
@@ -1752,7 +1752,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: 'Pierre Bourdieu: Das religiöse Feld. Zur Ökonomie des Heilsgeschehens (2000)'
   title-short: Pierre Bourdieu
   type: chapter
@@ -1830,7 +1830,7 @@ references:
   publisher: Deutschlandfunk
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: 'Auf den Spuren von Aby Warburg bei den Pueblo-Gesellschaften: Der Eindringling mit der Katsina Maske'
   type: broadcast
   URL: https://www.hoerspielundfeature.de/der-eindringling-mit-der-katsina-maske-auf-den-spuren-von-aby-warburg-dlf-3647e594-100.html
@@ -1864,7 +1864,7 @@ references:
   source: K10plus ISBN
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: 'Kasten 117: Aby Warburg und der Aberglaube im Ersten Weltkrieg: [Vorträge, die auf einer Konferenz des Tübinger Sonderforschungsbereichs 437 "Kriegserfahrungen. Krieg und Gesellschaft in der Neuzeit" in Tübingen im März 2006 diskutiert worden sind]'
   title-short: Kasten 117
   type: book
@@ -1901,7 +1901,7 @@ references:
   source: journals.uchicago.edu (Atypon)
   tags:
     - _further-reading
-    - 3-James-Frazer
+    - 4-James-Frazer
   title: 'Kingship and divinity: The unpublished Frazer Lecture, Oxford, 28 October 1982'
   title-short: Kingship and divinity
   type: article-journal
@@ -1975,7 +1975,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: Introduction. Hermeneutics of Suspicion
   type: chapter
   URL: https://www.cambridge.org/core/product/identifier/9780511803055/type/book
@@ -2028,7 +2028,7 @@ references:
   page: 27–36
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: 'Happy Guilt: Mircea Eliade, fascism, and the unhappy fate of Romania'
   type: article-journal
   volume: '205'
@@ -2063,7 +2063,7 @@ references:
   publisher-place: Chicago
   tags:
     - _further-reading
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: 'Interregnum: Omnibus guide for looking toward the twentieth century'
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/05-Masuzawa+-+2005+-+Interregnum+Omnibus+guide+for+looking+toward+the+.pdf
@@ -2117,7 +2117,7 @@ references:
   publisher-place: Chicago
   tags:
     - _further-reading
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: 'The invention of world religions: Or, how European universalism was preserved in the language of pluralism'
   title-short: The invention of world religions
   type: book
@@ -2148,7 +2148,7 @@ references:
   publisher-place: Chicago
   tags:
     - _suggested
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: Preface and Introduction
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/05-Masuzawa-World+Religions.pdf
@@ -2171,7 +2171,7 @@ references:
   source: content-select-com.proxy.ub.uni-frankfurt.de
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: 'Max Weber revisited: Zur Aktualität eines Klassikers'
   title-short: Max Weber revisited
   type: book
@@ -2206,7 +2206,7 @@ references:
   license: text is US government work
   tags:
     - _further-reading
-    - 10-Clifford-Geertz
+    - 11-Clifford-Geertz
   title: 'Bali: Personality Formation - Margaret Mead: Human Nature and the Power of Culture | Exhibitions - Library of Congress'
   title-short: Bali
   type: webpage
@@ -2271,13 +2271,13 @@ references:
   tags:
     - hermeneutics
     - _further-reading
-    - 7-Mircea-Eliade
     - eternal time
     - Mircea Eliade
     - psychologist
     - religious experience
     - Romania
     - social value
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Mircea Eliade
   type: chapter
   URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/9781394261017.ch13
@@ -2310,7 +2310,7 @@ references:
   publisher-place: Leiden
   tags:
     - _further-reading
-    - 8-Mary-Douglas
+    - 7-Mary-Douglas
   title: The idea of purity in ancient Judaism
   type: book
   URL: https://ubffm.hds.hebis.de/Record/HEB022309985
@@ -2353,8 +2353,8 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 6-Rudolf-Otto
     - Holy
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Das Heilige. Über das Irrationale in der Idee des Göttlichen und sein Verhältnis zum Rationalen
   type: book
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
@@ -2384,8 +2384,8 @@ references:
   source: Internet Archive
   tags:
     - _suggested
-    - 6-Rudolf-Otto
     - Holy
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Kap. 1-4
   type: chapter
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/06-RudolfOtto_dasHeilige.pdf
@@ -2415,7 +2415,7 @@ references:
   source: Google Books
   tags:
     - _further-reading
-    - 5-Weltreligionen
+    - 3-Friedrich-Max-Mueller
   title: Das Religions-Parlament in Chicago
   type: article-magazine
   URL: https://www.google.de/books/edition/Deutsche_Rundschau/u29EAQAAMAAJ?hl=de&gbpv=1&pg=RA1-PA409&printsec=frontcover
@@ -2491,8 +2491,8 @@ references:
   source: Internet Archive
   tags:
     - _further-reading
-    - 5-Weltreligionen
     - Pictorial works
+    - 3-Friedrich-Max-Mueller
   title: 'Photographs of the World''s Fair: An elaborate collection of photographs of the buildings, grounds and exhibits of the World''s Columbian Exposition, with a special description of the famous Midway Plaisance'
   title-short: Photographs of the World's Fair
   type: book
@@ -2554,7 +2554,7 @@ references:
   publisher: Deutschlandfunk
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Emil Cioran - Ein Gedanke muss ätzen wie ein Gifttropfen
   type: broadcast
   URL: https://www.deutschlandfunk.de/emil-cioran-ein-gedanke-muss-aetzen-wie-ein-gifttropfen-100.html
@@ -2584,7 +2584,7 @@ references:
   page: 264–280
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Mircea Eliade's Understanding of Religion and Eastern Christian Thought.
   type: article-journal
   volume: '40'
@@ -2635,7 +2635,7 @@ references:
   source: link-springer-com.proxy.ub.uni-frankfurt.de
   tags:
     - _further-reading
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: 'Praxeologie: Struktur und Handeln (Pierre Bourdieu)'
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-531-18924-6_7
@@ -2704,7 +2704,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: Understanding Derrida
   type: book
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=http%3A%2F%2Febookcentral.proquest.com%2Flib%2Fsenc%2Fdetail.action%3FdocID%3D742434
@@ -2784,7 +2784,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: 'Hermeneutics of Suspicion: Scientology and Conspiracism'
   title-short: Hermeneutics of Suspicion
   type: chapter
@@ -2812,7 +2812,7 @@ references:
   publisher: Deutschlandfunk
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Religionsphilosoph Mircea Eliade - Heilung durch das Heilige
   type: broadcast
   URL: https://www.deutschlandfunk.de/religionsphilosoph-mircea-eliade-heilung-durch-das-heilige-100.html
@@ -2845,7 +2845,7 @@ references:
   publisher: Deutschlandfunk
   tags:
     - _further-reading
-    - 6-Rudolf-Otto
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: Theologe Rudolf Otto - Das heilige Geheimnis
   type: broadcast
   URL: https://www.deutschlandfunk.de/theologe-rudolf-otto-das-heilige-geheimnis-100.html
@@ -3040,7 +3040,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: Ricoeur Hermeneutics Suspicion
   type: book
 
@@ -3114,7 +3114,7 @@ references:
   source: journals.uchicago.edu (Atypon)
   tags:
     - _further-reading
-    - 3-James-Frazer
+    - 4-James-Frazer
   title: When the Bough Breaks
   type: article-journal
   URL: https://www.journals.uchicago.edu/doi/10.1086/462686
@@ -3143,7 +3143,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: 'Max Webers unwiderlegbare Fehlkonstruktionen : Die protestantische Ethik und der Geist des Kapitalismus'
   title-short: Max Webers unwiderlegbare Fehlkonstruktionen
   type: book
@@ -3259,7 +3259,7 @@ references:
   source: academic-oup-com.proxy.ub.uni-frankfurt.de
   tags:
     - _further-reading
-    - 12-Pierre-Bourdieu
+    - 10-Pierre-Bourdieu
   title: 'Bourdieu on Religion: Imposing Faith and Legitimacy'
   title-short: Bourdieu on Religion
   type: article-journal
@@ -3343,7 +3343,7 @@ references:
   source: K10plus ISBN
   tags:
     - _further-reading
-    - 13-Jacques-Derrida
+    - Derrida
   title: Derrida und danach? Literaturtheoretische Diskurse der Gegenwart
   title-short: Derrida und danach?
   type: book
@@ -3382,7 +3382,7 @@ references:
   source: publikationen.ub.uni-frankfurt.de
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: Überlegungen zu Entstehung, Begriff und Methode von Aby Warburgs Bilderatlas
   type: article-journal
   URL: http://publikationen.ub.uni-frankfurt.de/frontdoor/index/index/docId/47205
@@ -3410,7 +3410,7 @@ references:
   language: en-US
   tags:
     - _further-reading
-    - 7-Mircea-Eliade
+    - 6-Rudolf-Otto-und-Mircea-Eliade
   title: MIRCEA ELIADE; U. OF C. RELIGION PROF EMERITUS
   type: post-weblog
   URL: https://www.chicagotribune.com/1986/04/23/mircea-eliade-u-of-c-religion-prof-emeritus/
@@ -3457,7 +3457,7 @@ references:
   source: Google Scholar
   tags:
     - _suggested
-    - 9-Victor-und-Edith-Turner
+    - 8-Victor-und-Edith-Turner
   title: 'Betwixt and between: The liminal period in rites of passage'
   title-short: Betwixt and between
   type: chapter
@@ -3488,7 +3488,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 9-Victor-und-Edith-Turner
+    - 8-Victor-und-Edith-Turner
   title: 'The forest of symbols : aspects of Ndembu ritual'
   title-short: The forest of symbols
   type: book
@@ -3563,7 +3563,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 9-Victor-und-Edith-Turner
+    - 8-Victor-und-Edith-Turner
   title: 'Das Ritual : Struktur und Anti-Struktur'
   title-short: Das Ritual
   type: book
@@ -3741,9 +3741,9 @@ references:
   publisher-place: London
   source: Internet Archive
   tags:
+    - Civilization
     - _further-reading
     - 2-Edward-Tylor
-    - Civilization
   title: 'Primitive culture: Researches into the development of mythology, philosophy, religion, art, and custom'
   title-short: Primitive culture
   type: book
@@ -3825,7 +3825,7 @@ references:
   citation-key: VideoAudioClifford
   tags:
     - _further-reading
-    - 10-Clifford-Geertz
+    - 11-Clifford-Geertz
   title: 'Video & Audio: Clifford Geertz - Metadata'
   type: webpage
   URL: https://www.sms.cam.ac.uk/media/1092398
@@ -3848,7 +3848,7 @@ references:
   language: en
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: 'Virtual Tour - Aby Warburg: Bilderatlas Mnemosyne exhibition at Haus der Kulturen der Welt | The Warburg Institute'
   title-short: Virtual Tour - Aby Warburg
   type: webpage
@@ -3871,7 +3871,7 @@ references:
   source: Open WorldCat
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: 'Heinrich Böll: Anekdote zur Senkung der Arbeitsmoral'
   title-short: Heinrich Böll
   type: article-journal
@@ -3899,7 +3899,7 @@ references:
   publisher-place: Berlin
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: 'Aby Warburg: Bilderatlas MNEMOSYNE : the original'
   title-short: Aby Warburg
   type: book
@@ -3931,7 +3931,7 @@ references:
   source: Google Scholar
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: Heidnisch-antike Weissagung in Wort und Bild zu Luthers Zeiten
   type: article-journal
   URL: https://d-nb.info/110905758X/34
@@ -3973,7 +3973,7 @@ references:
   source: directory.doabooks.org
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: Images from the Region of the Pueblo Indians of North America
   type: book
   URL: https://library.oapen.org/bitstream/20.500.12657/62133/1/9781501707704.pdf
@@ -4007,7 +4007,6 @@ references:
   source: Open WorldCat
   tags:
     - _suggested
-    - 4-Aby-Warburg
     - Folklore
     - New Mexico
     - New Mexico Description and travel
@@ -4025,6 +4024,7 @@ references:
     - Travel
     - Warburg, Aby, 1866-1929
     - Warburg, Aby, 1866-1929 Travel New Mexico
+    - 5-Aby-Warburg
   title: Schlangenritual. Ein Reisebericht
   type: document
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/04-Warburg_Schlangenritual-Text.pdf
@@ -4058,7 +4058,6 @@ references:
   source: Open WorldCat
   tags:
     - _further-reading
-    - 4-Aby-Warburg
     - Folklore
     - New Mexico
     - New Mexico Description and travel
@@ -4076,6 +4075,7 @@ references:
     - Travel
     - Warburg, Aby, 1866-1929
     - Warburg, Aby, 1866-1929 Travel New Mexico
+    - 5-Aby-Warburg
   title: Schlangenritual. Ein Reisebericht
   type: book
   URL: https://d-nb.info/1011528991/04
@@ -4098,7 +4098,7 @@ references:
   publisher-place: Berlin
   tags:
     - _further-reading
-    - 4-Aby-Warburg
+    - 5-Aby-Warburg
   title: Werke in einem Band
   type: book
 
@@ -4145,7 +4145,7 @@ references:
   publisher-place: Tübingen
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: Die protestantische Ethik und der Geist des Kapitalismus
   type: book
 
@@ -4188,7 +4188,7 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: Die protestantische Ethik und der "Geist" des Kapitalismus
   type: book
   URL: http://link.springer.com/10.1007/978-3-658-07432-6
@@ -4219,7 +4219,7 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: 'Die protestantische Ethik und der "Geist" des Kapitalismus : Neuausgabe der ersten Fassung von 1904-05 mit einem Verzeichnis der wichtigsten Zusätze und Veränderungen aus der zweiten Fassung von 1920. Herausgegeben und eingeleitet von Klaus Lichtblau und Johannes Weiß'
   title-short: Die protestantische Ethik und der "Geist" des Kapitalismus
   type: book
@@ -4254,7 +4254,7 @@ references:
   source: Open WorldCat
   tags:
     - _further-reading
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: Die protestantische Ethik und der Geist des Kapitalismus / Die protestantischen Sekten und der Geist des Kapitalismus Schriften 1904-1920
   type: book
   URL: http://deposit.d-nb.de/cgi-bin/dokserv?id=3b29521b2b654db6ade783becf795671&prov=M&dok_var=1&dok_ext=htm
@@ -4275,7 +4275,7 @@ references:
   language: de
   tags:
     - _suggested
-    - 11-Max-Weber
+    - 9-Max-Weber
   title: Handout - Max Weber
   type: document
   URL: https://olat-ce.server.uni-frankfurt.de/olat/auth/RepositoryEntry/29082026001/CourseNode/93668888136198/11_12_Handout_MaxWeber.docx
