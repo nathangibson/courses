@@ -29,10 +29,11 @@ references:
   publisher: Sage Publications, Ltd.
   source: JSTOR
   tags:
-    - _conflict
+    - _required
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
+    - 8-Conflict
   title: 'Conflict Resolution, Culture, and Religion: Toward a Training Model of Interreligious Peacebuilding'
   title-short: Conflict Resolution, Culture, and Religion
   type: article-journal
@@ -65,15 +66,15 @@ references:
   publisher: Routledge
   source: Taylor and Francis+NEJM
   tags:
-    - _further-reading
-    - _religion
-    - 4-Religion
     - Christianity
+    - Islam
+    - Syria
     - dialogue
     - ethics
     - interfaith
-    - Islam
-    - Syria
+    - _further-reading
+    - 4-Religion
+    - _religion
   title: 'Inter-religious Dialogue in Syria: Politics, Ethics and Miscommunication'
   title-short: Inter-religious Dialogue in Syria
   type: article-journal
@@ -118,9 +119,9 @@ references:
   page: 31–40
   source: ScienceDirect
   tags:
+    - Intercultural communication
     - Ethnocentrism
     - Ethnorelativism
-    - Intercultural communication
     - Intercultural sensitivity
     - Shia Muslim
     - Sunni Muslim
@@ -162,8 +163,8 @@ references:
     - year: -2027
   language: en-GB
   tags:
-    - _further-reading
     - _required
+    - _further-reading
     - 3-Inventory
   title: Autobiography of Intercultural Encounters
   type: webpage
@@ -243,12 +244,12 @@ references:
   source: Cambridge University Press
   tags:
     - _further-reading
-    - _intercultural-competence
-    - 3-Inventory
+    - intercultural communication
     - constructivism
     - DMIS
     - ICC
-    - intercultural communication
+    - _intercultural-competence
+    - 3-Inventory
   title: A Constructivist Approach to Assessing Intercultural Communication Competence
   type: chapter
   URL: https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-handbook-of-intercultural-communication/constructivist-approach-to-assessing-intercultural-communication-competence/744380352CFC917F0F0FAAAA10ECD7C8
@@ -289,10 +290,10 @@ references:
   publisher-place: New York
   source: EBSCOhost
   tags:
-    - _further-reading
     - _required
-    - 5-Gender
+    - _further-reading
     - Ethnopsychology
+    - 5-Gender
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
   title: Gender and culture
@@ -390,11 +391,11 @@ references:
   source: DOI.org (Datacite)
   tags:
     - _further-reading
+    - faith
+    - belief
+    - 4-Religion
     - _religion
     - 3-Inventory
-    - 4-Religion
-    - belief
-    - faith
   title: Supernatural Belief Scale (SBS)
   type: article-journal
   URL: https://next.hessenbox.de/index.php/f/824771562
@@ -425,10 +426,10 @@ references:
   source: DOI.org (Datacite)
   tags:
     - _further-reading
-    - 3-Inventory
     - female labor
     - gender role
     - stereotype
+    - 3-Inventory
   title: Gender-role attitudes (ISSP 94)
   type: article-journal
   URL: http://zis.gesis.org/DoiId/zis223
@@ -504,8 +505,8 @@ references:
   source: Springer Link
   tags:
     - _further-reading
-    - _intercultural-competence
     - S-HA
+    - _intercultural-competence
   title: Verbesserung interkultureller Handlungskompetenz
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-531-92764-0_11
@@ -542,8 +543,8 @@ references:
   section: Handbook on Communication and Culture
   source: www-elgaronline-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _conflict
     - _further-reading
+    - 8-Conflict
   title: Navigating intercultural conflict
   type: chapter
   URL: https://www-elgaronline-com.proxy.ub.uni-frankfurt.de/edcollchap/book/9781035321605/chapter7.xml
@@ -629,8 +630,8 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: Cultures, communication, and contexts of intercultural communication
   type: chapter
   URL: https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9781501500060-001/html
@@ -718,14 +719,14 @@ references:
   publisher: Routledge
   source: Taylor and Francis+NEJM
   tags:
+    - religion
+    - secularism
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
     - alternative development
     - meaning
-    - religion
     - secularisation
-    - secularism
   title: 'Beyond functionality: religion and international development'
   title-short: Beyond functionality
   type: article-journal
@@ -767,12 +768,12 @@ references:
   publisher-place: Cambridge
   source: Cambridge University Press
   tags:
-    - _further-reading
-    - 1-Introduction
-    - cosmopolitanism
-    - culture
     - dialogue
+    - 1-Introduction
+    - _further-reading
+    - culture
     - intercultural communication
+    - cosmopolitanism
     - non-essentialism
     - posthumanism
   title: What Is Culture?
@@ -844,8 +845,8 @@ references:
   source: Springer Link
   tags:
     - _further-reading
-    - _intercultural-competence
     - S-HA
+    - _intercultural-competence
   title: Verfahren und Ansätze zur Förderung interkultureller Kompetenz
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_7
@@ -889,8 +890,8 @@ references:
   source: Springer Link
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: Werte und Moral
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_5
@@ -925,14 +926,14 @@ references:
   source: Taylor and Francis+NEJM
   tags:
     - _further-reading
-    - _religion
-    - 4-Religion
-    - communication accommodation theory (CAT)
     - Intercultural communication
+    - tolerance
+    - 4-Religion
+    - _religion
+    - communication accommodation theory (CAT)
     - intercultural competence
     - local wisdom
     - Rejeban tradition
-    - tolerance
   title: The Role of Intercultural Competence and Local Wisdom in Building Intercultural and Inter-religious Tolerance
   type: article-journal
   URL: https://doi.org/10.1080/17475759.2019.1639535
@@ -964,12 +965,12 @@ references:
   publisher: Bertelsmann Stiftung
   source: DOI.org (Datacite)
   tags:
-    - _friendship
+    - Religion
     - _further-reading
     - Freundschaft
     - Gesellschaftlicher Zusammenhalt
-    - Religion
     - Solidarität
+    - _friendship
   title: 'Zusammenhalt in Krisenzeiten: Jüdisch-muslimische Freundschaften in Frankfurt am Main'
   title-short: Zusammenhalt in Krisenzeiten
   type: article-journal
@@ -1012,8 +1013,8 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _conflict
     - _further-reading
+    - 8-Conflict
   title: Intercultural and multicultural approaches to crisis communication
   type: chapter
   URL: https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110554236-026/html
@@ -1049,8 +1050,8 @@ references:
   publisher: De Gruyter
   source: DOI.org (Crossref)
   tags:
-    - _conflict
     - _reference
+    - 8-Conflict
   title: Crisis Communication
   type: book
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1515%2F9783110554236
@@ -1132,7 +1133,6 @@ references:
   source: DOI.org (Datacite)
   tags:
     - _further-reading
-    - 3-Inventory
     - Acculturation
     - Challenged Sense of Belonging Scale
     - CSBS
@@ -1141,6 +1141,7 @@ references:
     - Refugees
     - Scale validation
     - Sense of belonging
+    - 3-Inventory
   title: The Challenged Sense of Belonging Scale (CSBS)
   type: article-journal
   URL: https://zis.gesis.org/DoiId/zis306_exz
@@ -1175,11 +1176,11 @@ references:
   publisher-place: New York
   source: EBSCOhost
   tags:
-    - _development
     - _further-reading
     - Ethnopsychology
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
+    - _development
   title: Culture, context, and development
   type: chapter
   URL: https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/ebook-viewer/pdf/2mfxsu4xjv/section/lp_101#
@@ -1217,8 +1218,8 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _friendship
     - _further-reading
+    - _friendship
   title: Intercultural friendship and communication
   type: chapter
   URL: https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9781501500060-021/html
@@ -1244,13 +1245,13 @@ references:
   publisher-place: New York, NY
   source: Library of Congress ISBN
   tags:
-    - _reference
     - Communication
+    - Social aspects
+    - _reference
+    - S-HA
     - Group identity
     - Intercultural communication
     - Intergroup relations
-    - S-HA
-    - Social aspects
   title: The handbook of intergroup communication
   type: book
 
@@ -1280,8 +1281,8 @@ references:
   source: Google Books
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
     - Business & Economics / Development / Economic Development
     - Political Science / NGOs (Non-Governmental Organizations)
     - Social Science / Developing & Emerging Countries
@@ -1460,10 +1461,10 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
-    - _further-reading
-    - 3-Inventory
-    - Einstellung
     - Religion
+    - _further-reading
+    - Einstellung
+    - 3-Inventory
   title: Einstellungen zur Religion und ihren Institutionen
   type: article-journal
   URL: http://zis.gesis.org/DoiId/zis142
@@ -1499,10 +1500,10 @@ references:
   publisher: Verlag Herder GmbH
   source: Google Books
   tags:
-    - _further-reading
-    - _religion
-    - 4-Religion
     - Religion / Theology
+    - _further-reading
+    - 4-Religion
+    - _religion
   title: 'Macht im interreligiösen Dialog: Interdisziplinäre Perspektiven'
   title-short: Macht im interreligiösen Dialog
   type: book
@@ -1544,8 +1545,8 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyter-com.emedien.ub.uni-muenchen.de
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
     - 2-Styles
   title: Intercultural communication and the relevance of cultural specific repertoires of communicative genres
   type: chapter
@@ -1591,8 +1592,8 @@ references:
   source: EBSCOhost
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
     - Adulthood (18 yrs & older)
     - Age Differences
     - Childhood (birth-12 yrs)
@@ -1712,8 +1713,8 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: 'Religion in international relations: The return from exile'
   title-short: Religion in international relations
   type: book
@@ -1766,12 +1767,12 @@ references:
   publisher-place: Cambridge, United Kingdom ; New York, NY, USA
   source: Library of Congress ISBN
   tags:
-    - _further-reading
-    - _religion
-    - 4-Religion
-    - Populism
     - Social aspects
+    - _further-reading
     - Social change
+    - 4-Religion
+    - _religion
+    - Populism
     - Social values
   title: 'Cultural evolution: people''s motivations are changing, and reshaping the world'
   title-short: Cultural evolution
@@ -1806,8 +1807,8 @@ references:
   source: Google Books
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
     - SOCIAL SCIENCE / General
   title: 'Human Values and Beliefs: A Cross-cultural Sourcebook : Political, Religious, Sexual, and Economic Norms in 43 Societies ; Findings from the 1990-1993 World Value Survey'
   title-short: Human Values and Beliefs
@@ -1839,8 +1840,8 @@ references:
   source: Cambridge University Press
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: 'Modernization, Cultural Change, and Democracy: The Human Development Sequence'
   title-short: Modernization, Cultural Change, and Democracy
   type: book
@@ -1872,8 +1873,8 @@ references:
   source: Oxford University Press
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: 'Religion''s Sudden Decline: What''s Causing it, and What Comes Next?'
   title-short: Religion's Sudden Decline
   type: book
@@ -1971,8 +1972,8 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: 'Morality in everyday life: Developmental perspectives'
   title-short: Morality in everyday life
   type: book
@@ -2102,8 +2103,8 @@ references:
   publisher-place: Stuttgart
   source: Springer Link
   tags:
-    - _development
     - _further-reading
+    - _development
   title: Entwicklungszusammenarbeit
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_6
@@ -2189,8 +2190,8 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyter-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
     - Applied linguistics
     - international and intercultural communication
     - S-HA
@@ -2282,8 +2283,8 @@ references:
   publisher-place: Berlin, Heidelberg
   source: DOI.org (Crossref)
   tags:
-    - _friendship
     - _further-reading
+    - _friendship
   title: 'Zusammenhalt in Zeiten der Krise: Perspektiven auf „Civic Social Responsibility“ in hessischen Kommunen'
   title-short: Zusammenhalt in Zeiten der Krise
   type: chapter
@@ -2351,8 +2352,8 @@ references:
   section: Handbook on Communication and Culture
   source: www-elgaronline-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _acculturation
     - _further-reading
+    - _acculturation
   title: Understanding pluralistic societies through acculturation and intercultural communication
   type: chapter
   URL: https://www-elgaronline-com.proxy.ub.uni-frankfurt.de/edcollchap/book/9781035321605/chapter19.xml
@@ -2398,14 +2399,14 @@ references:
   publisher-place: Cambridge
   source: Cambridge University Press
   tags:
-    - _further-reading
-    - _religion
-    - 4-Religion
-    - German
-    - intercultural communication
     - literature
+    - _further-reading
+    - German
     - memory
+    - 4-Religion
+    - intercultural communication
     - narrative
+    - _religion
   title: Religion and Intercultural Communication
   type: chapter
   URL: https://www-cambridge-org.proxy.ub.uni-frankfurt.de/core/books/cambridge-handbook-of-intercultural-communication/religion-and-intercultural-communication/F2CBBA2164235C2B4008C6CEDB8E5E2B
@@ -2434,12 +2435,12 @@ references:
   source: DOI.org (Datacite)
   tags:
     - _further-reading
-    - 3-Inventory
-    - Akkulturation
     - Deutschland
-    - Herkunftsland
     - Migrant
     - Migrationshintergrund
+    - Akkulturation
+    - Herkunftsland
+    - 3-Inventory
   title: Akkulturationsorientierung bei Migrantinnen und Migranten (AKOrM)
   type: article-journal
   URL: https://zis.gesis.org/DoiId/zis264
@@ -2507,8 +2508,8 @@ references:
   publisher-place: New York
   source: EBSCOhost
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
     - Ethnopsychology
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
@@ -2544,8 +2545,8 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: Classification of Types of Interreligious Dialogue
   type: article-journal
   URL: https://www.elibrary.ru/item.asp?id=43767473
@@ -2574,8 +2575,8 @@ references:
   source: Google Scholar
   tags:
     - _further-reading
-    - _individualism-collectivism
     - 2-Styles
+    - _individualism-collectivism
   title: Individualism-collectivism and saving face
   type: chapter
 
@@ -2612,8 +2613,8 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - _individualism-collectivism
     - 2-Styles
+    - _individualism-collectivism
   title: 'The relationship between individualism / collectivism: Consultation and harmony needs'
   type: article-journal
   URL: https://doi.org/10.36923/jicc.v15i3.704
@@ -2626,9 +2627,9 @@ references:
       month: 2
       day: 4
   attachments:
-    - title: Meurs_Spencer-Oatey_2008_Multidisciplinary perspectives on intercultural conflict.pdf
+    - title: PDF
       url: http://www.degruyter.com/document/doi/10.1515/9783110198584.1.99/pdf
-      path: /Users/nathan/app-files/Zotero/storage/ZMBIHZAC/Meurs_Spencer-Oatey_2008_Multidisciplinary perspectives on intercultural conflict.pdf
+      path: /Users/nathan/app-files/Zotero/storage/ZMBIHZAC/Meurs and Spencer-Oatey - 2008 - Multidisciplinary perspectives on intercultural conflict the ‘Bermuda Triangle’ of conflict, cultur.pdf
       key: ZMBIHZAC
       type: pdf
   author:
@@ -2657,10 +2658,10 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyter-com.emedien.ub.uni-muenchen.de
   tags:
-    - _conflict
-    - _further-reading
-    - _individualism-collectivism
+    - _required
     - 2-Styles
+    - _individualism-collectivism
+    - 8-Conflict
   title: 'Multidisciplinary perspectives on intercultural conflict: the ‘Bermuda Triangle’ of conflict, culture and communication'
   title-short: 6. Multidisciplinary perspectives on intercultural conflict
   type: chapter
@@ -2702,11 +2703,11 @@ references:
   source: EBSCOhost
   tags:
     - _further-reading
-    - _religion
-    - 4-Religion
     - Ethnopsychology
+    - 4-Religion
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
+    - _religion
   title: Culture and moral development
   type: chapter
   URL: https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/ebook-viewer/pdf/2mfxsu4xjv/section/lp_151#
@@ -2738,8 +2739,8 @@ references:
   source: COinS
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: 'Development in the context of everyday family relationships: Culture, interpersonal morality, and adaptation'
   type: chapter
   URL: https://ubffm.hds.hebis.de/Record/HEB048915661
@@ -2770,13 +2771,13 @@ references:
   publisher: Routledge
   source: Taylor and Francis+NEJM
   tags:
-    - _further-reading
-    - _religion
-    - 4-Religion
     - grassroots empowerment
     - human dignity
     - interfaith cooperation
     - interfaith dialogue
+    - _further-reading
+    - 4-Religion
+    - _religion
   title: 'Interfaith Dialogue at the Grassroots Level: A Case Study of an Interfaith Empowerment Program in East Java, Indonesia'
   title-short: Interfaith Dialogue at the Grassroots Level
   type: article-journal
@@ -2815,8 +2816,8 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyterbrill-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _ethnocentrism
     - _further-reading
+    - _ethnocentrism
   title: Ethnocentrism and intercultural communication
   type: chapter
   URL: https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9781501500060-015/html
@@ -2859,8 +2860,8 @@ references:
   publisher-place: Stuttgart
   source: Springer Link
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: Kommunikation
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_2
@@ -2944,14 +2945,14 @@ references:
   publisher: Routledge
   source: Taylor and Francis+NEJM
   tags:
-    - _further-reading
-    - _religion
-    - 4-Religion
     - Interfaith dialogue
     - participation
     - policy
     - questions
     - representation
+    - _further-reading
+    - 4-Religion
+    - _religion
   title: 'Interfaith dialogue: seven key questions for theory, policy and practice'
   title-short: Interfaith dialogue
   type: article-journal
@@ -2964,6 +2965,12 @@ references:
     - year: 2026
       month: 10
       day: 28
+  attachments:
+    - title: PDF
+      url: ''
+      path: /Users/nathan/app-files/Zotero/storage/PZPWFRG8/Parker Gumucio - 2008 - Interculturality, Conflicts and Religion Theoretical Perspectives.pdf
+      key: PZPWFRG8
+      type: pdf
   author:
     - family: Parker Gumucio
       given: Cristián
@@ -2984,10 +2991,10 @@ references:
   page: 316–329
   source: DOI.org (Crossref)
   tags:
-    - _conflict
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
+    - 8-Conflict
   title: 'Interculturality, Conflicts and Religion: Theoretical Perspectives'
   title-short: Interculturality, Conflicts and Religion
   type: article-journal
@@ -3033,8 +3040,8 @@ references:
   source: Springer Link
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: Religion
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_5
@@ -3110,8 +3117,8 @@ references:
   source: Zotero
   tags:
     - _further-reading
-    - _intercultural-competence
     - S-HA
+    - _intercultural-competence
   title: Interkulturelle Kompetenz—Zustand und Zukunft eines umstrittenen Konzepts
   type: article-journal
   URL: http://stefanie-rathje.de/wp-content/uploads/2014/08/Rathje_Interkulturelle-Kompetenz_2006.pdf
@@ -3140,8 +3147,8 @@ references:
   source: www.tandfonline.com
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: Is religion a force for good? Reformulating the discourse on religion and international development
   title-short: Is religion a force for good?
   type: article-journal
@@ -3241,9 +3248,9 @@ references:
   publisher: De Gruyter Mouton
   source: www-degruyter-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _development
     - _further-reading
     - S-HA
+    - _development
   title: Intercultural communication in healthcare settings
   type: chapter
   URL: https://www-degruyter-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110198584.3.243/html
@@ -3344,8 +3351,8 @@ references:
   section: Handbook on Communication and Culture
   source: www-elgaronline-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: 'The theoretical landscape of intercultural communication: part I'
   title-short: The theoretical landscape of intercultural communication
   type: chapter
@@ -3383,8 +3390,8 @@ references:
   section: Handbook on Communication and Culture
   source: www-elgaronline-com.proxy.ub.uni-frankfurt.de
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: 'The theoretical landscape of intercultural communication: part II'
   title-short: The theoretical landscape of intercultural communication
   type: chapter
@@ -3432,8 +3439,8 @@ references:
   publisher-place: Stuttgart
   source: Springer Link
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: Einleitung
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_1
@@ -3515,8 +3522,8 @@ references:
   publisher-place: Stuttgart
   source: Springer Link
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: Kultur
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_2
@@ -3558,11 +3565,11 @@ references:
   publisher-place: Cambridge
   source: Cambridge University Press
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
     - diversity
-    - interaction
     - intercultural communication
+    - interaction
     - mediation
     - multilingualism
   title: What Is Intercultural Communication?
@@ -3700,11 +3707,11 @@ references:
   publisher: ZIS - GESIS Leibniz Institute for the Social Sciences
   source: DOI.org (Datacite)
   tags:
-    - _further-reading
     - _required
-    - 3-Inventory
+    - _further-reading
     - intercultural factors
     - social competence
+    - 3-Inventory
   title: Short Form Cultural Intelligence Scale (SFCQ)
   type: article-journal
   URL: https://next.hessenbox.de/index.php/f/810943841
@@ -3736,8 +3743,8 @@ references:
   source: DOI.org (Crossref)
   tags:
     - _further-reading
-    - _individualism-collectivism
     - 2-Styles
+    - _individualism-collectivism
   title: Applying Dimensional Values in Understanding Intercultural Communication
   type: article-journal
   URL: https://www-tandfonline-com.proxy.ub.uni-frankfurt.de/doi/full/10.1080/03637751003790428
@@ -3782,13 +3789,13 @@ references:
   publisher-place: New York
   source: EBSCOhost
   tags:
-    - _further-reading
-    - _individualism-collectivism
     - _required
-    - 2-Styles
+    - _further-reading
     - Ethnopsychology
+    - 2-Styles
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
+    - _individualism-collectivism
   title: 'Individualism and collectivism: Past, present, and future'
   type: chapter
   URL: https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/ebook-viewer/pdf/2mfxsu4xjv/section/lp_35#
@@ -3822,8 +3829,8 @@ references:
   publisher-place: New York
   source: EBSCOhost
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
     - Ethnopsychology
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
@@ -3909,11 +3916,11 @@ references:
   source: DOI.org (Datacite)
   tags:
     - _further-reading
-    - 3-Inventory
     - cross-culturality
     - culture
     - customs
     - interculturality
+    - 3-Inventory
   title: Cross-Cultural Loss Scale (CCLS)
   type: article-journal
   URL: https://zis.gesis.org/DoiId/zis262
@@ -3994,12 +4001,12 @@ references:
   publisher-place: New York
   source: EBSCOhost
   tags:
-    - _acculturation
     - _further-reading
-    - _intercultural-competence
     - Ethnopsychology
     - Personality and culture
     - PSYCHOLOGY / Cultural Psychology
+    - _acculturation
+    - _intercultural-competence
   title: The A, B, Cs of acculturation
   type: chapter
   URL: https://research-ebsco-com.proxy.ub.uni-frankfurt.de/c/bjlvpg/ebook-viewer/pdf/2mfxsu4xjv/section/lp_411#
@@ -4042,8 +4049,8 @@ references:
   publisher-place: Stuttgart
   source: Springer Link
   tags:
-    - _acculturation
     - _further-reading
+    - _acculturation
   title: Akkulturation und interkulturelles Lernen
   type: chapter
   URL: https://link-springer-com.proxy.ub.uni-frankfurt.de/chapter/10.1007/978-3-476-05019-9_5
@@ -4085,9 +4092,9 @@ references:
   publisher-place: Cambridge
   source: Cambridge University Press
   tags:
-    - _religion
     - _required
     - 4-Religion
+    - _religion
   title: Value Change and the Persistence of Cultural Traditions
   type: chapter
   URL: http://proxy.ub.uni-frankfurt.de/login?qurl=https%3A%2F%2Fdoi.org%2F10.1017%2FCBO9780511790881.005
@@ -4170,8 +4177,8 @@ references:
   citation-key: WVSDatabase
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: WVS Database
   type: webpage
   URL: https://www.worldvaluessurvey.org/WVSContents.jsp
@@ -4187,8 +4194,8 @@ references:
   citation-key: WVSDatabasea
   tags:
     - _further-reading
-    - _religion
     - 4-Religion
+    - _religion
   title: WVS Database
   type: webpage
   URL: https://www.worldvaluessurvey.org/WVSContents.jsp
@@ -4227,8 +4234,8 @@ references:
   publisher: Mouton de Gruyter
   source: DOI.org (Crossref)
   tags:
-    - _further-reading
     - 1-Introduction
+    - _further-reading
   title: A cognitive pragmatic perspective on communication and culture
   type: chapter
   URL: https://www-degruyterbrill-com.proxy.ub.uni-frankfurt.de/document/doi/10.1515/9783110198584.1.31/html
